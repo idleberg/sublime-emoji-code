@@ -1,4 +1,4 @@
-# sublime-emoji-code
+# emoji-code
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 [![Package Control](https://packagecontrol.herokuapp.com/downloads/Emoji%20code.svg?style=flat-square)](https://packagecontrol.io/packages/Emoji%20code)
