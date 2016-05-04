@@ -10,9 +10,9 @@
 
 Sublime Text snippets to insert escaped Emoji code into HTML and CSS.
 
-![Screenshot](https://raw.github.com/idleberg/sublime-emoji-code/master/screenshot.png)
+![Screenshot](https://raw.github.com/idleberg/sublime-emoji-code/master/screenshot.gif)
 
-*Screenshot from the [Atom package](https://atom.io/packages/emoji-code) (sorry!)*
+*Screenshot nicked from the [Atom package](https://atom.io/packages/emoji-code), sorry!*
 
 **Examples:**
 
