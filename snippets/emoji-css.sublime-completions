@@ -1,4057 +1,4057 @@
 {
+  "scope": "source.css source.sass",
   "completions": [
     {
       "contents": "content: '\\\\1F600';",
-      "trigger": "emoji:grinning-face\t😀"
+      "trigger": "ji:grinning-face\t😀"
     },
     {
       "contents": "content: '\\\\1F601';",
-      "trigger": "emoji:grinning-face-with-smiling-eyes\t😁"
+      "trigger": "ji:grinning-face-with-smiling-eyes\t😁"
     },
     {
       "contents": "content: '\\\\1F602';",
-      "trigger": "emoji:face-with-tears-of-joy\t😂"
+      "trigger": "ji:face-with-tears-of-joy\t😂"
     },
     {
       "contents": "content: '\\\\1F603';",
-      "trigger": "emoji:smiling-face-with-open-mouth\t😃"
+      "trigger": "ji:smiling-face-with-open-mouth\t😃"
     },
     {
       "contents": "content: '\\\\1F604';",
-      "trigger": "emoji:smiling-face-with-open-mouth-and-smiling-eyes\t😄"
+      "trigger": "ji:smiling-face-with-open-mouth-and-smiling-eyes\t😄"
     },
     {
       "contents": "content: '\\\\1F605';",
-      "trigger": "emoji:smiling-face-with-open-mouth-and-cold-sweat\t😅"
+      "trigger": "ji:smiling-face-with-open-mouth-and-cold-sweat\t😅"
     },
     {
       "contents": "content: '\\\\1F606';",
-      "trigger": "emoji:smiling-face-with-open-mouth-and-tightly-closed-eyes\t😆"
+      "trigger": "ji:smiling-face-with-open-mouth-and-tightly-closed-eyes\t😆"
     },
     {
       "contents": "content: '\\\\1F609';",
-      "trigger": "emoji:winking-face\t😉"
+      "trigger": "ji:winking-face\t😉"
     },
     {
       "contents": "content: '\\\\1F60A';",
-      "trigger": "emoji:smiling-face-with-smiling-eyes\t😊"
+      "trigger": "ji:smiling-face-with-smiling-eyes\t😊"
     },
     {
       "contents": "content: '\\\\1F60B';",
-      "trigger": "emoji:face-savouring-delicious-food\t😋"
+      "trigger": "ji:face-savouring-delicious-food\t😋"
     },
     {
       "contents": "content: '\\\\1F60E';",
-      "trigger": "emoji:smiling-face-with-sunglasses\t😎"
+      "trigger": "ji:smiling-face-with-sunglasses\t😎"
     },
     {
       "contents": "content: '\\\\1F60D';",
-      "trigger": "emoji:smiling-face-with-heart-shaped-eyes\t😍"
+      "trigger": "ji:smiling-face-with-heart-shaped-eyes\t😍"
     },
     {
       "contents": "content: '\\\\1F618';",
-      "trigger": "emoji:face-throwing-a-kiss\t😘"
+      "trigger": "ji:face-throwing-a-kiss\t😘"
     },
     {
       "contents": "content: '\\\\1F617';",
-      "trigger": "emoji:kissing-face\t😗"
+      "trigger": "ji:kissing-face\t😗"
     },
     {
       "contents": "content: '\\\\1F619';",
-      "trigger": "emoji:kissing-face-with-smiling-eyes\t😙"
+      "trigger": "ji:kissing-face-with-smiling-eyes\t😙"
     },
     {
       "contents": "content: '\\\\1F61A';",
-      "trigger": "emoji:kissing-face-with-closed-eyes\t😚"
+      "trigger": "ji:kissing-face-with-closed-eyes\t😚"
     },
     {
       "contents": "content: '\\\\263A';",
-      "trigger": "emoji:white-smiling-face\t☺"
+      "trigger": "ji:white-smiling-face\t☺"
     },
     {
       "contents": "content: '\\\\1F642';",
-      "trigger": "emoji:slightly-smiling-face\t🙂"
+      "trigger": "ji:slightly-smiling-face\t🙂"
     },
     {
       "contents": "content: '\\\\1F917';",
-      "trigger": "emoji:hugging-face\t🤗"
+      "trigger": "ji:hugging-face\t🤗"
     },
     {
       "contents": "content: '\\\\1F607';",
-      "trigger": "emoji:smiling-face-with-halo\t😇"
+      "trigger": "ji:smiling-face-with-halo\t😇"
     },
     {
       "contents": "content: '\\\\1F913';",
-      "trigger": "emoji:nerd-face\t🤓"
+      "trigger": "ji:nerd-face\t🤓"
     },
     {
       "contents": "content: '\\\\1F914';",
-      "trigger": "emoji:thinking-face\t🤔"
+      "trigger": "ji:thinking-face\t🤔"
     },
     {
       "contents": "content: '\\\\1F610';",
-      "trigger": "emoji:neutral-face\t😐"
+      "trigger": "ji:neutral-face\t😐"
     },
     {
       "contents": "content: '\\\\1F611';",
-      "trigger": "emoji:expressionless-face\t😑"
+      "trigger": "ji:expressionless-face\t😑"
     },
     {
       "contents": "content: '\\\\1F636';",
-      "trigger": "emoji:face-without-mouth\t😶"
+      "trigger": "ji:face-without-mouth\t😶"
     },
     {
       "contents": "content: '\\\\1F644';",
-      "trigger": "emoji:face-with-rolling-eyes\t🙄"
+      "trigger": "ji:face-with-rolling-eyes\t🙄"
     },
     {
       "contents": "content: '\\\\1F60F';",
-      "trigger": "emoji:smirking-face\t😏"
+      "trigger": "ji:smirking-face\t😏"
     },
     {
       "contents": "content: '\\\\1F623';",
-      "trigger": "emoji:persevering-face\t😣"
+      "trigger": "ji:persevering-face\t😣"
     },
     {
       "contents": "content: '\\\\1F625';",
-      "trigger": "emoji:disappointed-but-relieved-face\t😥"
+      "trigger": "ji:disappointed-but-relieved-face\t😥"
     },
     {
       "contents": "content: '\\\\1F62E';",
-      "trigger": "emoji:face-with-open-mouth\t😮"
+      "trigger": "ji:face-with-open-mouth\t😮"
     },
     {
       "contents": "content: '\\\\1F910';",
-      "trigger": "emoji:zipper-mouth-face\t🤐"
+      "trigger": "ji:zipper-mouth-face\t🤐"
     },
     {
       "contents": "content: '\\\\1F62F';",
-      "trigger": "emoji:hushed-face\t😯"
+      "trigger": "ji:hushed-face\t😯"
     },
     {
       "contents": "content: '\\\\1F62A';",
-      "trigger": "emoji:sleepy-face\t😪"
+      "trigger": "ji:sleepy-face\t😪"
     },
     {
       "contents": "content: '\\\\1F62B';",
-      "trigger": "emoji:tired-face\t😫"
+      "trigger": "ji:tired-face\t😫"
     },
     {
       "contents": "content: '\\\\1F634';",
-      "trigger": "emoji:sleeping-face\t😴"
+      "trigger": "ji:sleeping-face\t😴"
     },
     {
       "contents": "content: '\\\\1F60C';",
-      "trigger": "emoji:relieved-face\t😌"
+      "trigger": "ji:relieved-face\t😌"
     },
     {
       "contents": "content: '\\\\1F61B';",
-      "trigger": "emoji:face-with-stuck-out-tongue\t😛"
+      "trigger": "ji:face-with-stuck-out-tongue\t😛"
     },
     {
       "contents": "content: '\\\\1F61C';",
-      "trigger": "emoji:face-with-stuck-out-tongue-and-winking-eye\t😜"
+      "trigger": "ji:face-with-stuck-out-tongue-and-winking-eye\t😜"
     },
     {
       "contents": "content: '\\\\1F61D';",
-      "trigger": "emoji:face-with-stuck-out-tongue-and-tightly-closed-eyes\t😝"
+      "trigger": "ji:face-with-stuck-out-tongue-and-tightly-closed-eyes\t😝"
     },
     {
       "contents": "content: '\\\\1F612';",
-      "trigger": "emoji:unamused-face\t😒"
+      "trigger": "ji:unamused-face\t😒"
     },
     {
       "contents": "content: '\\\\1F613';",
-      "trigger": "emoji:face-with-cold-sweat\t😓"
+      "trigger": "ji:face-with-cold-sweat\t😓"
     },
     {
       "contents": "content: '\\\\1F614';",
-      "trigger": "emoji:pensive-face\t😔"
+      "trigger": "ji:pensive-face\t😔"
     },
     {
       "contents": "content: '\\\\1F615';",
-      "trigger": "emoji:confused-face\t😕"
+      "trigger": "ji:confused-face\t😕"
     },
     {
       "contents": "content: '\\\\1F643';",
-      "trigger": "emoji:upside-down-face\t🙃"
+      "trigger": "ji:upside-down-face\t🙃"
     },
     {
       "contents": "content: '\\\\1F911';",
-      "trigger": "emoji:money-mouth-face\t🤑"
+      "trigger": "ji:money-mouth-face\t🤑"
     },
     {
       "contents": "content: '\\\\1F632';",
-      "trigger": "emoji:astonished-face\t😲"
+      "trigger": "ji:astonished-face\t😲"
     },
     {
       "contents": "content: '\\\\1F637';",
-      "trigger": "emoji:face-with-medical-mask\t😷"
+      "trigger": "ji:face-with-medical-mask\t😷"
     },
     {
       "contents": "content: '\\\\1F912';",
-      "trigger": "emoji:face-with-thermometer\t🤒"
+      "trigger": "ji:face-with-thermometer\t🤒"
     },
     {
       "contents": "content: '\\\\1F915';",
-      "trigger": "emoji:face-with-head-bandage\t🤕"
+      "trigger": "ji:face-with-head-bandage\t🤕"
     },
     {
       "contents": "content: '\\\\2639';",
-      "trigger": "emoji:white-frowning-face\t☹"
+      "trigger": "ji:white-frowning-face\t☹"
     },
     {
       "contents": "content: '\\\\1F641';",
-      "trigger": "emoji:slightly-frowning-face\t🙁"
+      "trigger": "ji:slightly-frowning-face\t🙁"
     },
     {
       "contents": "content: '\\\\1F616';",
-      "trigger": "emoji:confounded-face\t😖"
+      "trigger": "ji:confounded-face\t😖"
     },
     {
       "contents": "content: '\\\\1F61E';",
-      "trigger": "emoji:disappointed-face\t😞"
+      "trigger": "ji:disappointed-face\t😞"
     },
     {
       "contents": "content: '\\\\1F61F';",
-      "trigger": "emoji:worried-face\t😟"
+      "trigger": "ji:worried-face\t😟"
     },
     {
       "contents": "content: '\\\\1F624';",
-      "trigger": "emoji:face-with-look-of-triumph\t😤"
+      "trigger": "ji:face-with-look-of-triumph\t😤"
     },
     {
       "contents": "content: '\\\\1F622';",
-      "trigger": "emoji:crying-face\t😢"
+      "trigger": "ji:crying-face\t😢"
     },
     {
       "contents": "content: '\\\\1F62D';",
-      "trigger": "emoji:loudly-crying-face\t😭"
+      "trigger": "ji:loudly-crying-face\t😭"
     },
     {
       "contents": "content: '\\\\1F626';",
-      "trigger": "emoji:frowning-face-with-open-mouth\t😦"
+      "trigger": "ji:frowning-face-with-open-mouth\t😦"
     },
     {
       "contents": "content: '\\\\1F627';",
-      "trigger": "emoji:anguished-face\t😧"
+      "trigger": "ji:anguished-face\t😧"
     },
     {
       "contents": "content: '\\\\1F628';",
-      "trigger": "emoji:fearful-face\t😨"
+      "trigger": "ji:fearful-face\t😨"
     },
     {
       "contents": "content: '\\\\1F629';",
-      "trigger": "emoji:weary-face\t😩"
+      "trigger": "ji:weary-face\t😩"
     },
     {
       "contents": "content: '\\\\1F62C';",
-      "trigger": "emoji:grimacing-face\t😬"
+      "trigger": "ji:grimacing-face\t😬"
     },
     {
       "contents": "content: '\\\\1F630';",
-      "trigger": "emoji:face-with-open-mouth-and-cold-sweat\t😰"
+      "trigger": "ji:face-with-open-mouth-and-cold-sweat\t😰"
     },
     {
       "contents": "content: '\\\\1F631';",
-      "trigger": "emoji:face-screaming-in-fear\t😱"
+      "trigger": "ji:face-screaming-in-fear\t😱"
     },
     {
       "contents": "content: '\\\\1F633';",
-      "trigger": "emoji:flushed-face\t😳"
+      "trigger": "ji:flushed-face\t😳"
     },
     {
       "contents": "content: '\\\\1F635';",
-      "trigger": "emoji:dizzy-face\t😵"
+      "trigger": "ji:dizzy-face\t😵"
     },
     {
       "contents": "content: '\\\\1F621';",
-      "trigger": "emoji:pouting-face\t😡"
+      "trigger": "ji:pouting-face\t😡"
     },
     {
       "contents": "content: '\\\\1F620';",
-      "trigger": "emoji:angry-face\t😠"
+      "trigger": "ji:angry-face\t😠"
     },
     {
       "contents": "content: '\\\\1F608';",
-      "trigger": "emoji:smiling-face-with-horns\t😈"
+      "trigger": "ji:smiling-face-with-horns\t😈"
     },
     {
       "contents": "content: '\\\\1F47F';",
-      "trigger": "emoji:imp\t👿"
+      "trigger": "ji:imp\t👿"
     },
     {
       "contents": "content: '\\\\1F479';",
-      "trigger": "emoji:japanese-ogre\t👹"
+      "trigger": "ji:japanese-ogre\t👹"
     },
     {
       "contents": "content: '\\\\1F47A';",
-      "trigger": "emoji:japanese-goblin\t👺"
+      "trigger": "ji:japanese-goblin\t👺"
     },
     {
       "contents": "content: '\\\\1F480';",
-      "trigger": "emoji:skull\t💀"
+      "trigger": "ji:skull\t💀"
     },
     {
       "contents": "content: '\\\\2620';",
-      "trigger": "emoji:skull-and-crossbones\t☠"
+      "trigger": "ji:skull-and-crossbones\t☠"
     },
     {
       "contents": "content: '\\\\1F47B';",
-      "trigger": "emoji:ghost\t👻"
+      "trigger": "ji:ghost\t👻"
     },
     {
       "contents": "content: '\\\\1F47D';",
-      "trigger": "emoji:extraterrestrial-alien\t👽"
+      "trigger": "ji:extraterrestrial-alien\t👽"
     },
     {
       "contents": "content: '\\\\1F47E';",
-      "trigger": "emoji:alien-monster\t👾"
+      "trigger": "ji:alien-monster\t👾"
     },
     {
       "contents": "content: '\\\\1F916';",
-      "trigger": "emoji:robot-face\t🤖"
+      "trigger": "ji:robot-face\t🤖"
     },
     {
       "contents": "content: '\\\\1F4A9';",
-      "trigger": "emoji:pile-of-poo\t💩"
+      "trigger": "ji:pile-of-poo\t💩"
     },
     {
       "contents": "content: '\\\\1F63A';",
-      "trigger": "emoji:smiling-cat-face-with-open-mouth\t😺"
+      "trigger": "ji:smiling-cat-face-with-open-mouth\t😺"
     },
     {
       "contents": "content: '\\\\1F638';",
-      "trigger": "emoji:grinning-cat-face-with-smiling-eyes\t😸"
+      "trigger": "ji:grinning-cat-face-with-smiling-eyes\t😸"
     },
     {
       "contents": "content: '\\\\1F639';",
-      "trigger": "emoji:cat-face-with-tears-of-joy\t😹"
+      "trigger": "ji:cat-face-with-tears-of-joy\t😹"
     },
     {
       "contents": "content: '\\\\1F63B';",
-      "trigger": "emoji:smiling-cat-face-with-heart-shaped-eyes\t😻"
+      "trigger": "ji:smiling-cat-face-with-heart-shaped-eyes\t😻"
     },
     {
       "contents": "content: '\\\\1F63C';",
-      "trigger": "emoji:cat-face-with-wry-smile\t😼"
+      "trigger": "ji:cat-face-with-wry-smile\t😼"
     },
     {
       "contents": "content: '\\\\1F63D';",
-      "trigger": "emoji:kissing-cat-face-with-closed-eyes\t😽"
+      "trigger": "ji:kissing-cat-face-with-closed-eyes\t😽"
     },
     {
       "contents": "content: '\\\\1F640';",
-      "trigger": "emoji:weary-cat-face\t🙀"
+      "trigger": "ji:weary-cat-face\t🙀"
     },
     {
       "contents": "content: '\\\\1F63F';",
-      "trigger": "emoji:crying-cat-face\t😿"
+      "trigger": "ji:crying-cat-face\t😿"
     },
     {
       "contents": "content: '\\\\1F63E';",
-      "trigger": "emoji:pouting-cat-face\t😾"
+      "trigger": "ji:pouting-cat-face\t😾"
     },
     {
       "contents": "content: '\\\\1F648';",
-      "trigger": "emoji:see-no-evil-monkey\t🙈"
+      "trigger": "ji:see-no-evil-monkey\t🙈"
     },
     {
       "contents": "content: '\\\\1F649';",
-      "trigger": "emoji:hear-no-evil-monkey\t🙉"
+      "trigger": "ji:hear-no-evil-monkey\t🙉"
     },
     {
       "contents": "content: '\\\\1F64A';",
-      "trigger": "emoji:speak-no-evil-monkey\t🙊"
+      "trigger": "ji:speak-no-evil-monkey\t🙊"
     },
     {
       "contents": "content: '\\\\1F466';",
-      "trigger": "emoji:boy\t👦"
+      "trigger": "ji:boy\t👦"
     },
     {
       "contents": "content: '\\\\1F467';",
-      "trigger": "emoji:girl\t👧"
+      "trigger": "ji:girl\t👧"
     },
     {
       "contents": "content: '\\\\1F468';",
-      "trigger": "emoji:man\t👨"
+      "trigger": "ji:man\t👨"
     },
     {
       "contents": "content: '\\\\1F469';",
-      "trigger": "emoji:woman\t👩"
+      "trigger": "ji:woman\t👩"
     },
     {
       "contents": "content: '\\\\1F474';",
-      "trigger": "emoji:older-man\t👴"
+      "trigger": "ji:older-man\t👴"
     },
     {
       "contents": "content: '\\\\1F475';",
-      "trigger": "emoji:older-woman\t👵"
+      "trigger": "ji:older-woman\t👵"
     },
     {
       "contents": "content: '\\\\1F476';",
-      "trigger": "emoji:baby\t👶"
+      "trigger": "ji:baby\t👶"
     },
     {
       "contents": "content: '\\\\1F471';",
-      "trigger": "emoji:person-with-blond-hair\t👱"
+      "trigger": "ji:person-with-blond-hair\t👱"
     },
     {
       "contents": "content: '\\\\1F46E';",
-      "trigger": "emoji:police-officer\t👮"
+      "trigger": "ji:police-officer\t👮"
     },
     {
       "contents": "content: '\\\\1F472';",
-      "trigger": "emoji:man-with-gua-pi-mao\t👲"
+      "trigger": "ji:man-with-gua-pi-mao\t👲"
     },
     {
       "contents": "content: '\\\\1F473';",
-      "trigger": "emoji:man-with-turban\t👳"
+      "trigger": "ji:man-with-turban\t👳"
     },
     {
       "contents": "content: '\\\\1F477';",
-      "trigger": "emoji:construction-worker\t👷"
+      "trigger": "ji:construction-worker\t👷"
     },
     {
       "contents": "content: '\\\\26D1';",
-      "trigger": "emoji:helmet-with-white-cross\t⛑"
+      "trigger": "ji:helmet-with-white-cross\t⛑"
     },
     {
       "contents": "content: '\\\\1F478';",
-      "trigger": "emoji:princess\t👸"
+      "trigger": "ji:princess\t👸"
     },
     {
       "contents": "content: '\\\\1F482';",
-      "trigger": "emoji:guardsman\t💂"
+      "trigger": "ji:guardsman\t💂"
     },
     {
       "contents": "content: '\\\\1F575';",
-      "trigger": "emoji:sleuth-or-spy\t🕵"
+      "trigger": "ji:sleuth-or-spy\t🕵"
     },
     {
       "contents": "content: '\\\\1F385';",
-      "trigger": "emoji:father-christmas\t🎅"
+      "trigger": "ji:father-christmas\t🎅"
     },
     {
       "contents": "content: '\\\\1F470';",
-      "trigger": "emoji:bride-with-veil\t👰"
+      "trigger": "ji:bride-with-veil\t👰"
     },
     {
       "contents": "content: '\\\\1F47C';",
-      "trigger": "emoji:baby-angel\t👼"
+      "trigger": "ji:baby-angel\t👼"
     },
     {
       "contents": "content: '\\\\1F486';",
-      "trigger": "emoji:face-massage\t💆"
+      "trigger": "ji:face-massage\t💆"
     },
     {
       "contents": "content: '\\\\1F487';",
-      "trigger": "emoji:haircut\t💇"
+      "trigger": "ji:haircut\t💇"
     },
     {
       "contents": "content: '\\\\1F64D';",
-      "trigger": "emoji:person-frowning\t🙍"
+      "trigger": "ji:person-frowning\t🙍"
     },
     {
       "contents": "content: '\\\\1F64E';",
-      "trigger": "emoji:person-with-pouting-face\t🙎"
+      "trigger": "ji:person-with-pouting-face\t🙎"
     },
     {
       "contents": "content: '\\\\1F645';",
-      "trigger": "emoji:face-with-no-good-gesture\t🙅"
+      "trigger": "ji:face-with-no-good-gesture\t🙅"
     },
     {
       "contents": "content: '\\\\1F646';",
-      "trigger": "emoji:face-with-ok-gesture\t🙆"
+      "trigger": "ji:face-with-ok-gesture\t🙆"
     },
     {
       "contents": "content: '\\\\1F481';",
-      "trigger": "emoji:information-desk-person\t💁"
+      "trigger": "ji:information-desk-person\t💁"
     },
     {
       "contents": "content: '\\\\1F64B';",
-      "trigger": "emoji:happy-person-raising-one-hand\t🙋"
+      "trigger": "ji:happy-person-raising-one-hand\t🙋"
     },
     {
       "contents": "content: '\\\\1F647';",
-      "trigger": "emoji:person-bowing-deeply\t🙇"
+      "trigger": "ji:person-bowing-deeply\t🙇"
     },
     {
       "contents": "content: '\\\\1F64C';",
-      "trigger": "emoji:person-raising-both-hands-in-celebration\t🙌"
+      "trigger": "ji:person-raising-both-hands-in-celebration\t🙌"
     },
     {
       "contents": "content: '\\\\1F64F';",
-      "trigger": "emoji:person-with-folded-hands\t🙏"
+      "trigger": "ji:person-with-folded-hands\t🙏"
     },
     {
       "contents": "content: '\\\\1F5E3';",
-      "trigger": "emoji:speaking-head-in-silhouette\t🗣"
+      "trigger": "ji:speaking-head-in-silhouette\t🗣"
     },
     {
       "contents": "content: '\\\\1F464';",
-      "trigger": "emoji:bust-in-silhouette\t👤"
+      "trigger": "ji:bust-in-silhouette\t👤"
     },
     {
       "contents": "content: '\\\\1F465';",
-      "trigger": "emoji:busts-in-silhouette\t👥"
+      "trigger": "ji:busts-in-silhouette\t👥"
     },
     {
       "contents": "content: '\\\\1F6B6';",
-      "trigger": "emoji:pedestrian\t🚶"
+      "trigger": "ji:pedestrian\t🚶"
     },
     {
       "contents": "content: '\\\\1F3C3';",
-      "trigger": "emoji:runner\t🏃"
+      "trigger": "ji:runner\t🏃"
     },
     {
       "contents": "content: '\\\\1F46F';",
-      "trigger": "emoji:woman-with-bunny-ears\t👯"
+      "trigger": "ji:woman-with-bunny-ears\t👯"
     },
     {
       "contents": "content: '\\\\1F483';",
-      "trigger": "emoji:dancer\t💃"
+      "trigger": "ji:dancer\t💃"
     },
     {
       "contents": "content: '\\\\1F574';",
-      "trigger": "emoji:man-in-business-suit-levitating\t🕴"
+      "trigger": "ji:man-in-business-suit-levitating\t🕴"
     },
     {
       "contents": "content: '\\\\1F46B';",
-      "trigger": "emoji:man-and-woman-holding-hands\t👫"
+      "trigger": "ji:man-and-woman-holding-hands\t👫"
     },
     {
       "contents": "content: '\\\\1F46C';",
-      "trigger": "emoji:two-men-holding-hands\t👬"
+      "trigger": "ji:two-men-holding-hands\t👬"
     },
     {
       "contents": "content: '\\\\1F46D';",
-      "trigger": "emoji:two-women-holding-hands\t👭"
+      "trigger": "ji:two-women-holding-hands\t👭"
     },
     {
       "contents": "content: '\\\\1F48F';",
-      "trigger": "emoji:kiss\t💏"
+      "trigger": "ji:kiss\t💏"
     },
     {
       "contents": "content: '\\\\1F491';",
-      "trigger": "emoji:couple-with-heart\t💑"
+      "trigger": "ji:couple-with-heart\t💑"
     },
     {
       "contents": "content: '\\\\1F46A';",
-      "trigger": "emoji:family\t👪"
+      "trigger": "ji:family\t👪"
     },
     {
       "contents": "content: '\\\\1F3FB';",
-      "trigger": "emoji:emoji-modifier-fitzpatrick-type-1-2\t🏻"
+      "trigger": "ji:emoji-modifier-fitzpatrick-type-1-2\t🏻"
     },
     {
       "contents": "content: '\\\\1F3FC';",
-      "trigger": "emoji:emoji-modifier-fitzpatrick-type-3\t🏼"
+      "trigger": "ji:emoji-modifier-fitzpatrick-type-3\t🏼"
     },
     {
       "contents": "content: '\\\\1F3FD';",
-      "trigger": "emoji:emoji-modifier-fitzpatrick-type-4\t🏽"
+      "trigger": "ji:emoji-modifier-fitzpatrick-type-4\t🏽"
     },
     {
       "contents": "content: '\\\\1F3FE';",
-      "trigger": "emoji:emoji-modifier-fitzpatrick-type-5\t🏾"
+      "trigger": "ji:emoji-modifier-fitzpatrick-type-5\t🏾"
     },
     {
       "contents": "content: '\\\\1F3FF';",
-      "trigger": "emoji:emoji-modifier-fitzpatrick-type-6\t🏿"
+      "trigger": "ji:emoji-modifier-fitzpatrick-type-6\t🏿"
     },
     {
       "contents": "content: '\\\\1F4AA';",
-      "trigger": "emoji:flexed-biceps\t💪"
+      "trigger": "ji:flexed-biceps\t💪"
     },
     {
       "contents": "content: '\\\\1F448';",
-      "trigger": "emoji:white-left-pointing-backhand-index\t👈"
+      "trigger": "ji:white-left-pointing-backhand-index\t👈"
     },
     {
       "contents": "content: '\\\\1F449';",
-      "trigger": "emoji:white-right-pointing-backhand-index\t👉"
+      "trigger": "ji:white-right-pointing-backhand-index\t👉"
     },
     {
       "contents": "content: '\\\\261D';",
-      "trigger": "emoji:white-up-pointing-index\t☝"
+      "trigger": "ji:white-up-pointing-index\t☝"
     },
     {
       "contents": "content: '\\\\1F446';",
-      "trigger": "emoji:white-up-pointing-backhand-index\t👆"
+      "trigger": "ji:white-up-pointing-backhand-index\t👆"
     },
     {
       "contents": "content: '\\\\1F595';",
-      "trigger": "emoji:reversed-hand-with-middle-finger-extended\t🖕"
+      "trigger": "ji:reversed-hand-with-middle-finger-extended\t🖕"
     },
     {
       "contents": "content: '\\\\1F447';",
-      "trigger": "emoji:white-down-pointing-backhand-index\t👇"
+      "trigger": "ji:white-down-pointing-backhand-index\t👇"
     },
     {
       "contents": "content: '\\\\270C';",
-      "trigger": "emoji:victory-hand\t✌"
+      "trigger": "ji:victory-hand\t✌"
     },
     {
       "contents": "content: '\\\\1F596';",
-      "trigger": "emoji:raised-hand-with-part-between-middle-and-ring-fingers\t🖖"
+      "trigger": "ji:raised-hand-with-part-between-middle-and-ring-fingers\t🖖"
     },
     {
       "contents": "content: '\\\\1F918';",
-      "trigger": "emoji:sign-of-the-horns\t🤘"
+      "trigger": "ji:sign-of-the-horns\t🤘"
     },
     {
       "contents": "content: '\\\\1F590';",
-      "trigger": "emoji:raised-hand-with-fingers-splayed\t🖐"
+      "trigger": "ji:raised-hand-with-fingers-splayed\t🖐"
     },
     {
       "contents": "content: '\\\\270B';",
-      "trigger": "emoji:raised-hand\t✋"
+      "trigger": "ji:raised-hand\t✋"
     },
     {
       "contents": "content: '\\\\1F44C';",
-      "trigger": "emoji:ok-hand-sign\t👌"
+      "trigger": "ji:ok-hand-sign\t👌"
     },
     {
       "contents": "content: '\\\\1F44D';",
-      "trigger": "emoji:thumbs-up-sign\t👍"
+      "trigger": "ji:thumbs-up-sign\t👍"
     },
     {
       "contents": "content: '\\\\1F44E';",
-      "trigger": "emoji:thumbs-down-sign\t👎"
+      "trigger": "ji:thumbs-down-sign\t👎"
     },
     {
       "contents": "content: '\\\\270A';",
-      "trigger": "emoji:raised-fist\t✊"
+      "trigger": "ji:raised-fist\t✊"
     },
     {
       "contents": "content: '\\\\1F44A';",
-      "trigger": "emoji:fisted-hand-sign\t👊"
+      "trigger": "ji:fisted-hand-sign\t👊"
     },
     {
       "contents": "content: '\\\\1F44B';",
-      "trigger": "emoji:waving-hand-sign\t👋"
+      "trigger": "ji:waving-hand-sign\t👋"
     },
     {
       "contents": "content: '\\\\1F44F';",
-      "trigger": "emoji:clapping-hands-sign\t👏"
+      "trigger": "ji:clapping-hands-sign\t👏"
     },
     {
       "contents": "content: '\\\\1F450';",
-      "trigger": "emoji:open-hands-sign\t👐"
+      "trigger": "ji:open-hands-sign\t👐"
     },
     {
       "contents": "content: '\\\\270D';",
-      "trigger": "emoji:writing-hand\t✍"
+      "trigger": "ji:writing-hand\t✍"
     },
     {
       "contents": "content: '\\\\1F485';",
-      "trigger": "emoji:nail-polish\t💅"
+      "trigger": "ji:nail-polish\t💅"
     },
     {
       "contents": "content: '\\\\1F442';",
-      "trigger": "emoji:ear\t👂"
+      "trigger": "ji:ear\t👂"
     },
     {
       "contents": "content: '\\\\1F443';",
-      "trigger": "emoji:nose\t👃"
+      "trigger": "ji:nose\t👃"
     },
     {
       "contents": "content: '\\\\1F463';",
-      "trigger": "emoji:footprints\t👣"
+      "trigger": "ji:footprints\t👣"
     },
     {
       "contents": "content: '\\\\1F440';",
-      "trigger": "emoji:eyes\t👀"
+      "trigger": "ji:eyes\t👀"
     },
     {
       "contents": "content: '\\\\1F441';",
-      "trigger": "emoji:eye\t👁"
+      "trigger": "ji:eye\t👁"
     },
     {
       "contents": "content: '\\\\1F445';",
-      "trigger": "emoji:tongue\t👅"
+      "trigger": "ji:tongue\t👅"
     },
     {
       "contents": "content: '\\\\1F444';",
-      "trigger": "emoji:mouth\t👄"
+      "trigger": "ji:mouth\t👄"
     },
     {
       "contents": "content: '\\\\1F48B';",
-      "trigger": "emoji:kiss-mark\t💋"
+      "trigger": "ji:kiss-mark\t💋"
     },
     {
       "contents": "content: '\\\\1F498';",
-      "trigger": "emoji:heart-with-arrow\t💘"
+      "trigger": "ji:heart-with-arrow\t💘"
     },
     {
       "contents": "content: '\\\\2764';",
-      "trigger": "emoji:heavy-black-heart\t❤"
+      "trigger": "ji:heavy-black-heart\t❤"
     },
     {
       "contents": "content: '\\\\1F493';",
-      "trigger": "emoji:beating-heart\t💓"
+      "trigger": "ji:beating-heart\t💓"
     },
     {
       "contents": "content: '\\\\1F494';",
-      "trigger": "emoji:broken-heart\t💔"
+      "trigger": "ji:broken-heart\t💔"
     },
     {
       "contents": "content: '\\\\1F495';",
-      "trigger": "emoji:two-hearts\t💕"
+      "trigger": "ji:two-hearts\t💕"
     },
     {
       "contents": "content: '\\\\1F496';",
-      "trigger": "emoji:sparkling-heart\t💖"
+      "trigger": "ji:sparkling-heart\t💖"
     },
     {
       "contents": "content: '\\\\1F497';",
-      "trigger": "emoji:growing-heart\t💗"
+      "trigger": "ji:growing-heart\t💗"
     },
     {
       "contents": "content: '\\\\1F499';",
-      "trigger": "emoji:blue-heart\t💙"
+      "trigger": "ji:blue-heart\t💙"
     },
     {
       "contents": "content: '\\\\1F49A';",
-      "trigger": "emoji:green-heart\t💚"
+      "trigger": "ji:green-heart\t💚"
     },
     {
       "contents": "content: '\\\\1F49B';",
-      "trigger": "emoji:yellow-heart\t💛"
+      "trigger": "ji:yellow-heart\t💛"
     },
     {
       "contents": "content: '\\\\1F49C';",
-      "trigger": "emoji:purple-heart\t💜"
+      "trigger": "ji:purple-heart\t💜"
     },
     {
       "contents": "content: '\\\\1F49D';",
-      "trigger": "emoji:heart-with-ribbon\t💝"
+      "trigger": "ji:heart-with-ribbon\t💝"
     },
     {
       "contents": "content: '\\\\1F49E';",
-      "trigger": "emoji:revolving-hearts\t💞"
+      "trigger": "ji:revolving-hearts\t💞"
     },
     {
       "contents": "content: '\\\\1F49F';",
-      "trigger": "emoji:heart-decoration\t💟"
+      "trigger": "ji:heart-decoration\t💟"
     },
     {
       "contents": "content: '\\\\2763';",
-      "trigger": "emoji:heavy-heart-exclamation-mark-ornament\t❣"
+      "trigger": "ji:heavy-heart-exclamation-mark-ornament\t❣"
     },
     {
       "contents": "content: '\\\\1F48C';",
-      "trigger": "emoji:love-letter\t💌"
+      "trigger": "ji:love-letter\t💌"
     },
     {
       "contents": "content: '\\\\1F4A4';",
-      "trigger": "emoji:sleeping-symbol\t💤"
+      "trigger": "ji:sleeping-symbol\t💤"
     },
     {
       "contents": "content: '\\\\1F4A2';",
-      "trigger": "emoji:anger-symbol\t💢"
+      "trigger": "ji:anger-symbol\t💢"
     },
     {
       "contents": "content: '\\\\1F4A3';",
-      "trigger": "emoji:bomb\t💣"
+      "trigger": "ji:bomb\t💣"
     },
     {
       "contents": "content: '\\\\1F4A5';",
-      "trigger": "emoji:collision-symbol\t💥"
+      "trigger": "ji:collision-symbol\t💥"
     },
     {
       "contents": "content: '\\\\1F4A6';",
-      "trigger": "emoji:splashing-sweat-symbol\t💦"
+      "trigger": "ji:splashing-sweat-symbol\t💦"
     },
     {
       "contents": "content: '\\\\1F4A8';",
-      "trigger": "emoji:dash-symbol\t💨"
+      "trigger": "ji:dash-symbol\t💨"
     },
     {
       "contents": "content: '\\\\1F4AB';",
-      "trigger": "emoji:dizzy-symbol\t💫"
+      "trigger": "ji:dizzy-symbol\t💫"
     },
     {
       "contents": "content: '\\\\1F4AC';",
-      "trigger": "emoji:speech-balloon\t💬"
+      "trigger": "ji:speech-balloon\t💬"
     },
     {
       "contents": "content: '\\\\1F5E8';",
-      "trigger": "emoji:left-speech-bubble\t🗨"
+      "trigger": "ji:left-speech-bubble\t🗨"
     },
     {
       "contents": "content: '\\\\1F5EF';",
-      "trigger": "emoji:right-anger-bubble\t🗯"
+      "trigger": "ji:right-anger-bubble\t🗯"
     },
     {
       "contents": "content: '\\\\1F4AD';",
-      "trigger": "emoji:thought-balloon\t💭"
+      "trigger": "ji:thought-balloon\t💭"
     },
     {
       "contents": "content: '\\\\1F573';",
-      "trigger": "emoji:hole\t🕳"
+      "trigger": "ji:hole\t🕳"
     },
     {
       "contents": "content: '\\\\1F453';",
-      "trigger": "emoji:eyeglasses\t👓"
+      "trigger": "ji:eyeglasses\t👓"
     },
     {
       "contents": "content: '\\\\1F576';",
-      "trigger": "emoji:dark-sunglasses\t🕶"
+      "trigger": "ji:dark-sunglasses\t🕶"
     },
     {
       "contents": "content: '\\\\1F454';",
-      "trigger": "emoji:necktie\t👔"
+      "trigger": "ji:necktie\t👔"
     },
     {
       "contents": "content: '\\\\1F455';",
-      "trigger": "emoji:t-shirt\t👕"
+      "trigger": "ji:t-shirt\t👕"
     },
     {
       "contents": "content: '\\\\1F456';",
-      "trigger": "emoji:jeans\t👖"
+      "trigger": "ji:jeans\t👖"
     },
     {
       "contents": "content: '\\\\1F457';",
-      "trigger": "emoji:dress\t👗"
+      "trigger": "ji:dress\t👗"
     },
     {
       "contents": "content: '\\\\1F458';",
-      "trigger": "emoji:kimono\t👘"
+      "trigger": "ji:kimono\t👘"
     },
     {
       "contents": "content: '\\\\1F459';",
-      "trigger": "emoji:bikini\t👙"
+      "trigger": "ji:bikini\t👙"
     },
     {
       "contents": "content: '\\\\1F45A';",
-      "trigger": "emoji:womans-clothes\t👚"
+      "trigger": "ji:womans-clothes\t👚"
     },
     {
       "contents": "content: '\\\\1F45B';",
-      "trigger": "emoji:purse\t👛"
+      "trigger": "ji:purse\t👛"
     },
     {
       "contents": "content: '\\\\1F45C';",
-      "trigger": "emoji:handbag\t👜"
+      "trigger": "ji:handbag\t👜"
     },
     {
       "contents": "content: '\\\\1F45D';",
-      "trigger": "emoji:pouch\t👝"
+      "trigger": "ji:pouch\t👝"
     },
     {
       "contents": "content: '\\\\1F6CD';",
-      "trigger": "emoji:shopping-bags\t🛍"
+      "trigger": "ji:shopping-bags\t🛍"
     },
     {
       "contents": "content: '\\\\1F392';",
-      "trigger": "emoji:school-satchel\t🎒"
+      "trigger": "ji:school-satchel\t🎒"
     },
     {
       "contents": "content: '\\\\1F45E';",
-      "trigger": "emoji:mans-shoe\t👞"
+      "trigger": "ji:mans-shoe\t👞"
     },
     {
       "contents": "content: '\\\\1F45F';",
-      "trigger": "emoji:athletic-shoe\t👟"
+      "trigger": "ji:athletic-shoe\t👟"
     },
     {
       "contents": "content: '\\\\1F460';",
-      "trigger": "emoji:high-heeled-shoe\t👠"
+      "trigger": "ji:high-heeled-shoe\t👠"
     },
     {
       "contents": "content: '\\\\1F461';",
-      "trigger": "emoji:womans-sandal\t👡"
+      "trigger": "ji:womans-sandal\t👡"
     },
     {
       "contents": "content: '\\\\1F462';",
-      "trigger": "emoji:womans-boots\t👢"
+      "trigger": "ji:womans-boots\t👢"
     },
     {
       "contents": "content: '\\\\1F451';",
-      "trigger": "emoji:crown\t👑"
+      "trigger": "ji:crown\t👑"
     },
     {
       "contents": "content: '\\\\1F452';",
-      "trigger": "emoji:womans-hat\t👒"
+      "trigger": "ji:womans-hat\t👒"
     },
     {
       "contents": "content: '\\\\1F3A9';",
-      "trigger": "emoji:top-hat\t🎩"
+      "trigger": "ji:top-hat\t🎩"
     },
     {
       "contents": "content: '\\\\1F393';",
-      "trigger": "emoji:graduation-cap\t🎓"
+      "trigger": "ji:graduation-cap\t🎓"
     },
     {
       "contents": "content: '\\\\1F4FF';",
-      "trigger": "emoji:prayer-beads\t📿"
+      "trigger": "ji:prayer-beads\t📿"
     },
     {
       "contents": "content: '\\\\1F484';",
-      "trigger": "emoji:lipstick\t💄"
+      "trigger": "ji:lipstick\t💄"
     },
     {
       "contents": "content: '\\\\1F48D';",
-      "trigger": "emoji:ring\t💍"
+      "trigger": "ji:ring\t💍"
     },
     {
       "contents": "content: '\\\\1F48E';",
-      "trigger": "emoji:gem-stone\t💎"
+      "trigger": "ji:gem-stone\t💎"
     },
     {
       "contents": "content: '\\\\1F435';",
-      "trigger": "emoji:monkey-face\t🐵"
+      "trigger": "ji:monkey-face\t🐵"
     },
     {
       "contents": "content: '\\\\1F412';",
-      "trigger": "emoji:monkey\t🐒"
+      "trigger": "ji:monkey\t🐒"
     },
     {
       "contents": "content: '\\\\1F436';",
-      "trigger": "emoji:dog-face\t🐶"
+      "trigger": "ji:dog-face\t🐶"
     },
     {
       "contents": "content: '\\\\1F415';",
-      "trigger": "emoji:dog\t🐕"
+      "trigger": "ji:dog\t🐕"
     },
     {
       "contents": "content: '\\\\1F429';",
-      "trigger": "emoji:poodle\t🐩"
+      "trigger": "ji:poodle\t🐩"
     },
     {
       "contents": "content: '\\\\1F43A';",
-      "trigger": "emoji:wolf-face\t🐺"
+      "trigger": "ji:wolf-face\t🐺"
     },
     {
       "contents": "content: '\\\\1F431';",
-      "trigger": "emoji:cat-face\t🐱"
+      "trigger": "ji:cat-face\t🐱"
     },
     {
       "contents": "content: '\\\\1F408';",
-      "trigger": "emoji:cat\t🐈"
+      "trigger": "ji:cat\t🐈"
     },
     {
       "contents": "content: '\\\\1F981';",
-      "trigger": "emoji:lion-face\t🦁"
+      "trigger": "ji:lion-face\t🦁"
     },
     {
       "contents": "content: '\\\\1F42F';",
-      "trigger": "emoji:tiger-face\t🐯"
+      "trigger": "ji:tiger-face\t🐯"
     },
     {
       "contents": "content: '\\\\1F405';",
-      "trigger": "emoji:tiger\t🐅"
+      "trigger": "ji:tiger\t🐅"
     },
     {
       "contents": "content: '\\\\1F406';",
-      "trigger": "emoji:leopard\t🐆"
+      "trigger": "ji:leopard\t🐆"
     },
     {
       "contents": "content: '\\\\1F434';",
-      "trigger": "emoji:horse-face\t🐴"
+      "trigger": "ji:horse-face\t🐴"
     },
     {
       "contents": "content: '\\\\1F40E';",
-      "trigger": "emoji:horse\t🐎"
+      "trigger": "ji:horse\t🐎"
     },
     {
       "contents": "content: '\\\\1F984';",
-      "trigger": "emoji:unicorn-face\t🦄"
+      "trigger": "ji:unicorn-face\t🦄"
     },
     {
       "contents": "content: '\\\\1F42E';",
-      "trigger": "emoji:cow-face\t🐮"
+      "trigger": "ji:cow-face\t🐮"
     },
     {
       "contents": "content: '\\\\1F402';",
-      "trigger": "emoji:ox\t🐂"
+      "trigger": "ji:ox\t🐂"
     },
     {
       "contents": "content: '\\\\1F403';",
-      "trigger": "emoji:water-buffalo\t🐃"
+      "trigger": "ji:water-buffalo\t🐃"
     },
     {
       "contents": "content: '\\\\1F404';",
-      "trigger": "emoji:cow\t🐄"
+      "trigger": "ji:cow\t🐄"
     },
     {
       "contents": "content: '\\\\1F437';",
-      "trigger": "emoji:pig-face\t🐷"
+      "trigger": "ji:pig-face\t🐷"
     },
     {
       "contents": "content: '\\\\1F416';",
-      "trigger": "emoji:pig\t🐖"
+      "trigger": "ji:pig\t🐖"
     },
     {
       "contents": "content: '\\\\1F417';",
-      "trigger": "emoji:boar\t🐗"
+      "trigger": "ji:boar\t🐗"
     },
     {
       "contents": "content: '\\\\1F43D';",
-      "trigger": "emoji:pig-nose\t🐽"
+      "trigger": "ji:pig-nose\t🐽"
     },
     {
       "contents": "content: '\\\\1F40F';",
-      "trigger": "emoji:ram\t🐏"
+      "trigger": "ji:ram\t🐏"
     },
     {
       "contents": "content: '\\\\1F411';",
-      "trigger": "emoji:sheep\t🐑"
+      "trigger": "ji:sheep\t🐑"
     },
     {
       "contents": "content: '\\\\1F410';",
-      "trigger": "emoji:goat\t🐐"
+      "trigger": "ji:goat\t🐐"
     },
     {
       "contents": "content: '\\\\1F42A';",
-      "trigger": "emoji:dromedary-camel\t🐪"
+      "trigger": "ji:dromedary-camel\t🐪"
     },
     {
       "contents": "content: '\\\\1F42B';",
-      "trigger": "emoji:bactrian-camel\t🐫"
+      "trigger": "ji:bactrian-camel\t🐫"
     },
     {
       "contents": "content: '\\\\1F418';",
-      "trigger": "emoji:elephant\t🐘"
+      "trigger": "ji:elephant\t🐘"
     },
     {
       "contents": "content: '\\\\1F42D';",
-      "trigger": "emoji:mouse-face\t🐭"
+      "trigger": "ji:mouse-face\t🐭"
     },
     {
       "contents": "content: '\\\\1F401';",
-      "trigger": "emoji:mouse\t🐁"
+      "trigger": "ji:mouse\t🐁"
     },
     {
       "contents": "content: '\\\\1F400';",
-      "trigger": "emoji:rat\t🐀"
+      "trigger": "ji:rat\t🐀"
     },
     {
       "contents": "content: '\\\\1F439';",
-      "trigger": "emoji:hamster-face\t🐹"
+      "trigger": "ji:hamster-face\t🐹"
     },
     {
       "contents": "content: '\\\\1F430';",
-      "trigger": "emoji:rabbit-face\t🐰"
+      "trigger": "ji:rabbit-face\t🐰"
     },
     {
       "contents": "content: '\\\\1F407';",
-      "trigger": "emoji:rabbit\t🐇"
+      "trigger": "ji:rabbit\t🐇"
     },
     {
       "contents": "content: '\\\\1F43F';",
-      "trigger": "emoji:chipmunk\t🐿"
+      "trigger": "ji:chipmunk\t🐿"
     },
     {
       "contents": "content: '\\\\1F43B';",
-      "trigger": "emoji:bear-face\t🐻"
+      "trigger": "ji:bear-face\t🐻"
     },
     {
       "contents": "content: '\\\\1F428';",
-      "trigger": "emoji:koala\t🐨"
+      "trigger": "ji:koala\t🐨"
     },
     {
       "contents": "content: '\\\\1F43C';",
-      "trigger": "emoji:panda-face\t🐼"
+      "trigger": "ji:panda-face\t🐼"
     },
     {
       "contents": "content: '\\\\1F43E';",
-      "trigger": "emoji:paw-prints\t🐾"
+      "trigger": "ji:paw-prints\t🐾"
     },
     {
       "contents": "content: '\\\\1F983';",
-      "trigger": "emoji:turkey\t🦃"
+      "trigger": "ji:turkey\t🦃"
     },
     {
       "contents": "content: '\\\\1F414';",
-      "trigger": "emoji:chicken\t🐔"
+      "trigger": "ji:chicken\t🐔"
     },
     {
       "contents": "content: '\\\\1F413';",
-      "trigger": "emoji:rooster\t🐓"
+      "trigger": "ji:rooster\t🐓"
     },
     {
       "contents": "content: '\\\\1F423';",
-      "trigger": "emoji:hatching-chick\t🐣"
+      "trigger": "ji:hatching-chick\t🐣"
     },
     {
       "contents": "content: '\\\\1F424';",
-      "trigger": "emoji:baby-chick\t🐤"
+      "trigger": "ji:baby-chick\t🐤"
     },
     {
       "contents": "content: '\\\\1F425';",
-      "trigger": "emoji:front-facing-baby-chick\t🐥"
+      "trigger": "ji:front-facing-baby-chick\t🐥"
     },
     {
       "contents": "content: '\\\\1F426';",
-      "trigger": "emoji:bird\t🐦"
+      "trigger": "ji:bird\t🐦"
     },
     {
       "contents": "content: '\\\\1F427';",
-      "trigger": "emoji:penguin\t🐧"
+      "trigger": "ji:penguin\t🐧"
     },
     {
       "contents": "content: '\\\\1F54A';",
-      "trigger": "emoji:dove-of-peace\t🕊"
+      "trigger": "ji:dove-of-peace\t🕊"
     },
     {
       "contents": "content: '\\\\1F438';",
-      "trigger": "emoji:frog-face\t🐸"
+      "trigger": "ji:frog-face\t🐸"
     },
     {
       "contents": "content: '\\\\1F40A';",
-      "trigger": "emoji:crocodile\t🐊"
+      "trigger": "ji:crocodile\t🐊"
     },
     {
       "contents": "content: '\\\\1F422';",
-      "trigger": "emoji:turtle\t🐢"
+      "trigger": "ji:turtle\t🐢"
     },
     {
       "contents": "content: '\\\\1F40D';",
-      "trigger": "emoji:snake\t🐍"
+      "trigger": "ji:snake\t🐍"
     },
     {
       "contents": "content: '\\\\1F432';",
-      "trigger": "emoji:dragon-face\t🐲"
+      "trigger": "ji:dragon-face\t🐲"
     },
     {
       "contents": "content: '\\\\1F409';",
-      "trigger": "emoji:dragon\t🐉"
+      "trigger": "ji:dragon\t🐉"
     },
     {
       "contents": "content: '\\\\1F433';",
-      "trigger": "emoji:spouting-whale\t🐳"
+      "trigger": "ji:spouting-whale\t🐳"
     },
     {
       "contents": "content: '\\\\1F40B';",
-      "trigger": "emoji:whale\t🐋"
+      "trigger": "ji:whale\t🐋"
     },
     {
       "contents": "content: '\\\\1F42C';",
-      "trigger": "emoji:dolphin\t🐬"
+      "trigger": "ji:dolphin\t🐬"
     },
     {
       "contents": "content: '\\\\1F41F';",
-      "trigger": "emoji:fish\t🐟"
+      "trigger": "ji:fish\t🐟"
     },
     {
       "contents": "content: '\\\\1F420';",
-      "trigger": "emoji:tropical-fish\t🐠"
+      "trigger": "ji:tropical-fish\t🐠"
     },
     {
       "contents": "content: '\\\\1F421';",
-      "trigger": "emoji:blowfish\t🐡"
+      "trigger": "ji:blowfish\t🐡"
     },
     {
       "contents": "content: '\\\\1F419';",
-      "trigger": "emoji:octopus\t🐙"
+      "trigger": "ji:octopus\t🐙"
     },
     {
       "contents": "content: '\\\\1F41A';",
-      "trigger": "emoji:spiral-shell\t🐚"
+      "trigger": "ji:spiral-shell\t🐚"
     },
     {
       "contents": "content: '\\\\1F980';",
-      "trigger": "emoji:crab\t🦀"
+      "trigger": "ji:crab\t🦀"
     },
     {
       "contents": "content: '\\\\1F40C';",
-      "trigger": "emoji:snail\t🐌"
+      "trigger": "ji:snail\t🐌"
     },
     {
       "contents": "content: '\\\\1F41B';",
-      "trigger": "emoji:bug\t🐛"
+      "trigger": "ji:bug\t🐛"
     },
     {
       "contents": "content: '\\\\1F41C';",
-      "trigger": "emoji:ant\t🐜"
+      "trigger": "ji:ant\t🐜"
     },
     {
       "contents": "content: '\\\\1F41D';",
-      "trigger": "emoji:honeybee\t🐝"
+      "trigger": "ji:honeybee\t🐝"
     },
     {
       "contents": "content: '\\\\1F41E';",
-      "trigger": "emoji:lady-beetle\t🐞"
+      "trigger": "ji:lady-beetle\t🐞"
     },
     {
       "contents": "content: '\\\\1F577';",
-      "trigger": "emoji:spider\t🕷"
+      "trigger": "ji:spider\t🕷"
     },
     {
       "contents": "content: '\\\\1F578';",
-      "trigger": "emoji:spider-web\t🕸"
+      "trigger": "ji:spider-web\t🕸"
     },
     {
       "contents": "content: '\\\\1F982';",
-      "trigger": "emoji:scorpion\t🦂"
+      "trigger": "ji:scorpion\t🦂"
     },
     {
       "contents": "content: '\\\\1F490';",
-      "trigger": "emoji:bouquet\t💐"
+      "trigger": "ji:bouquet\t💐"
     },
     {
       "contents": "content: '\\\\1F338';",
-      "trigger": "emoji:cherry-blossom\t🌸"
+      "trigger": "ji:cherry-blossom\t🌸"
     },
     {
       "contents": "content: '\\\\1F4AE';",
-      "trigger": "emoji:white-flower\t💮"
+      "trigger": "ji:white-flower\t💮"
     },
     {
       "contents": "content: '\\\\1F3F5';",
-      "trigger": "emoji:rosette\t🏵"
+      "trigger": "ji:rosette\t🏵"
     },
     {
       "contents": "content: '\\\\1F339';",
-      "trigger": "emoji:rose\t🌹"
+      "trigger": "ji:rose\t🌹"
     },
     {
       "contents": "content: '\\\\1F33A';",
-      "trigger": "emoji:hibiscus\t🌺"
+      "trigger": "ji:hibiscus\t🌺"
     },
     {
       "contents": "content: '\\\\1F33B';",
-      "trigger": "emoji:sunflower\t🌻"
+      "trigger": "ji:sunflower\t🌻"
     },
     {
       "contents": "content: '\\\\1F33C';",
-      "trigger": "emoji:blossom\t🌼"
+      "trigger": "ji:blossom\t🌼"
     },
     {
       "contents": "content: '\\\\1F337';",
-      "trigger": "emoji:tulip\t🌷"
+      "trigger": "ji:tulip\t🌷"
     },
     {
       "contents": "content: '\\\\1F331';",
-      "trigger": "emoji:seedling\t🌱"
+      "trigger": "ji:seedling\t🌱"
     },
     {
       "contents": "content: '\\\\1F332';",
-      "trigger": "emoji:evergreen-tree\t🌲"
+      "trigger": "ji:evergreen-tree\t🌲"
     },
     {
       "contents": "content: '\\\\1F333';",
-      "trigger": "emoji:deciduous-tree\t🌳"
+      "trigger": "ji:deciduous-tree\t🌳"
     },
     {
       "contents": "content: '\\\\1F334';",
-      "trigger": "emoji:palm-tree\t🌴"
+      "trigger": "ji:palm-tree\t🌴"
     },
     {
       "contents": "content: '\\\\1F335';",
-      "trigger": "emoji:cactus\t🌵"
+      "trigger": "ji:cactus\t🌵"
     },
     {
       "contents": "content: '\\\\1F33E';",
-      "trigger": "emoji:ear-of-rice\t🌾"
+      "trigger": "ji:ear-of-rice\t🌾"
     },
     {
       "contents": "content: '\\\\1F33F';",
-      "trigger": "emoji:herb\t🌿"
+      "trigger": "ji:herb\t🌿"
     },
     {
       "contents": "content: '\\\\2618';",
-      "trigger": "emoji:shamrock\t☘"
+      "trigger": "ji:shamrock\t☘"
     },
     {
       "contents": "content: '\\\\1F340';",
-      "trigger": "emoji:four-leaf-clover\t🍀"
+      "trigger": "ji:four-leaf-clover\t🍀"
     },
     {
       "contents": "content: '\\\\1F341';",
-      "trigger": "emoji:maple-leaf\t🍁"
+      "trigger": "ji:maple-leaf\t🍁"
     },
     {
       "contents": "content: '\\\\1F342';",
-      "trigger": "emoji:fallen-leaf\t🍂"
+      "trigger": "ji:fallen-leaf\t🍂"
     },
     {
       "contents": "content: '\\\\1F343';",
-      "trigger": "emoji:leaf-fluttering-in-wind\t🍃"
+      "trigger": "ji:leaf-fluttering-in-wind\t🍃"
     },
     {
       "contents": "content: '\\\\1F347';",
-      "trigger": "emoji:grapes\t🍇"
+      "trigger": "ji:grapes\t🍇"
     },
     {
       "contents": "content: '\\\\1F348';",
-      "trigger": "emoji:melon\t🍈"
+      "trigger": "ji:melon\t🍈"
     },
     {
       "contents": "content: '\\\\1F349';",
-      "trigger": "emoji:watermelon\t🍉"
+      "trigger": "ji:watermelon\t🍉"
     },
     {
       "contents": "content: '\\\\1F34A';",
-      "trigger": "emoji:tangerine\t🍊"
+      "trigger": "ji:tangerine\t🍊"
     },
     {
       "contents": "content: '\\\\1F34B';",
-      "trigger": "emoji:lemon\t🍋"
+      "trigger": "ji:lemon\t🍋"
     },
     {
       "contents": "content: '\\\\1F34C';",
-      "trigger": "emoji:banana\t🍌"
+      "trigger": "ji:banana\t🍌"
     },
     {
       "contents": "content: '\\\\1F34D';",
-      "trigger": "emoji:pineapple\t🍍"
+      "trigger": "ji:pineapple\t🍍"
     },
     {
       "contents": "content: '\\\\1F34E';",
-      "trigger": "emoji:red-apple\t🍎"
+      "trigger": "ji:red-apple\t🍎"
     },
     {
       "contents": "content: '\\\\1F34F';",
-      "trigger": "emoji:green-apple\t🍏"
+      "trigger": "ji:green-apple\t🍏"
     },
     {
       "contents": "content: '\\\\1F350';",
-      "trigger": "emoji:pear\t🍐"
+      "trigger": "ji:pear\t🍐"
     },
     {
       "contents": "content: '\\\\1F351';",
-      "trigger": "emoji:peach\t🍑"
+      "trigger": "ji:peach\t🍑"
     },
     {
       "contents": "content: '\\\\1F352';",
-      "trigger": "emoji:cherries\t🍒"
+      "trigger": "ji:cherries\t🍒"
     },
     {
       "contents": "content: '\\\\1F353';",
-      "trigger": "emoji:strawberry\t🍓"
+      "trigger": "ji:strawberry\t🍓"
     },
     {
       "contents": "content: '\\\\1F345';",
-      "trigger": "emoji:tomato\t🍅"
+      "trigger": "ji:tomato\t🍅"
     },
     {
       "contents": "content: '\\\\1F346';",
-      "trigger": "emoji:aubergine\t🍆"
+      "trigger": "ji:aubergine\t🍆"
     },
     {
       "contents": "content: '\\\\1F33D';",
-      "trigger": "emoji:ear-of-maize\t🌽"
+      "trigger": "ji:ear-of-maize\t🌽"
     },
     {
       "contents": "content: '\\\\1F336';",
-      "trigger": "emoji:hot-pepper\t🌶"
+      "trigger": "ji:hot-pepper\t🌶"
     },
     {
       "contents": "content: '\\\\1F344';",
-      "trigger": "emoji:mushroom\t🍄"
+      "trigger": "ji:mushroom\t🍄"
     },
     {
       "contents": "content: '\\\\1F330';",
-      "trigger": "emoji:chestnut\t🌰"
+      "trigger": "ji:chestnut\t🌰"
     },
     {
       "contents": "content: '\\\\1F35E';",
-      "trigger": "emoji:bread\t🍞"
+      "trigger": "ji:bread\t🍞"
     },
     {
       "contents": "content: '\\\\1F9C0';",
-      "trigger": "emoji:cheese-wedge\t🧀"
+      "trigger": "ji:cheese-wedge\t🧀"
     },
     {
       "contents": "content: '\\\\1F356';",
-      "trigger": "emoji:meat-on-bone\t🍖"
+      "trigger": "ji:meat-on-bone\t🍖"
     },
     {
       "contents": "content: '\\\\1F357';",
-      "trigger": "emoji:poultry-leg\t🍗"
+      "trigger": "ji:poultry-leg\t🍗"
     },
     {
       "contents": "content: '\\\\1F354';",
-      "trigger": "emoji:hamburger\t🍔"
+      "trigger": "ji:hamburger\t🍔"
     },
     {
       "contents": "content: '\\\\1F35F';",
-      "trigger": "emoji:french-fries\t🍟"
+      "trigger": "ji:french-fries\t🍟"
     },
     {
       "contents": "content: '\\\\1F355';",
-      "trigger": "emoji:slice-of-pizza\t🍕"
+      "trigger": "ji:slice-of-pizza\t🍕"
     },
     {
       "contents": "content: '\\\\1F32D';",
-      "trigger": "emoji:hot-dog\t🌭"
+      "trigger": "ji:hot-dog\t🌭"
     },
     {
       "contents": "content: '\\\\1F32E';",
-      "trigger": "emoji:taco\t🌮"
+      "trigger": "ji:taco\t🌮"
     },
     {
       "contents": "content: '\\\\1F32F';",
-      "trigger": "emoji:burrito\t🌯"
+      "trigger": "ji:burrito\t🌯"
     },
     {
       "contents": "content: '\\\\1F373';",
-      "trigger": "emoji:cooking\t🍳"
+      "trigger": "ji:cooking\t🍳"
     },
     {
       "contents": "content: '\\\\1F372';",
-      "trigger": "emoji:pot-of-food\t🍲"
+      "trigger": "ji:pot-of-food\t🍲"
     },
     {
       "contents": "content: '\\\\1F37F';",
-      "trigger": "emoji:popcorn\t🍿"
+      "trigger": "ji:popcorn\t🍿"
     },
     {
       "contents": "content: '\\\\1F371';",
-      "trigger": "emoji:bento-box\t🍱"
+      "trigger": "ji:bento-box\t🍱"
     },
     {
       "contents": "content: '\\\\1F358';",
-      "trigger": "emoji:rice-cracker\t🍘"
+      "trigger": "ji:rice-cracker\t🍘"
     },
     {
       "contents": "content: '\\\\1F359';",
-      "trigger": "emoji:rice-ball\t🍙"
+      "trigger": "ji:rice-ball\t🍙"
     },
     {
       "contents": "content: '\\\\1F35A';",
-      "trigger": "emoji:cooked-rice\t🍚"
+      "trigger": "ji:cooked-rice\t🍚"
     },
     {
       "contents": "content: '\\\\1F35B';",
-      "trigger": "emoji:curry-and-rice\t🍛"
+      "trigger": "ji:curry-and-rice\t🍛"
     },
     {
       "contents": "content: '\\\\1F35C';",
-      "trigger": "emoji:steaming-bowl\t🍜"
+      "trigger": "ji:steaming-bowl\t🍜"
     },
     {
       "contents": "content: '\\\\1F35D';",
-      "trigger": "emoji:spaghetti\t🍝"
+      "trigger": "ji:spaghetti\t🍝"
     },
     {
       "contents": "content: '\\\\1F360';",
-      "trigger": "emoji:roasted-sweet-potato\t🍠"
+      "trigger": "ji:roasted-sweet-potato\t🍠"
     },
     {
       "contents": "content: '\\\\1F362';",
-      "trigger": "emoji:oden\t🍢"
+      "trigger": "ji:oden\t🍢"
     },
     {
       "contents": "content: '\\\\1F363';",
-      "trigger": "emoji:sushi\t🍣"
+      "trigger": "ji:sushi\t🍣"
     },
     {
       "contents": "content: '\\\\1F364';",
-      "trigger": "emoji:fried-shrimp\t🍤"
+      "trigger": "ji:fried-shrimp\t🍤"
     },
     {
       "contents": "content: '\\\\1F365';",
-      "trigger": "emoji:fish-cake-with-swirl-design\t🍥"
+      "trigger": "ji:fish-cake-with-swirl-design\t🍥"
     },
     {
       "contents": "content: '\\\\1F361';",
-      "trigger": "emoji:dango\t🍡"
+      "trigger": "ji:dango\t🍡"
     },
     {
       "contents": "content: '\\\\1F366';",
-      "trigger": "emoji:soft-ice-cream\t🍦"
+      "trigger": "ji:soft-ice-cream\t🍦"
     },
     {
       "contents": "content: '\\\\1F367';",
-      "trigger": "emoji:shaved-ice\t🍧"
+      "trigger": "ji:shaved-ice\t🍧"
     },
     {
       "contents": "content: '\\\\1F368';",
-      "trigger": "emoji:ice-cream\t🍨"
+      "trigger": "ji:ice-cream\t🍨"
     },
     {
       "contents": "content: '\\\\1F369';",
-      "trigger": "emoji:doughnut\t🍩"
+      "trigger": "ji:doughnut\t🍩"
     },
     {
       "contents": "content: '\\\\1F36A';",
-      "trigger": "emoji:cookie\t🍪"
+      "trigger": "ji:cookie\t🍪"
     },
     {
       "contents": "content: '\\\\1F382';",
-      "trigger": "emoji:birthday-cake\t🎂"
+      "trigger": "ji:birthday-cake\t🎂"
     },
     {
       "contents": "content: '\\\\1F370';",
-      "trigger": "emoji:shortcake\t🍰"
+      "trigger": "ji:shortcake\t🍰"
     },
     {
       "contents": "content: '\\\\1F36B';",
-      "trigger": "emoji:chocolate-bar\t🍫"
+      "trigger": "ji:chocolate-bar\t🍫"
     },
     {
       "contents": "content: '\\\\1F36C';",
-      "trigger": "emoji:candy\t🍬"
+      "trigger": "ji:candy\t🍬"
     },
     {
       "contents": "content: '\\\\1F36D';",
-      "trigger": "emoji:lollipop\t🍭"
+      "trigger": "ji:lollipop\t🍭"
     },
     {
       "contents": "content: '\\\\1F36E';",
-      "trigger": "emoji:custard\t🍮"
+      "trigger": "ji:custard\t🍮"
     },
     {
       "contents": "content: '\\\\1F36F';",
-      "trigger": "emoji:honey-pot\t🍯"
+      "trigger": "ji:honey-pot\t🍯"
     },
     {
       "contents": "content: '\\\\1F37C';",
-      "trigger": "emoji:baby-bottle\t🍼"
+      "trigger": "ji:baby-bottle\t🍼"
     },
     {
       "contents": "content: '\\\\2615';",
-      "trigger": "emoji:hot-beverage\t☕"
+      "trigger": "ji:hot-beverage\t☕"
     },
     {
       "contents": "content: '\\\\1F375';",
-      "trigger": "emoji:teacup-without-handle\t🍵"
+      "trigger": "ji:teacup-without-handle\t🍵"
     },
     {
       "contents": "content: '\\\\1F376';",
-      "trigger": "emoji:sake-bottle-and-cup\t🍶"
+      "trigger": "ji:sake-bottle-and-cup\t🍶"
     },
     {
       "contents": "content: '\\\\1F37E';",
-      "trigger": "emoji:bottle-with-popping-cork\t🍾"
+      "trigger": "ji:bottle-with-popping-cork\t🍾"
     },
     {
       "contents": "content: '\\\\1F377';",
-      "trigger": "emoji:wine-glass\t🍷"
+      "trigger": "ji:wine-glass\t🍷"
     },
     {
       "contents": "content: '\\\\1F378';",
-      "trigger": "emoji:cocktail-glass\t🍸"
+      "trigger": "ji:cocktail-glass\t🍸"
     },
     {
       "contents": "content: '\\\\1F379';",
-      "trigger": "emoji:tropical-drink\t🍹"
+      "trigger": "ji:tropical-drink\t🍹"
     },
     {
       "contents": "content: '\\\\1F37A';",
-      "trigger": "emoji:beer-mug\t🍺"
+      "trigger": "ji:beer-mug\t🍺"
     },
     {
       "contents": "content: '\\\\1F37B';",
-      "trigger": "emoji:clinking-beer-mugs\t🍻"
+      "trigger": "ji:clinking-beer-mugs\t🍻"
     },
     {
       "contents": "content: '\\\\1F37D';",
-      "trigger": "emoji:fork-and-knife-with-plate\t🍽"
+      "trigger": "ji:fork-and-knife-with-plate\t🍽"
     },
     {
       "contents": "content: '\\\\1F374';",
-      "trigger": "emoji:fork-and-knife\t🍴"
+      "trigger": "ji:fork-and-knife\t🍴"
     },
     {
       "contents": "content: '\\\\1F52A';",
-      "trigger": "emoji:hocho\t🔪"
+      "trigger": "ji:hocho\t🔪"
     },
     {
       "contents": "content: '\\\\1F3FA';",
-      "trigger": "emoji:amphora\t🏺"
+      "trigger": "ji:amphora\t🏺"
     },
     {
       "contents": "content: '\\\\1F30D';",
-      "trigger": "emoji:earth-globe-europe-africa\t🌍"
+      "trigger": "ji:earth-globe-europe-africa\t🌍"
     },
     {
       "contents": "content: '\\\\1F30E';",
-      "trigger": "emoji:earth-globe-americas\t🌎"
+      "trigger": "ji:earth-globe-americas\t🌎"
     },
     {
       "contents": "content: '\\\\1F30F';",
-      "trigger": "emoji:earth-globe-asia-australia\t🌏"
+      "trigger": "ji:earth-globe-asia-australia\t🌏"
     },
     {
       "contents": "content: '\\\\1F310';",
-      "trigger": "emoji:globe-with-meridians\t🌐"
+      "trigger": "ji:globe-with-meridians\t🌐"
     },
     {
       "contents": "content: '\\\\1F5FA';",
-      "trigger": "emoji:world-map\t🗺"
+      "trigger": "ji:world-map\t🗺"
     },
     {
       "contents": "content: '\\\\1F5FE';",
-      "trigger": "emoji:silhouette-of-japan\t🗾"
+      "trigger": "ji:silhouette-of-japan\t🗾"
     },
     {
       "contents": "content: '\\\\1F3D4';",
-      "trigger": "emoji:snow-capped-mountain\t🏔"
+      "trigger": "ji:snow-capped-mountain\t🏔"
     },
     {
       "contents": "content: '\\\\26F0';",
-      "trigger": "emoji:mountain\t⛰"
+      "trigger": "ji:mountain\t⛰"
     },
     {
       "contents": "content: '\\\\1F30B';",
-      "trigger": "emoji:volcano\t🌋"
+      "trigger": "ji:volcano\t🌋"
     },
     {
       "contents": "content: '\\\\1F5FB';",
-      "trigger": "emoji:mount-fuji\t🗻"
+      "trigger": "ji:mount-fuji\t🗻"
     },
     {
       "contents": "content: '\\\\1F3D5';",
-      "trigger": "emoji:camping\t🏕"
+      "trigger": "ji:camping\t🏕"
     },
     {
       "contents": "content: '\\\\1F3D6';",
-      "trigger": "emoji:beach-with-umbrella\t🏖"
+      "trigger": "ji:beach-with-umbrella\t🏖"
     },
     {
       "contents": "content: '\\\\1F3DC';",
-      "trigger": "emoji:desert\t🏜"
+      "trigger": "ji:desert\t🏜"
     },
     {
       "contents": "content: '\\\\1F3DD';",
-      "trigger": "emoji:desert-island\t🏝"
+      "trigger": "ji:desert-island\t🏝"
     },
     {
       "contents": "content: '\\\\1F3DE';",
-      "trigger": "emoji:national-park\t🏞"
+      "trigger": "ji:national-park\t🏞"
     },
     {
       "contents": "content: '\\\\1F3DF';",
-      "trigger": "emoji:stadium\t🏟"
+      "trigger": "ji:stadium\t🏟"
     },
     {
       "contents": "content: '\\\\1F3DB';",
-      "trigger": "emoji:classical-building\t🏛"
+      "trigger": "ji:classical-building\t🏛"
     },
     {
       "contents": "content: '\\\\1F3D7';",
-      "trigger": "emoji:building-construction\t🏗"
+      "trigger": "ji:building-construction\t🏗"
     },
     {
       "contents": "content: '\\\\1F3D8';",
-      "trigger": "emoji:house-buildings\t🏘"
+      "trigger": "ji:house-buildings\t🏘"
     },
     {
       "contents": "content: '\\\\1F3D9';",
-      "trigger": "emoji:cityscape\t🏙"
+      "trigger": "ji:cityscape\t🏙"
     },
     {
       "contents": "content: '\\\\1F3DA';",
-      "trigger": "emoji:derelict-house-building\t🏚"
+      "trigger": "ji:derelict-house-building\t🏚"
     },
     {
       "contents": "content: '\\\\1F3E0';",
-      "trigger": "emoji:house-building\t🏠"
+      "trigger": "ji:house-building\t🏠"
     },
     {
       "contents": "content: '\\\\1F3E1';",
-      "trigger": "emoji:house-with-garden\t🏡"
+      "trigger": "ji:house-with-garden\t🏡"
     },
     {
       "contents": "content: '\\\\1F3E2';",
-      "trigger": "emoji:office-building\t🏢"
+      "trigger": "ji:office-building\t🏢"
     },
     {
       "contents": "content: '\\\\1F3E3';",
-      "trigger": "emoji:japanese-post-office\t🏣"
+      "trigger": "ji:japanese-post-office\t🏣"
     },
     {
       "contents": "content: '\\\\1F3E4';",
-      "trigger": "emoji:european-post-office\t🏤"
+      "trigger": "ji:european-post-office\t🏤"
     },
     {
       "contents": "content: '\\\\1F3E5';",
-      "trigger": "emoji:hospital\t🏥"
+      "trigger": "ji:hospital\t🏥"
     },
     {
       "contents": "content: '\\\\1F3E6';",
-      "trigger": "emoji:bank\t🏦"
+      "trigger": "ji:bank\t🏦"
     },
     {
       "contents": "content: '\\\\1F3E8';",
-      "trigger": "emoji:hotel\t🏨"
+      "trigger": "ji:hotel\t🏨"
     },
     {
       "contents": "content: '\\\\1F3E9';",
-      "trigger": "emoji:love-hotel\t🏩"
+      "trigger": "ji:love-hotel\t🏩"
     },
     {
       "contents": "content: '\\\\1F3EA';",
-      "trigger": "emoji:convenience-store\t🏪"
+      "trigger": "ji:convenience-store\t🏪"
     },
     {
       "contents": "content: '\\\\1F3EB';",
-      "trigger": "emoji:school\t🏫"
+      "trigger": "ji:school\t🏫"
     },
     {
       "contents": "content: '\\\\1F3EC';",
-      "trigger": "emoji:department-store\t🏬"
+      "trigger": "ji:department-store\t🏬"
     },
     {
       "contents": "content: '\\\\1F3ED';",
-      "trigger": "emoji:factory\t🏭"
+      "trigger": "ji:factory\t🏭"
     },
     {
       "contents": "content: '\\\\1F3EF';",
-      "trigger": "emoji:japanese-castle\t🏯"
+      "trigger": "ji:japanese-castle\t🏯"
     },
     {
       "contents": "content: '\\\\1F3F0';",
-      "trigger": "emoji:european-castle\t🏰"
+      "trigger": "ji:european-castle\t🏰"
     },
     {
       "contents": "content: '\\\\1F492';",
-      "trigger": "emoji:wedding\t💒"
+      "trigger": "ji:wedding\t💒"
     },
     {
       "contents": "content: '\\\\1F5FC';",
-      "trigger": "emoji:tokyo-tower\t🗼"
+      "trigger": "ji:tokyo-tower\t🗼"
     },
     {
       "contents": "content: '\\\\1F5FD';",
-      "trigger": "emoji:statue-of-liberty\t🗽"
+      "trigger": "ji:statue-of-liberty\t🗽"
     },
     {
       "contents": "content: '\\\\26EA';",
-      "trigger": "emoji:church\t⛪"
+      "trigger": "ji:church\t⛪"
     },
     {
       "contents": "content: '\\\\1F54C';",
-      "trigger": "emoji:mosque\t🕌"
+      "trigger": "ji:mosque\t🕌"
     },
     {
       "contents": "content: '\\\\1F54D';",
-      "trigger": "emoji:synagogue\t🕍"
+      "trigger": "ji:synagogue\t🕍"
     },
     {
       "contents": "content: '\\\\26E9';",
-      "trigger": "emoji:shinto-shrine\t⛩"
+      "trigger": "ji:shinto-shrine\t⛩"
     },
     {
       "contents": "content: '\\\\1F54B';",
-      "trigger": "emoji:kaaba\t🕋"
+      "trigger": "ji:kaaba\t🕋"
     },
     {
       "contents": "content: '\\\\26F2';",
-      "trigger": "emoji:fountain\t⛲"
+      "trigger": "ji:fountain\t⛲"
     },
     {
       "contents": "content: '\\\\26FA';",
-      "trigger": "emoji:tent\t⛺"
+      "trigger": "ji:tent\t⛺"
     },
     {
       "contents": "content: '\\\\1F301';",
-      "trigger": "emoji:foggy\t🌁"
+      "trigger": "ji:foggy\t🌁"
     },
     {
       "contents": "content: '\\\\1F303';",
-      "trigger": "emoji:night-with-stars\t🌃"
+      "trigger": "ji:night-with-stars\t🌃"
     },
     {
       "contents": "content: '\\\\1F304';",
-      "trigger": "emoji:sunrise-over-mountains\t🌄"
+      "trigger": "ji:sunrise-over-mountains\t🌄"
     },
     {
       "contents": "content: '\\\\1F305';",
-      "trigger": "emoji:sunrise\t🌅"
+      "trigger": "ji:sunrise\t🌅"
     },
     {
       "contents": "content: '\\\\1F306';",
-      "trigger": "emoji:cityscape-at-dusk\t🌆"
+      "trigger": "ji:cityscape-at-dusk\t🌆"
     },
     {
       "contents": "content: '\\\\1F307';",
-      "trigger": "emoji:sunset-over-buildings\t🌇"
+      "trigger": "ji:sunset-over-buildings\t🌇"
     },
     {
       "contents": "content: '\\\\1F309';",
-      "trigger": "emoji:bridge-at-night\t🌉"
+      "trigger": "ji:bridge-at-night\t🌉"
     },
     {
       "contents": "content: '\\\\2668';",
-      "trigger": "emoji:hot-springs\t♨"
+      "trigger": "ji:hot-springs\t♨"
     },
     {
       "contents": "content: '\\\\1F30C';",
-      "trigger": "emoji:milky-way\t🌌"
+      "trigger": "ji:milky-way\t🌌"
     },
     {
       "contents": "content: '\\\\1F3A0';",
-      "trigger": "emoji:carousel-horse\t🎠"
+      "trigger": "ji:carousel-horse\t🎠"
     },
     {
       "contents": "content: '\\\\1F3A1';",
-      "trigger": "emoji:ferris-wheel\t🎡"
+      "trigger": "ji:ferris-wheel\t🎡"
     },
     {
       "contents": "content: '\\\\1F3A2';",
-      "trigger": "emoji:roller-coaster\t🎢"
+      "trigger": "ji:roller-coaster\t🎢"
     },
     {
       "contents": "content: '\\\\1F488';",
-      "trigger": "emoji:barber-pole\t💈"
+      "trigger": "ji:barber-pole\t💈"
     },
     {
       "contents": "content: '\\\\1F3AA';",
-      "trigger": "emoji:circus-tent\t🎪"
+      "trigger": "ji:circus-tent\t🎪"
     },
     {
       "contents": "content: '\\\\1F3AD';",
-      "trigger": "emoji:performing-arts\t🎭"
+      "trigger": "ji:performing-arts\t🎭"
     },
     {
       "contents": "content: '\\\\1F5BC';",
-      "trigger": "emoji:frame-with-picture\t🖼"
+      "trigger": "ji:frame-with-picture\t🖼"
     },
     {
       "contents": "content: '\\\\1F3A8';",
-      "trigger": "emoji:artist-palette\t🎨"
+      "trigger": "ji:artist-palette\t🎨"
     },
     {
       "contents": "content: '\\\\1F3B0';",
-      "trigger": "emoji:slot-machine\t🎰"
+      "trigger": "ji:slot-machine\t🎰"
     },
     {
       "contents": "content: '\\\\1F682';",
-      "trigger": "emoji:steam-locomotive\t🚂"
+      "trigger": "ji:steam-locomotive\t🚂"
     },
     {
       "contents": "content: '\\\\1F683';",
-      "trigger": "emoji:railway-car\t🚃"
+      "trigger": "ji:railway-car\t🚃"
     },
     {
       "contents": "content: '\\\\1F684';",
-      "trigger": "emoji:high-speed-train\t🚄"
+      "trigger": "ji:high-speed-train\t🚄"
     },
     {
       "contents": "content: '\\\\1F685';",
-      "trigger": "emoji:high-speed-train-with-bullet-nose\t🚅"
+      "trigger": "ji:high-speed-train-with-bullet-nose\t🚅"
     },
     {
       "contents": "content: '\\\\1F686';",
-      "trigger": "emoji:train\t🚆"
+      "trigger": "ji:train\t🚆"
     },
     {
       "contents": "content: '\\\\1F687';",
-      "trigger": "emoji:metro\t🚇"
+      "trigger": "ji:metro\t🚇"
     },
     {
       "contents": "content: '\\\\1F688';",
-      "trigger": "emoji:light-rail\t🚈"
+      "trigger": "ji:light-rail\t🚈"
     },
     {
       "contents": "content: '\\\\1F689';",
-      "trigger": "emoji:station\t🚉"
+      "trigger": "ji:station\t🚉"
     },
     {
       "contents": "content: '\\\\1F68A';",
-      "trigger": "emoji:tram\t🚊"
+      "trigger": "ji:tram\t🚊"
     },
     {
       "contents": "content: '\\\\1F69D';",
-      "trigger": "emoji:monorail\t🚝"
+      "trigger": "ji:monorail\t🚝"
     },
     {
       "contents": "content: '\\\\1F69E';",
-      "trigger": "emoji:mountain-railway\t🚞"
+      "trigger": "ji:mountain-railway\t🚞"
     },
     {
       "contents": "content: '\\\\1F68B';",
-      "trigger": "emoji:tram-car\t🚋"
+      "trigger": "ji:tram-car\t🚋"
     },
     {
       "contents": "content: '\\\\1F68C';",
-      "trigger": "emoji:bus\t🚌"
+      "trigger": "ji:bus\t🚌"
     },
     {
       "contents": "content: '\\\\1F68D';",
-      "trigger": "emoji:oncoming-bus\t🚍"
+      "trigger": "ji:oncoming-bus\t🚍"
     },
     {
       "contents": "content: '\\\\1F68E';",
-      "trigger": "emoji:trolleybus\t🚎"
+      "trigger": "ji:trolleybus\t🚎"
     },
     {
       "contents": "content: '\\\\1F68F';",
-      "trigger": "emoji:bus-stop\t🚏"
+      "trigger": "ji:bus-stop\t🚏"
     },
     {
       "contents": "content: '\\\\1F690';",
-      "trigger": "emoji:minibus\t🚐"
+      "trigger": "ji:minibus\t🚐"
     },
     {
       "contents": "content: '\\\\1F691';",
-      "trigger": "emoji:ambulance\t🚑"
+      "trigger": "ji:ambulance\t🚑"
     },
     {
       "contents": "content: '\\\\1F692';",
-      "trigger": "emoji:fire-engine\t🚒"
+      "trigger": "ji:fire-engine\t🚒"
     },
     {
       "contents": "content: '\\\\1F693';",
-      "trigger": "emoji:police-car\t🚓"
+      "trigger": "ji:police-car\t🚓"
     },
     {
       "contents": "content: '\\\\1F694';",
-      "trigger": "emoji:oncoming-police-car\t🚔"
+      "trigger": "ji:oncoming-police-car\t🚔"
     },
     {
       "contents": "content: '\\\\1F695';",
-      "trigger": "emoji:taxi\t🚕"
+      "trigger": "ji:taxi\t🚕"
     },
     {
       "contents": "content: '\\\\1F696';",
-      "trigger": "emoji:oncoming-taxi\t🚖"
+      "trigger": "ji:oncoming-taxi\t🚖"
     },
     {
       "contents": "content: '\\\\1F697';",
-      "trigger": "emoji:automobile\t🚗"
+      "trigger": "ji:automobile\t🚗"
     },
     {
       "contents": "content: '\\\\1F698';",
-      "trigger": "emoji:oncoming-automobile\t🚘"
+      "trigger": "ji:oncoming-automobile\t🚘"
     },
     {
       "contents": "content: '\\\\1F699';",
-      "trigger": "emoji:recreational-vehicle\t🚙"
+      "trigger": "ji:recreational-vehicle\t🚙"
     },
     {
       "contents": "content: '\\\\1F69A';",
-      "trigger": "emoji:delivery-truck\t🚚"
+      "trigger": "ji:delivery-truck\t🚚"
     },
     {
       "contents": "content: '\\\\1F69B';",
-      "trigger": "emoji:articulated-lorry\t🚛"
+      "trigger": "ji:articulated-lorry\t🚛"
     },
     {
       "contents": "content: '\\\\1F69C';",
-      "trigger": "emoji:tractor\t🚜"
+      "trigger": "ji:tractor\t🚜"
     },
     {
       "contents": "content: '\\\\1F6B2';",
-      "trigger": "emoji:bicycle\t🚲"
+      "trigger": "ji:bicycle\t🚲"
     },
     {
       "contents": "content: '\\\\26FD';",
-      "trigger": "emoji:fuel-pump\t⛽"
+      "trigger": "ji:fuel-pump\t⛽"
     },
     {
       "contents": "content: '\\\\1F6E3';",
-      "trigger": "emoji:motorway\t🛣"
+      "trigger": "ji:motorway\t🛣"
     },
     {
       "contents": "content: '\\\\1F6E4';",
-      "trigger": "emoji:railway-track\t🛤"
+      "trigger": "ji:railway-track\t🛤"
     },
     {
       "contents": "content: '\\\\1F6A8';",
-      "trigger": "emoji:police-cars-revolving-light\t🚨"
+      "trigger": "ji:police-cars-revolving-light\t🚨"
     },
     {
       "contents": "content: '\\\\1F6A5';",
-      "trigger": "emoji:horizontal-traffic-light\t🚥"
+      "trigger": "ji:horizontal-traffic-light\t🚥"
     },
     {
       "contents": "content: '\\\\1F6A6';",
-      "trigger": "emoji:vertical-traffic-light\t🚦"
+      "trigger": "ji:vertical-traffic-light\t🚦"
     },
     {
       "contents": "content: '\\\\1F6A7';",
-      "trigger": "emoji:construction-sign\t🚧"
+      "trigger": "ji:construction-sign\t🚧"
     },
     {
       "contents": "content: '\\\\2693';",
-      "trigger": "emoji:anchor\t⚓"
+      "trigger": "ji:anchor\t⚓"
     },
     {
       "contents": "content: '\\\\26F5';",
-      "trigger": "emoji:sailboat\t⛵"
+      "trigger": "ji:sailboat\t⛵"
     },
     {
       "contents": "content: '\\\\1F6A3';",
-      "trigger": "emoji:rowboat\t🚣"
+      "trigger": "ji:rowboat\t🚣"
     },
     {
       "contents": "content: '\\\\1F6A4';",
-      "trigger": "emoji:speedboat\t🚤"
+      "trigger": "ji:speedboat\t🚤"
     },
     {
       "contents": "content: '\\\\1F6F3';",
-      "trigger": "emoji:passenger-ship\t🛳"
+      "trigger": "ji:passenger-ship\t🛳"
     },
     {
       "contents": "content: '\\\\26F4';",
-      "trigger": "emoji:ferry\t⛴"
+      "trigger": "ji:ferry\t⛴"
     },
     {
       "contents": "content: '\\\\1F6E5';",
-      "trigger": "emoji:motor-boat\t🛥"
+      "trigger": "ji:motor-boat\t🛥"
     },
     {
       "contents": "content: '\\\\1F6A2';",
-      "trigger": "emoji:ship\t🚢"
+      "trigger": "ji:ship\t🚢"
     },
     {
       "contents": "content: '\\\\2708';",
-      "trigger": "emoji:airplane\t✈"
+      "trigger": "ji:airplane\t✈"
     },
     {
       "contents": "content: '\\\\1F6E9';",
-      "trigger": "emoji:small-airplane\t🛩"
+      "trigger": "ji:small-airplane\t🛩"
     },
     {
       "contents": "content: '\\\\1F6EB';",
-      "trigger": "emoji:airplane-departure\t🛫"
+      "trigger": "ji:airplane-departure\t🛫"
     },
     {
       "contents": "content: '\\\\1F6EC';",
-      "trigger": "emoji:airplane-arriving\t🛬"
+      "trigger": "ji:airplane-arriving\t🛬"
     },
     {
       "contents": "content: '\\\\1F4BA';",
-      "trigger": "emoji:seat\t💺"
+      "trigger": "ji:seat\t💺"
     },
     {
       "contents": "content: '\\\\1F681';",
-      "trigger": "emoji:helicopter\t🚁"
+      "trigger": "ji:helicopter\t🚁"
     },
     {
       "contents": "content: '\\\\1F69F';",
-      "trigger": "emoji:suspension-railway\t🚟"
+      "trigger": "ji:suspension-railway\t🚟"
     },
     {
       "contents": "content: '\\\\1F6A0';",
-      "trigger": "emoji:mountain-cableway\t🚠"
+      "trigger": "ji:mountain-cableway\t🚠"
     },
     {
       "contents": "content: '\\\\1F6A1';",
-      "trigger": "emoji:aerial-tramway\t🚡"
+      "trigger": "ji:aerial-tramway\t🚡"
     },
     {
       "contents": "content: '\\\\1F680';",
-      "trigger": "emoji:rocket\t🚀"
+      "trigger": "ji:rocket\t🚀"
     },
     {
       "contents": "content: '\\\\1F6F0';",
-      "trigger": "emoji:satellite\t🛰"
+      "trigger": "ji:satellite\t🛰"
     },
     {
       "contents": "content: '\\\\1F6CE';",
-      "trigger": "emoji:bellhop-bell\t🛎"
+      "trigger": "ji:bellhop-bell\t🛎"
     },
     {
       "contents": "content: '\\\\1F6AA';",
-      "trigger": "emoji:door\t🚪"
+      "trigger": "ji:door\t🚪"
     },
     {
       "contents": "content: '\\\\1F6CC';",
-      "trigger": "emoji:sleeping-accommodation\t🛌"
+      "trigger": "ji:sleeping-accommodation\t🛌"
     },
     {
       "contents": "content: '\\\\1F6CF';",
-      "trigger": "emoji:bed\t🛏"
+      "trigger": "ji:bed\t🛏"
     },
     {
       "contents": "content: '\\\\1F6CB';",
-      "trigger": "emoji:couch-and-lamp\t🛋"
+      "trigger": "ji:couch-and-lamp\t🛋"
     },
     {
       "contents": "content: '\\\\1F6BD';",
-      "trigger": "emoji:toilet\t🚽"
+      "trigger": "ji:toilet\t🚽"
     },
     {
       "contents": "content: '\\\\1F6BF';",
-      "trigger": "emoji:shower\t🚿"
+      "trigger": "ji:shower\t🚿"
     },
     {
       "contents": "content: '\\\\1F6C0';",
-      "trigger": "emoji:bath\t🛀"
+      "trigger": "ji:bath\t🛀"
     },
     {
       "contents": "content: '\\\\1F6C1';",
-      "trigger": "emoji:bathtub\t🛁"
+      "trigger": "ji:bathtub\t🛁"
     },
     {
       "contents": "content: '\\\\231B';",
-      "trigger": "emoji:hourglass\t⌛"
+      "trigger": "ji:hourglass\t⌛"
     },
     {
       "contents": "content: '\\\\23F3';",
-      "trigger": "emoji:hourglass-with-flowing-sand\t⏳"
+      "trigger": "ji:hourglass-with-flowing-sand\t⏳"
     },
     {
       "contents": "content: '\\\\231A';",
-      "trigger": "emoji:watch\t⌚"
+      "trigger": "ji:watch\t⌚"
     },
     {
       "contents": "content: '\\\\23F0';",
-      "trigger": "emoji:alarm-clock\t⏰"
+      "trigger": "ji:alarm-clock\t⏰"
     },
     {
       "contents": "content: '\\\\23F1';",
-      "trigger": "emoji:stopwatch\t⏱"
+      "trigger": "ji:stopwatch\t⏱"
     },
     {
       "contents": "content: '\\\\23F2';",
-      "trigger": "emoji:timer-clock\t⏲"
+      "trigger": "ji:timer-clock\t⏲"
     },
     {
       "contents": "content: '\\\\1F570';",
-      "trigger": "emoji:mantelpiece-clock\t🕰"
+      "trigger": "ji:mantelpiece-clock\t🕰"
     },
     {
       "contents": "content: '\\\\1F55B';",
-      "trigger": "emoji:clock-face-twelve-oclock\t🕛"
+      "trigger": "ji:clock-face-twelve-oclock\t🕛"
     },
     {
       "contents": "content: '\\\\1F567';",
-      "trigger": "emoji:clock-face-twelve-thirty\t🕧"
+      "trigger": "ji:clock-face-twelve-thirty\t🕧"
     },
     {
       "contents": "content: '\\\\1F550';",
-      "trigger": "emoji:clock-face-one-oclock\t🕐"
+      "trigger": "ji:clock-face-one-oclock\t🕐"
     },
     {
       "contents": "content: '\\\\1F55C';",
-      "trigger": "emoji:clock-face-one-thirty\t🕜"
+      "trigger": "ji:clock-face-one-thirty\t🕜"
     },
     {
       "contents": "content: '\\\\1F551';",
-      "trigger": "emoji:clock-face-two-oclock\t🕑"
+      "trigger": "ji:clock-face-two-oclock\t🕑"
     },
     {
       "contents": "content: '\\\\1F55D';",
-      "trigger": "emoji:clock-face-two-thirty\t🕝"
+      "trigger": "ji:clock-face-two-thirty\t🕝"
     },
     {
       "contents": "content: '\\\\1F552';",
-      "trigger": "emoji:clock-face-three-oclock\t🕒"
+      "trigger": "ji:clock-face-three-oclock\t🕒"
     },
     {
       "contents": "content: '\\\\1F55E';",
-      "trigger": "emoji:clock-face-three-thirty\t🕞"
+      "trigger": "ji:clock-face-three-thirty\t🕞"
     },
     {
       "contents": "content: '\\\\1F553';",
-      "trigger": "emoji:clock-face-four-oclock\t🕓"
+      "trigger": "ji:clock-face-four-oclock\t🕓"
     },
     {
       "contents": "content: '\\\\1F55F';",
-      "trigger": "emoji:clock-face-four-thirty\t🕟"
+      "trigger": "ji:clock-face-four-thirty\t🕟"
     },
     {
       "contents": "content: '\\\\1F554';",
-      "trigger": "emoji:clock-face-five-oclock\t🕔"
+      "trigger": "ji:clock-face-five-oclock\t🕔"
     },
     {
       "contents": "content: '\\\\1F560';",
-      "trigger": "emoji:clock-face-five-thirty\t🕠"
+      "trigger": "ji:clock-face-five-thirty\t🕠"
     },
     {
       "contents": "content: '\\\\1F555';",
-      "trigger": "emoji:clock-face-six-oclock\t🕕"
+      "trigger": "ji:clock-face-six-oclock\t🕕"
     },
     {
       "contents": "content: '\\\\1F561';",
-      "trigger": "emoji:clock-face-six-thirty\t🕡"
+      "trigger": "ji:clock-face-six-thirty\t🕡"
     },
     {
       "contents": "content: '\\\\1F556';",
-      "trigger": "emoji:clock-face-seven-oclock\t🕖"
+      "trigger": "ji:clock-face-seven-oclock\t🕖"
     },
     {
       "contents": "content: '\\\\1F562';",
-      "trigger": "emoji:clock-face-seven-thirty\t🕢"
+      "trigger": "ji:clock-face-seven-thirty\t🕢"
     },
     {
       "contents": "content: '\\\\1F557';",
-      "trigger": "emoji:clock-face-eight-oclock\t🕗"
+      "trigger": "ji:clock-face-eight-oclock\t🕗"
     },
     {
       "contents": "content: '\\\\1F563';",
-      "trigger": "emoji:clock-face-eight-thirty\t🕣"
+      "trigger": "ji:clock-face-eight-thirty\t🕣"
     },
     {
       "contents": "content: '\\\\1F558';",
-      "trigger": "emoji:clock-face-nine-oclock\t🕘"
+      "trigger": "ji:clock-face-nine-oclock\t🕘"
     },
     {
       "contents": "content: '\\\\1F564';",
-      "trigger": "emoji:clock-face-nine-thirty\t🕤"
+      "trigger": "ji:clock-face-nine-thirty\t🕤"
     },
     {
       "contents": "content: '\\\\1F559';",
-      "trigger": "emoji:clock-face-ten-oclock\t🕙"
+      "trigger": "ji:clock-face-ten-oclock\t🕙"
     },
     {
       "contents": "content: '\\\\1F565';",
-      "trigger": "emoji:clock-face-ten-thirty\t🕥"
+      "trigger": "ji:clock-face-ten-thirty\t🕥"
     },
     {
       "contents": "content: '\\\\1F55A';",
-      "trigger": "emoji:clock-face-eleven-oclock\t🕚"
+      "trigger": "ji:clock-face-eleven-oclock\t🕚"
     },
     {
       "contents": "content: '\\\\1F566';",
-      "trigger": "emoji:clock-face-eleven-thirty\t🕦"
+      "trigger": "ji:clock-face-eleven-thirty\t🕦"
     },
     {
       "contents": "content: '\\\\1F311';",
-      "trigger": "emoji:new-moon-symbol\t🌑"
+      "trigger": "ji:new-moon-symbol\t🌑"
     },
     {
       "contents": "content: '\\\\1F312';",
-      "trigger": "emoji:waxing-crescent-moon-symbol\t🌒"
+      "trigger": "ji:waxing-crescent-moon-symbol\t🌒"
     },
     {
       "contents": "content: '\\\\1F313';",
-      "trigger": "emoji:first-quarter-moon-symbol\t🌓"
+      "trigger": "ji:first-quarter-moon-symbol\t🌓"
     },
     {
       "contents": "content: '\\\\1F314';",
-      "trigger": "emoji:waxing-gibbous-moon-symbol\t🌔"
+      "trigger": "ji:waxing-gibbous-moon-symbol\t🌔"
     },
     {
       "contents": "content: '\\\\1F315';",
-      "trigger": "emoji:full-moon-symbol\t🌕"
+      "trigger": "ji:full-moon-symbol\t🌕"
     },
     {
       "contents": "content: '\\\\1F316';",
-      "trigger": "emoji:waning-gibbous-moon-symbol\t🌖"
+      "trigger": "ji:waning-gibbous-moon-symbol\t🌖"
     },
     {
       "contents": "content: '\\\\1F317';",
-      "trigger": "emoji:last-quarter-moon-symbol\t🌗"
+      "trigger": "ji:last-quarter-moon-symbol\t🌗"
     },
     {
       "contents": "content: '\\\\1F318';",
-      "trigger": "emoji:waning-crescent-moon-symbol\t🌘"
+      "trigger": "ji:waning-crescent-moon-symbol\t🌘"
     },
     {
       "contents": "content: '\\\\1F319';",
-      "trigger": "emoji:crescent-moon\t🌙"
+      "trigger": "ji:crescent-moon\t🌙"
     },
     {
       "contents": "content: '\\\\1F31A';",
-      "trigger": "emoji:new-moon-with-face\t🌚"
+      "trigger": "ji:new-moon-with-face\t🌚"
     },
     {
       "contents": "content: '\\\\1F31B';",
-      "trigger": "emoji:first-quarter-moon-with-face\t🌛"
+      "trigger": "ji:first-quarter-moon-with-face\t🌛"
     },
     {
       "contents": "content: '\\\\1F31C';",
-      "trigger": "emoji:last-quarter-moon-with-face\t🌜"
+      "trigger": "ji:last-quarter-moon-with-face\t🌜"
     },
     {
       "contents": "content: '\\\\1F321';",
-      "trigger": "emoji:thermometer\t🌡"
+      "trigger": "ji:thermometer\t🌡"
     },
     {
       "contents": "content: '\\\\2600';",
-      "trigger": "emoji:black-sun-with-rays\t☀"
+      "trigger": "ji:black-sun-with-rays\t☀"
     },
     {
       "contents": "content: '\\\\1F31D';",
-      "trigger": "emoji:full-moon-with-face\t🌝"
+      "trigger": "ji:full-moon-with-face\t🌝"
     },
     {
       "contents": "content: '\\\\1F31E';",
-      "trigger": "emoji:sun-with-face\t🌞"
+      "trigger": "ji:sun-with-face\t🌞"
     },
     {
       "contents": "content: '\\\\2B50';",
-      "trigger": "emoji:white-medium-star\t⭐"
+      "trigger": "ji:white-medium-star\t⭐"
     },
     {
       "contents": "content: '\\\\1F31F';",
-      "trigger": "emoji:glowing-star\t🌟"
+      "trigger": "ji:glowing-star\t🌟"
     },
     {
       "contents": "content: '\\\\1F320';",
-      "trigger": "emoji:shooting-star\t🌠"
+      "trigger": "ji:shooting-star\t🌠"
     },
     {
       "contents": "content: '\\\\2601';",
-      "trigger": "emoji:cloud\t☁"
+      "trigger": "ji:cloud\t☁"
     },
     {
       "contents": "content: '\\\\26C5';",
-      "trigger": "emoji:sun-behind-cloud\t⛅"
+      "trigger": "ji:sun-behind-cloud\t⛅"
     },
     {
       "contents": "content: '\\\\26C8';",
-      "trigger": "emoji:thunder-cloud-and-rain\t⛈"
+      "trigger": "ji:thunder-cloud-and-rain\t⛈"
     },
     {
       "contents": "content: '\\\\1F324';",
-      "trigger": "emoji:white-sun-with-small-cloud\t🌤"
+      "trigger": "ji:white-sun-with-small-cloud\t🌤"
     },
     {
       "contents": "content: '\\\\1F325';",
-      "trigger": "emoji:white-sun-behind-cloud\t🌥"
+      "trigger": "ji:white-sun-behind-cloud\t🌥"
     },
     {
       "contents": "content: '\\\\1F326';",
-      "trigger": "emoji:white-sun-behind-cloud-with-rain\t🌦"
+      "trigger": "ji:white-sun-behind-cloud-with-rain\t🌦"
     },
     {
       "contents": "content: '\\\\1F327';",
-      "trigger": "emoji:cloud-with-rain\t🌧"
+      "trigger": "ji:cloud-with-rain\t🌧"
     },
     {
       "contents": "content: '\\\\1F328';",
-      "trigger": "emoji:cloud-with-snow\t🌨"
+      "trigger": "ji:cloud-with-snow\t🌨"
     },
     {
       "contents": "content: '\\\\1F329';",
-      "trigger": "emoji:cloud-with-lightning\t🌩"
+      "trigger": "ji:cloud-with-lightning\t🌩"
     },
     {
       "contents": "content: '\\\\1F32A';",
-      "trigger": "emoji:cloud-with-tornado\t🌪"
+      "trigger": "ji:cloud-with-tornado\t🌪"
     },
     {
       "contents": "content: '\\\\1F32B';",
-      "trigger": "emoji:fog\t🌫"
+      "trigger": "ji:fog\t🌫"
     },
     {
       "contents": "content: '\\\\1F32C';",
-      "trigger": "emoji:wind-blowing-face\t🌬"
+      "trigger": "ji:wind-blowing-face\t🌬"
     },
     {
       "contents": "content: '\\\\1F300';",
-      "trigger": "emoji:cyclone\t🌀"
+      "trigger": "ji:cyclone\t🌀"
     },
     {
       "contents": "content: '\\\\1F308';",
-      "trigger": "emoji:rainbow\t🌈"
+      "trigger": "ji:rainbow\t🌈"
     },
     {
       "contents": "content: '\\\\1F302';",
-      "trigger": "emoji:closed-umbrella\t🌂"
+      "trigger": "ji:closed-umbrella\t🌂"
     },
     {
       "contents": "content: '\\\\2602';",
-      "trigger": "emoji:umbrella\t☂"
+      "trigger": "ji:umbrella\t☂"
     },
     {
       "contents": "content: '\\\\2614';",
-      "trigger": "emoji:umbrella-with-rain-drops\t☔"
+      "trigger": "ji:umbrella-with-rain-drops\t☔"
     },
     {
       "contents": "content: '\\\\26F1';",
-      "trigger": "emoji:umbrella-on-ground\t⛱"
+      "trigger": "ji:umbrella-on-ground\t⛱"
     },
     {
       "contents": "content: '\\\\26A1';",
-      "trigger": "emoji:high-voltage-sign\t⚡"
+      "trigger": "ji:high-voltage-sign\t⚡"
     },
     {
       "contents": "content: '\\\\2744';",
-      "trigger": "emoji:snowflake\t❄"
+      "trigger": "ji:snowflake\t❄"
     },
     {
       "contents": "content: '\\\\2603';",
-      "trigger": "emoji:snowman\t☃"
+      "trigger": "ji:snowman\t☃"
     },
     {
       "contents": "content: '\\\\26C4';",
-      "trigger": "emoji:snowman-without-snow\t⛄"
+      "trigger": "ji:snowman-without-snow\t⛄"
     },
     {
       "contents": "content: '\\\\2604';",
-      "trigger": "emoji:comet\t☄"
+      "trigger": "ji:comet\t☄"
     },
     {
       "contents": "content: '\\\\1F525';",
-      "trigger": "emoji:fire\t🔥"
+      "trigger": "ji:fire\t🔥"
     },
     {
       "contents": "content: '\\\\1F4A7';",
-      "trigger": "emoji:droplet\t💧"
+      "trigger": "ji:droplet\t💧"
     },
     {
       "contents": "content: '\\\\1F30A';",
-      "trigger": "emoji:water-wave\t🌊"
+      "trigger": "ji:water-wave\t🌊"
     },
     {
       "contents": "content: '\\\\1F383';",
-      "trigger": "emoji:jack-o-lantern\t🎃"
+      "trigger": "ji:jack-o-lantern\t🎃"
     },
     {
       "contents": "content: '\\\\1F384';",
-      "trigger": "emoji:christmas-tree\t🎄"
+      "trigger": "ji:christmas-tree\t🎄"
     },
     {
       "contents": "content: '\\\\1F386';",
-      "trigger": "emoji:fireworks\t🎆"
+      "trigger": "ji:fireworks\t🎆"
     },
     {
       "contents": "content: '\\\\1F387';",
-      "trigger": "emoji:firework-sparkler\t🎇"
+      "trigger": "ji:firework-sparkler\t🎇"
     },
     {
       "contents": "content: '\\\\2728';",
-      "trigger": "emoji:sparkles\t✨"
+      "trigger": "ji:sparkles\t✨"
     },
     {
       "contents": "content: '\\\\1F388';",
-      "trigger": "emoji:balloon\t🎈"
+      "trigger": "ji:balloon\t🎈"
     },
     {
       "contents": "content: '\\\\1F389';",
-      "trigger": "emoji:party-popper\t🎉"
+      "trigger": "ji:party-popper\t🎉"
     },
     {
       "contents": "content: '\\\\1F38A';",
-      "trigger": "emoji:confetti-ball\t🎊"
+      "trigger": "ji:confetti-ball\t🎊"
     },
     {
       "contents": "content: '\\\\1F38B';",
-      "trigger": "emoji:tanabata-tree\t🎋"
+      "trigger": "ji:tanabata-tree\t🎋"
     },
     {
       "contents": "content: '\\\\1F38D';",
-      "trigger": "emoji:pine-decoration\t🎍"
+      "trigger": "ji:pine-decoration\t🎍"
     },
     {
       "contents": "content: '\\\\1F38E';",
-      "trigger": "emoji:japanese-dolls\t🎎"
+      "trigger": "ji:japanese-dolls\t🎎"
     },
     {
       "contents": "content: '\\\\1F38F';",
-      "trigger": "emoji:carp-streamer\t🎏"
+      "trigger": "ji:carp-streamer\t🎏"
     },
     {
       "contents": "content: '\\\\1F390';",
-      "trigger": "emoji:wind-chime\t🎐"
+      "trigger": "ji:wind-chime\t🎐"
     },
     {
       "contents": "content: '\\\\1F391';",
-      "trigger": "emoji:moon-viewing-ceremony\t🎑"
+      "trigger": "ji:moon-viewing-ceremony\t🎑"
     },
     {
       "contents": "content: '\\\\1F380';",
-      "trigger": "emoji:ribbon\t🎀"
+      "trigger": "ji:ribbon\t🎀"
     },
     {
       "contents": "content: '\\\\1F381';",
-      "trigger": "emoji:wrapped-present\t🎁"
+      "trigger": "ji:wrapped-present\t🎁"
     },
     {
       "contents": "content: '\\\\1F397';",
-      "trigger": "emoji:reminder-ribbon\t🎗"
+      "trigger": "ji:reminder-ribbon\t🎗"
     },
     {
       "contents": "content: '\\\\1F39F';",
-      "trigger": "emoji:admission-tickets\t🎟"
+      "trigger": "ji:admission-tickets\t🎟"
     },
     {
       "contents": "content: '\\\\1F3AB';",
-      "trigger": "emoji:ticket\t🎫"
+      "trigger": "ji:ticket\t🎫"
     },
     {
       "contents": "content: '\\\\1F396';",
-      "trigger": "emoji:military-medal\t🎖"
+      "trigger": "ji:military-medal\t🎖"
     },
     {
       "contents": "content: '\\\\1F3C6';",
-      "trigger": "emoji:trophy\t🏆"
+      "trigger": "ji:trophy\t🏆"
     },
     {
       "contents": "content: '\\\\1F3C5';",
-      "trigger": "emoji:sports-medal\t🏅"
+      "trigger": "ji:sports-medal\t🏅"
     },
     {
       "contents": "content: '\\\\26BD';",
-      "trigger": "emoji:soccer-ball\t⚽"
+      "trigger": "ji:soccer-ball\t⚽"
     },
     {
       "contents": "content: '\\\\26BE';",
-      "trigger": "emoji:baseball\t⚾"
+      "trigger": "ji:baseball\t⚾"
     },
     {
       "contents": "content: '\\\\1F3C0';",
-      "trigger": "emoji:basketball-and-hoop\t🏀"
+      "trigger": "ji:basketball-and-hoop\t🏀"
     },
     {
       "contents": "content: '\\\\1F3D0';",
-      "trigger": "emoji:volleyball\t🏐"
+      "trigger": "ji:volleyball\t🏐"
     },
     {
       "contents": "content: '\\\\1F3C8';",
-      "trigger": "emoji:american-football\t🏈"
+      "trigger": "ji:american-football\t🏈"
     },
     {
       "contents": "content: '\\\\1F3C9';",
-      "trigger": "emoji:rugby-football\t🏉"
+      "trigger": "ji:rugby-football\t🏉"
     },
     {
       "contents": "content: '\\\\1F3BE';",
-      "trigger": "emoji:tennis-racquet-and-ball\t🎾"
+      "trigger": "ji:tennis-racquet-and-ball\t🎾"
     },
     {
       "contents": "content: '\\\\1F3B1';",
-      "trigger": "emoji:billiards\t🎱"
+      "trigger": "ji:billiards\t🎱"
     },
     {
       "contents": "content: '\\\\1F3B3';",
-      "trigger": "emoji:bowling\t🎳"
+      "trigger": "ji:bowling\t🎳"
     },
     {
       "contents": "content: '\\\\1F3CF';",
-      "trigger": "emoji:cricket-bat-and-ball\t🏏"
+      "trigger": "ji:cricket-bat-and-ball\t🏏"
     },
     {
       "contents": "content: '\\\\1F3D1';",
-      "trigger": "emoji:field-hockey-stick-and-ball\t🏑"
+      "trigger": "ji:field-hockey-stick-and-ball\t🏑"
     },
     {
       "contents": "content: '\\\\1F3D2';",
-      "trigger": "emoji:ice-hockey-stick-and-puck\t🏒"
+      "trigger": "ji:ice-hockey-stick-and-puck\t🏒"
     },
     {
       "contents": "content: '\\\\1F3D3';",
-      "trigger": "emoji:table-tennis-paddle-and-ball\t🏓"
+      "trigger": "ji:table-tennis-paddle-and-ball\t🏓"
     },
     {
       "contents": "content: '\\\\1F3F8';",
-      "trigger": "emoji:badminton-racquet-and-shuttlecock\t🏸"
+      "trigger": "ji:badminton-racquet-and-shuttlecock\t🏸"
     },
     {
       "contents": "content: '\\\\26F3';",
-      "trigger": "emoji:flag-in-hole\t⛳"
+      "trigger": "ji:flag-in-hole\t⛳"
     },
     {
       "contents": "content: '\\\\1F3CC';",
-      "trigger": "emoji:golfer\t🏌"
+      "trigger": "ji:golfer\t🏌"
     },
     {
       "contents": "content: '\\\\26F8';",
-      "trigger": "emoji:ice-skate\t⛸"
+      "trigger": "ji:ice-skate\t⛸"
     },
     {
       "contents": "content: '\\\\1F3A3';",
-      "trigger": "emoji:fishing-pole-and-fish\t🎣"
+      "trigger": "ji:fishing-pole-and-fish\t🎣"
     },
     {
       "contents": "content: '\\\\1F3BD';",
-      "trigger": "emoji:running-shirt-with-sash\t🎽"
+      "trigger": "ji:running-shirt-with-sash\t🎽"
     },
     {
       "contents": "content: '\\\\1F3BF';",
-      "trigger": "emoji:ski-and-ski-boot\t🎿"
+      "trigger": "ji:ski-and-ski-boot\t🎿"
     },
     {
       "contents": "content: '\\\\26F7';",
-      "trigger": "emoji:skier\t⛷"
+      "trigger": "ji:skier\t⛷"
     },
     {
       "contents": "content: '\\\\1F3C2';",
-      "trigger": "emoji:snowboarder\t🏂"
+      "trigger": "ji:snowboarder\t🏂"
     },
     {
       "contents": "content: '\\\\1F3C4';",
-      "trigger": "emoji:surfer\t🏄"
+      "trigger": "ji:surfer\t🏄"
     },
     {
       "contents": "content: '\\\\1F3C7';",
-      "trigger": "emoji:horse-racing\t🏇"
+      "trigger": "ji:horse-racing\t🏇"
     },
     {
       "contents": "content: '\\\\1F3CA';",
-      "trigger": "emoji:swimmer\t🏊"
+      "trigger": "ji:swimmer\t🏊"
     },
     {
       "contents": "content: '\\\\26F9';",
-      "trigger": "emoji:person-with-ball\t⛹"
+      "trigger": "ji:person-with-ball\t⛹"
     },
     {
       "contents": "content: '\\\\1F3CB';",
-      "trigger": "emoji:weight-lifter\t🏋"
+      "trigger": "ji:weight-lifter\t🏋"
     },
     {
       "contents": "content: '\\\\1F6B4';",
-      "trigger": "emoji:bicyclist\t🚴"
+      "trigger": "ji:bicyclist\t🚴"
     },
     {
       "contents": "content: '\\\\1F6B5';",
-      "trigger": "emoji:mountain-bicyclist\t🚵"
+      "trigger": "ji:mountain-bicyclist\t🚵"
     },
     {
       "contents": "content: '\\\\1F3CE';",
-      "trigger": "emoji:racing-car\t🏎"
+      "trigger": "ji:racing-car\t🏎"
     },
     {
       "contents": "content: '\\\\1F3CD';",
-      "trigger": "emoji:racing-motorcycle\t🏍"
+      "trigger": "ji:racing-motorcycle\t🏍"
     },
     {
       "contents": "content: '\\\\1F3AF';",
-      "trigger": "emoji:direct-hit\t🎯"
+      "trigger": "ji:direct-hit\t🎯"
     },
     {
       "contents": "content: '\\\\1F3AE';",
-      "trigger": "emoji:video-game\t🎮"
+      "trigger": "ji:video-game\t🎮"
     },
     {
       "contents": "content: '\\\\1F579';",
-      "trigger": "emoji:joystick\t🕹"
+      "trigger": "ji:joystick\t🕹"
     },
     {
       "contents": "content: '\\\\1F3B2';",
-      "trigger": "emoji:game-die\t🎲"
+      "trigger": "ji:game-die\t🎲"
     },
     {
       "contents": "content: '\\\\2660';",
-      "trigger": "emoji:black-spade-suit\t♠"
+      "trigger": "ji:black-spade-suit\t♠"
     },
     {
       "contents": "content: '\\\\2665';",
-      "trigger": "emoji:black-heart-suit\t♥"
+      "trigger": "ji:black-heart-suit\t♥"
     },
     {
       "contents": "content: '\\\\2666';",
-      "trigger": "emoji:black-diamond-suit\t♦"
+      "trigger": "ji:black-diamond-suit\t♦"
     },
     {
       "contents": "content: '\\\\2663';",
-      "trigger": "emoji:black-club-suit\t♣"
+      "trigger": "ji:black-club-suit\t♣"
     },
     {
       "contents": "content: '\\\\1F0CF';",
-      "trigger": "emoji:playing-card-black-joker\t🃏"
+      "trigger": "ji:playing-card-black-joker\t🃏"
     },
     {
       "contents": "content: '\\\\1F004';",
-      "trigger": "emoji:mahjong-tile-red-dragon\t🀄"
+      "trigger": "ji:mahjong-tile-red-dragon\t🀄"
     },
     {
       "contents": "content: '\\\\1F3B4';",
-      "trigger": "emoji:flower-playing-cards\t🎴"
+      "trigger": "ji:flower-playing-cards\t🎴"
     },
     {
       "contents": "content: '\\\\1F507';",
-      "trigger": "emoji:speaker-with-cancellation-stroke\t🔇"
+      "trigger": "ji:speaker-with-cancellation-stroke\t🔇"
     },
     {
       "contents": "content: '\\\\1F508';",
-      "trigger": "emoji:speaker\t🔈"
+      "trigger": "ji:speaker\t🔈"
     },
     {
       "contents": "content: '\\\\1F509';",
-      "trigger": "emoji:speaker-with-one-sound-wave\t🔉"
+      "trigger": "ji:speaker-with-one-sound-wave\t🔉"
     },
     {
       "contents": "content: '\\\\1F50A';",
-      "trigger": "emoji:speaker-with-three-sound-waves\t🔊"
+      "trigger": "ji:speaker-with-three-sound-waves\t🔊"
     },
     {
       "contents": "content: '\\\\1F4E2';",
-      "trigger": "emoji:public-address-loudspeaker\t📢"
+      "trigger": "ji:public-address-loudspeaker\t📢"
     },
     {
       "contents": "content: '\\\\1F4E3';",
-      "trigger": "emoji:cheering-megaphone\t📣"
+      "trigger": "ji:cheering-megaphone\t📣"
     },
     {
       "contents": "content: '\\\\1F4EF';",
-      "trigger": "emoji:postal-horn\t📯"
+      "trigger": "ji:postal-horn\t📯"
     },
     {
       "contents": "content: '\\\\1F514';",
-      "trigger": "emoji:bell\t🔔"
+      "trigger": "ji:bell\t🔔"
     },
     {
       "contents": "content: '\\\\1F515';",
-      "trigger": "emoji:bell-with-cancellation-stroke\t🔕"
+      "trigger": "ji:bell-with-cancellation-stroke\t🔕"
     },
     {
       "contents": "content: '\\\\1F3BC';",
-      "trigger": "emoji:musical-score\t🎼"
+      "trigger": "ji:musical-score\t🎼"
     },
     {
       "contents": "content: '\\\\1F3B5';",
-      "trigger": "emoji:musical-note\t🎵"
+      "trigger": "ji:musical-note\t🎵"
     },
     {
       "contents": "content: '\\\\1F3B6';",
-      "trigger": "emoji:multiple-musical-notes\t🎶"
+      "trigger": "ji:multiple-musical-notes\t🎶"
     },
     {
       "contents": "content: '\\\\1F399';",
-      "trigger": "emoji:studio-microphone\t🎙"
+      "trigger": "ji:studio-microphone\t🎙"
     },
     {
       "contents": "content: '\\\\1F39A';",
-      "trigger": "emoji:level-slider\t🎚"
+      "trigger": "ji:level-slider\t🎚"
     },
     {
       "contents": "content: '\\\\1F39B';",
-      "trigger": "emoji:control-knobs\t🎛"
+      "trigger": "ji:control-knobs\t🎛"
     },
     {
       "contents": "content: '\\\\1F3A4';",
-      "trigger": "emoji:microphone\t🎤"
+      "trigger": "ji:microphone\t🎤"
     },
     {
       "contents": "content: '\\\\1F3A7';",
-      "trigger": "emoji:headphone\t🎧"
+      "trigger": "ji:headphone\t🎧"
     },
     {
       "contents": "content: '\\\\1F4FB';",
-      "trigger": "emoji:radio\t📻"
+      "trigger": "ji:radio\t📻"
     },
     {
       "contents": "content: '\\\\1F3B7';",
-      "trigger": "emoji:saxophone\t🎷"
+      "trigger": "ji:saxophone\t🎷"
     },
     {
       "contents": "content: '\\\\1F3B8';",
-      "trigger": "emoji:guitar\t🎸"
+      "trigger": "ji:guitar\t🎸"
     },
     {
       "contents": "content: '\\\\1F3B9';",
-      "trigger": "emoji:musical-keyboard\t🎹"
+      "trigger": "ji:musical-keyboard\t🎹"
     },
     {
       "contents": "content: '\\\\1F3BA';",
-      "trigger": "emoji:trumpet\t🎺"
+      "trigger": "ji:trumpet\t🎺"
     },
     {
       "contents": "content: '\\\\1F3BB';",
-      "trigger": "emoji:violin\t🎻"
+      "trigger": "ji:violin\t🎻"
     },
     {
       "contents": "content: '\\\\1F4F1';",
-      "trigger": "emoji:mobile-phone\t📱"
+      "trigger": "ji:mobile-phone\t📱"
     },
     {
       "contents": "content: '\\\\1F4F2';",
-      "trigger": "emoji:mobile-phone-with-rightwards-arrow-at-left\t📲"
+      "trigger": "ji:mobile-phone-with-rightwards-arrow-at-left\t📲"
     },
     {
       "contents": "content: '\\\\260E';",
-      "trigger": "emoji:black-telephone\t☎"
+      "trigger": "ji:black-telephone\t☎"
     },
     {
       "contents": "content: '\\\\1F4DE';",
-      "trigger": "emoji:telephone-receiver\t📞"
+      "trigger": "ji:telephone-receiver\t📞"
     },
     {
       "contents": "content: '\\\\1F4DF';",
-      "trigger": "emoji:pager\t📟"
+      "trigger": "ji:pager\t📟"
     },
     {
       "contents": "content: '\\\\1F4E0';",
-      "trigger": "emoji:fax-machine\t📠"
+      "trigger": "ji:fax-machine\t📠"
     },
     {
       "contents": "content: '\\\\1F50B';",
-      "trigger": "emoji:battery\t🔋"
+      "trigger": "ji:battery\t🔋"
     },
     {
       "contents": "content: '\\\\1F50C';",
-      "trigger": "emoji:electric-plug\t🔌"
+      "trigger": "ji:electric-plug\t🔌"
     },
     {
       "contents": "content: '\\\\1F4BB';",
-      "trigger": "emoji:personal-computer\t💻"
+      "trigger": "ji:personal-computer\t💻"
     },
     {
       "contents": "content: '\\\\1F5A5';",
-      "trigger": "emoji:desktop-computer\t🖥"
+      "trigger": "ji:desktop-computer\t🖥"
     },
     {
       "contents": "content: '\\\\1F5A8';",
-      "trigger": "emoji:printer\t🖨"
+      "trigger": "ji:printer\t🖨"
     },
     {
       "contents": "content: '\\\\2328';",
-      "trigger": "emoji:keyboard\t⌨"
+      "trigger": "ji:keyboard\t⌨"
     },
     {
       "contents": "content: '\\\\1F5B1';",
-      "trigger": "emoji:three-button-mouse\t🖱"
+      "trigger": "ji:three-button-mouse\t🖱"
     },
     {
       "contents": "content: '\\\\1F5B2';",
-      "trigger": "emoji:trackball\t🖲"
+      "trigger": "ji:trackball\t🖲"
     },
     {
       "contents": "content: '\\\\1F4BD';",
-      "trigger": "emoji:minidisc\t💽"
+      "trigger": "ji:minidisc\t💽"
     },
     {
       "contents": "content: '\\\\1F4BE';",
-      "trigger": "emoji:floppy-disk\t💾"
+      "trigger": "ji:floppy-disk\t💾"
     },
     {
       "contents": "content: '\\\\1F4BF';",
-      "trigger": "emoji:optical-disc\t💿"
+      "trigger": "ji:optical-disc\t💿"
     },
     {
       "contents": "content: '\\\\1F4C0';",
-      "trigger": "emoji:dvd\t📀"
+      "trigger": "ji:dvd\t📀"
     },
     {
       "contents": "content: '\\\\1F3A5';",
-      "trigger": "emoji:movie-camera\t🎥"
+      "trigger": "ji:movie-camera\t🎥"
     },
     {
       "contents": "content: '\\\\1F39E';",
-      "trigger": "emoji:film-frames\t🎞"
+      "trigger": "ji:film-frames\t🎞"
     },
     {
       "contents": "content: '\\\\1F4FD';",
-      "trigger": "emoji:film-projector\t📽"
+      "trigger": "ji:film-projector\t📽"
     },
     {
       "contents": "content: '\\\\1F3AC';",
-      "trigger": "emoji:clapper-board\t🎬"
+      "trigger": "ji:clapper-board\t🎬"
     },
     {
       "contents": "content: '\\\\1F4FA';",
-      "trigger": "emoji:television\t📺"
+      "trigger": "ji:television\t📺"
     },
     {
       "contents": "content: '\\\\1F4F7';",
-      "trigger": "emoji:camera\t📷"
+      "trigger": "ji:camera\t📷"
     },
     {
       "contents": "content: '\\\\1F4F8';",
-      "trigger": "emoji:camera-with-flash\t📸"
+      "trigger": "ji:camera-with-flash\t📸"
     },
     {
       "contents": "content: '\\\\1F4F9';",
-      "trigger": "emoji:video-camera\t📹"
+      "trigger": "ji:video-camera\t📹"
     },
     {
       "contents": "content: '\\\\1F4FC';",
-      "trigger": "emoji:videocassette\t📼"
+      "trigger": "ji:videocassette\t📼"
     },
     {
       "contents": "content: '\\\\1F50D';",
-      "trigger": "emoji:left-pointing-magnifying-glass\t🔍"
+      "trigger": "ji:left-pointing-magnifying-glass\t🔍"
     },
     {
       "contents": "content: '\\\\1F50E';",
-      "trigger": "emoji:right-pointing-magnifying-glass\t🔎"
+      "trigger": "ji:right-pointing-magnifying-glass\t🔎"
     },
     {
       "contents": "content: '\\\\1F52C';",
-      "trigger": "emoji:microscope\t🔬"
+      "trigger": "ji:microscope\t🔬"
     },
     {
       "contents": "content: '\\\\1F52D';",
-      "trigger": "emoji:telescope\t🔭"
+      "trigger": "ji:telescope\t🔭"
     },
     {
       "contents": "content: '\\\\1F4E1';",
-      "trigger": "emoji:satellite-antenna\t📡"
+      "trigger": "ji:satellite-antenna\t📡"
     },
     {
       "contents": "content: '\\\\1F56F';",
-      "trigger": "emoji:candle\t🕯"
+      "trigger": "ji:candle\t🕯"
     },
     {
       "contents": "content: '\\\\1F4A1';",
-      "trigger": "emoji:electric-light-bulb\t💡"
+      "trigger": "ji:electric-light-bulb\t💡"
     },
     {
       "contents": "content: '\\\\1F526';",
-      "trigger": "emoji:electric-torch\t🔦"
+      "trigger": "ji:electric-torch\t🔦"
     },
     {
       "contents": "content: '\\\\1F3EE';",
-      "trigger": "emoji:izakaya-lantern\t🏮"
+      "trigger": "ji:izakaya-lantern\t🏮"
     },
     {
       "contents": "content: '\\\\1F4D4';",
-      "trigger": "emoji:notebook-with-decorative-cover\t📔"
+      "trigger": "ji:notebook-with-decorative-cover\t📔"
     },
     {
       "contents": "content: '\\\\1F4D5';",
-      "trigger": "emoji:closed-book\t📕"
+      "trigger": "ji:closed-book\t📕"
     },
     {
       "contents": "content: '\\\\1F4D6';",
-      "trigger": "emoji:open-book\t📖"
+      "trigger": "ji:open-book\t📖"
     },
     {
       "contents": "content: '\\\\1F4D7';",
-      "trigger": "emoji:green-book\t📗"
+      "trigger": "ji:green-book\t📗"
     },
     {
       "contents": "content: '\\\\1F4D8';",
-      "trigger": "emoji:blue-book\t📘"
+      "trigger": "ji:blue-book\t📘"
     },
     {
       "contents": "content: '\\\\1F4D9';",
-      "trigger": "emoji:orange-book\t📙"
+      "trigger": "ji:orange-book\t📙"
     },
     {
       "contents": "content: '\\\\1F4DA';",
-      "trigger": "emoji:books\t📚"
+      "trigger": "ji:books\t📚"
     },
     {
       "contents": "content: '\\\\1F4D3';",
-      "trigger": "emoji:notebook\t📓"
+      "trigger": "ji:notebook\t📓"
     },
     {
       "contents": "content: '\\\\1F4D2';",
-      "trigger": "emoji:ledger\t📒"
+      "trigger": "ji:ledger\t📒"
     },
     {
       "contents": "content: '\\\\1F4C3';",
-      "trigger": "emoji:page-with-curl\t📃"
+      "trigger": "ji:page-with-curl\t📃"
     },
     {
       "contents": "content: '\\\\1F4DC';",
-      "trigger": "emoji:scroll\t📜"
+      "trigger": "ji:scroll\t📜"
     },
     {
       "contents": "content: '\\\\1F4C4';",
-      "trigger": "emoji:page-facing-up\t📄"
+      "trigger": "ji:page-facing-up\t📄"
     },
     {
       "contents": "content: '\\\\1F4F0';",
-      "trigger": "emoji:newspaper\t📰"
+      "trigger": "ji:newspaper\t📰"
     },
     {
       "contents": "content: '\\\\1F5DE';",
-      "trigger": "emoji:rolled-up-newspaper\t🗞"
+      "trigger": "ji:rolled-up-newspaper\t🗞"
     },
     {
       "contents": "content: '\\\\1F4D1';",
-      "trigger": "emoji:bookmark-tabs\t📑"
+      "trigger": "ji:bookmark-tabs\t📑"
     },
     {
       "contents": "content: '\\\\1F516';",
-      "trigger": "emoji:bookmark\t🔖"
+      "trigger": "ji:bookmark\t🔖"
     },
     {
       "contents": "content: '\\\\1F3F7';",
-      "trigger": "emoji:label\t🏷"
+      "trigger": "ji:label\t🏷"
     },
     {
       "contents": "content: '\\\\1F4B0';",
-      "trigger": "emoji:money-bag\t💰"
+      "trigger": "ji:money-bag\t💰"
     },
     {
       "contents": "content: '\\\\1F4B4';",
-      "trigger": "emoji:banknote-with-yen-sign\t💴"
+      "trigger": "ji:banknote-with-yen-sign\t💴"
     },
     {
       "contents": "content: '\\\\1F4B5';",
-      "trigger": "emoji:banknote-with-dollar-sign\t💵"
+      "trigger": "ji:banknote-with-dollar-sign\t💵"
     },
     {
       "contents": "content: '\\\\1F4B6';",
-      "trigger": "emoji:banknote-with-euro-sign\t💶"
+      "trigger": "ji:banknote-with-euro-sign\t💶"
     },
     {
       "contents": "content: '\\\\1F4B7';",
-      "trigger": "emoji:banknote-with-pound-sign\t💷"
+      "trigger": "ji:banknote-with-pound-sign\t💷"
     },
     {
       "contents": "content: '\\\\1F4B8';",
-      "trigger": "emoji:money-with-wings\t💸"
+      "trigger": "ji:money-with-wings\t💸"
     },
     {
       "contents": "content: '\\\\1F4B3';",
-      "trigger": "emoji:credit-card\t💳"
+      "trigger": "ji:credit-card\t💳"
     },
     {
       "contents": "content: '\\\\1F4B9';",
-      "trigger": "emoji:chart-with-upwards-trend-and-yen-sign\t💹"
+      "trigger": "ji:chart-with-upwards-trend-and-yen-sign\t💹"
     },
     {
       "contents": "content: '\\\\1F4B1';",
-      "trigger": "emoji:currency-exchange\t💱"
+      "trigger": "ji:currency-exchange\t💱"
     },
     {
       "contents": "content: '\\\\1F4B2';",
-      "trigger": "emoji:heavy-dollar-sign\t💲"
+      "trigger": "ji:heavy-dollar-sign\t💲"
     },
     {
       "contents": "content: '\\\\2709';",
-      "trigger": "emoji:envelope\t✉"
+      "trigger": "ji:envelope\t✉"
     },
     {
       "contents": "content: '\\\\1F4E7';",
-      "trigger": "emoji:e-mail-symbol\t📧"
+      "trigger": "ji:e-mail-symbol\t📧"
     },
     {
       "contents": "content: '\\\\1F4E8';",
-      "trigger": "emoji:incoming-envelope\t📨"
+      "trigger": "ji:incoming-envelope\t📨"
     },
     {
       "contents": "content: '\\\\1F4E9';",
-      "trigger": "emoji:envelope-with-downwards-arrow-above\t📩"
+      "trigger": "ji:envelope-with-downwards-arrow-above\t📩"
     },
     {
       "contents": "content: '\\\\1F4E4';",
-      "trigger": "emoji:outbox-tray\t📤"
+      "trigger": "ji:outbox-tray\t📤"
     },
     {
       "contents": "content: '\\\\1F4E5';",
-      "trigger": "emoji:inbox-tray\t📥"
+      "trigger": "ji:inbox-tray\t📥"
     },
     {
       "contents": "content: '\\\\1F4E6';",
-      "trigger": "emoji:package\t📦"
+      "trigger": "ji:package\t📦"
     },
     {
       "contents": "content: '\\\\1F4EB';",
-      "trigger": "emoji:closed-mailbox-with-raised-flag\t📫"
+      "trigger": "ji:closed-mailbox-with-raised-flag\t📫"
     },
     {
       "contents": "content: '\\\\1F4EA';",
-      "trigger": "emoji:closed-mailbox-with-lowered-flag\t📪"
+      "trigger": "ji:closed-mailbox-with-lowered-flag\t📪"
     },
     {
       "contents": "content: '\\\\1F4EC';",
-      "trigger": "emoji:open-mailbox-with-raised-flag\t📬"
+      "trigger": "ji:open-mailbox-with-raised-flag\t📬"
     },
     {
       "contents": "content: '\\\\1F4ED';",
-      "trigger": "emoji:open-mailbox-with-lowered-flag\t📭"
+      "trigger": "ji:open-mailbox-with-lowered-flag\t📭"
     },
     {
       "contents": "content: '\\\\1F4EE';",
-      "trigger": "emoji:postbox\t📮"
+      "trigger": "ji:postbox\t📮"
     },
     {
       "contents": "content: '\\\\1F5F3';",
-      "trigger": "emoji:ballot-box-with-ballot\t🗳"
+      "trigger": "ji:ballot-box-with-ballot\t🗳"
     },
     {
       "contents": "content: '\\\\270F';",
-      "trigger": "emoji:pencil\t✏"
+      "trigger": "ji:pencil\t✏"
     },
     {
       "contents": "content: '\\\\2712';",
-      "trigger": "emoji:black-nib\t✒"
+      "trigger": "ji:black-nib\t✒"
     },
     {
       "contents": "content: '\\\\1F58B';",
-      "trigger": "emoji:lower-left-fountain-pen\t🖋"
+      "trigger": "ji:lower-left-fountain-pen\t🖋"
     },
     {
       "contents": "content: '\\\\1F58A';",
-      "trigger": "emoji:lower-left-ballpoint-pen\t🖊"
+      "trigger": "ji:lower-left-ballpoint-pen\t🖊"
     },
     {
       "contents": "content: '\\\\1F58C';",
-      "trigger": "emoji:lower-left-paintbrush\t🖌"
+      "trigger": "ji:lower-left-paintbrush\t🖌"
     },
     {
       "contents": "content: '\\\\1F58D';",
-      "trigger": "emoji:lower-left-crayon\t🖍"
+      "trigger": "ji:lower-left-crayon\t🖍"
     },
     {
       "contents": "content: '\\\\1F4DD';",
-      "trigger": "emoji:memo\t📝"
+      "trigger": "ji:memo\t📝"
     },
     {
       "contents": "content: '\\\\1F4BC';",
-      "trigger": "emoji:briefcase\t💼"
+      "trigger": "ji:briefcase\t💼"
     },
     {
       "contents": "content: '\\\\1F4C1';",
-      "trigger": "emoji:file-folder\t📁"
+      "trigger": "ji:file-folder\t📁"
     },
     {
       "contents": "content: '\\\\1F4C2';",
-      "trigger": "emoji:open-file-folder\t📂"
+      "trigger": "ji:open-file-folder\t📂"
     },
     {
       "contents": "content: '\\\\1F5C2';",
-      "trigger": "emoji:card-index-dividers\t🗂"
+      "trigger": "ji:card-index-dividers\t🗂"
     },
     {
       "contents": "content: '\\\\1F4C5';",
-      "trigger": "emoji:calendar\t📅"
+      "trigger": "ji:calendar\t📅"
     },
     {
       "contents": "content: '\\\\1F4C6';",
-      "trigger": "emoji:tear-off-calendar\t📆"
+      "trigger": "ji:tear-off-calendar\t📆"
     },
     {
       "contents": "content: '\\\\1F5D2';",
-      "trigger": "emoji:spiral-note-pad\t🗒"
+      "trigger": "ji:spiral-note-pad\t🗒"
     },
     {
       "contents": "content: '\\\\1F5D3';",
-      "trigger": "emoji:spiral-calendar-pad\t🗓"
+      "trigger": "ji:spiral-calendar-pad\t🗓"
     },
     {
       "contents": "content: '\\\\1F4C7';",
-      "trigger": "emoji:card-index\t📇"
+      "trigger": "ji:card-index\t📇"
     },
     {
       "contents": "content: '\\\\1F4C8';",
-      "trigger": "emoji:chart-with-upwards-trend\t📈"
+      "trigger": "ji:chart-with-upwards-trend\t📈"
     },
     {
       "contents": "content: '\\\\1F4C9';",
-      "trigger": "emoji:chart-with-downwards-trend\t📉"
+      "trigger": "ji:chart-with-downwards-trend\t📉"
     },
     {
       "contents": "content: '\\\\1F4CA';",
-      "trigger": "emoji:bar-chart\t📊"
+      "trigger": "ji:bar-chart\t📊"
     },
     {
       "contents": "content: '\\\\1F4CB';",
-      "trigger": "emoji:clipboard\t📋"
+      "trigger": "ji:clipboard\t📋"
     },
     {
       "contents": "content: '\\\\1F4CC';",
-      "trigger": "emoji:pushpin\t📌"
+      "trigger": "ji:pushpin\t📌"
     },
     {
       "contents": "content: '\\\\1F4CD';",
-      "trigger": "emoji:round-pushpin\t📍"
+      "trigger": "ji:round-pushpin\t📍"
     },
     {
       "contents": "content: '\\\\1F4CE';",
-      "trigger": "emoji:paperclip\t📎"
+      "trigger": "ji:paperclip\t📎"
     },
     {
       "contents": "content: '\\\\1F587';",
-      "trigger": "emoji:linked-paperclips\t🖇"
+      "trigger": "ji:linked-paperclips\t🖇"
     },
     {
       "contents": "content: '\\\\1F4CF';",
-      "trigger": "emoji:straight-ruler\t📏"
+      "trigger": "ji:straight-ruler\t📏"
     },
     {
       "contents": "content: '\\\\1F4D0';",
-      "trigger": "emoji:triangular-ruler\t📐"
+      "trigger": "ji:triangular-ruler\t📐"
     },
     {
       "contents": "content: '\\\\2702';",
-      "trigger": "emoji:black-scissors\t✂"
+      "trigger": "ji:black-scissors\t✂"
     },
     {
       "contents": "content: '\\\\1F5C3';",
-      "trigger": "emoji:card-file-box\t🗃"
+      "trigger": "ji:card-file-box\t🗃"
     },
     {
       "contents": "content: '\\\\1F5C4';",
-      "trigger": "emoji:file-cabinet\t🗄"
+      "trigger": "ji:file-cabinet\t🗄"
     },
     {
       "contents": "content: '\\\\1F5D1';",
-      "trigger": "emoji:wastebasket\t🗑"
+      "trigger": "ji:wastebasket\t🗑"
     },
     {
       "contents": "content: '\\\\1F512';",
-      "trigger": "emoji:lock\t🔒"
+      "trigger": "ji:lock\t🔒"
     },
     {
       "contents": "content: '\\\\1F513';",
-      "trigger": "emoji:open-lock\t🔓"
+      "trigger": "ji:open-lock\t🔓"
     },
     {
       "contents": "content: '\\\\1F50F';",
-      "trigger": "emoji:lock-with-ink-pen\t🔏"
+      "trigger": "ji:lock-with-ink-pen\t🔏"
     },
     {
       "contents": "content: '\\\\1F510';",
-      "trigger": "emoji:closed-lock-with-key\t🔐"
+      "trigger": "ji:closed-lock-with-key\t🔐"
     },
     {
       "contents": "content: '\\\\1F511';",
-      "trigger": "emoji:key\t🔑"
+      "trigger": "ji:key\t🔑"
     },
     {
       "contents": "content: '\\\\1F5DD';",
-      "trigger": "emoji:old-key\t🗝"
+      "trigger": "ji:old-key\t🗝"
     },
     {
       "contents": "content: '\\\\1F528';",
-      "trigger": "emoji:hammer\t🔨"
+      "trigger": "ji:hammer\t🔨"
     },
     {
       "contents": "content: '\\\\26CF';",
-      "trigger": "emoji:pick\t⛏"
+      "trigger": "ji:pick\t⛏"
     },
     {
       "contents": "content: '\\\\2692';",
-      "trigger": "emoji:hammer-and-pick\t⚒"
+      "trigger": "ji:hammer-and-pick\t⚒"
     },
     {
       "contents": "content: '\\\\1F6E0';",
-      "trigger": "emoji:hammer-and-wrench\t🛠"
+      "trigger": "ji:hammer-and-wrench\t🛠"
     },
     {
       "contents": "content: '\\\\1F5E1';",
-      "trigger": "emoji:dagger-knife\t🗡"
+      "trigger": "ji:dagger-knife\t🗡"
     },
     {
       "contents": "content: '\\\\2694';",
-      "trigger": "emoji:crossed-swords\t⚔"
+      "trigger": "ji:crossed-swords\t⚔"
     },
     {
       "contents": "content: '\\\\1F52B';",
-      "trigger": "emoji:pistol\t🔫"
+      "trigger": "ji:pistol\t🔫"
     },
     {
       "contents": "content: '\\\\1F3F9';",
-      "trigger": "emoji:bow-and-arrow\t🏹"
+      "trigger": "ji:bow-and-arrow\t🏹"
     },
     {
       "contents": "content: '\\\\1F6E1';",
-      "trigger": "emoji:shield\t🛡"
+      "trigger": "ji:shield\t🛡"
     },
     {
       "contents": "content: '\\\\1F527';",
-      "trigger": "emoji:wrench\t🔧"
+      "trigger": "ji:wrench\t🔧"
     },
     {
       "contents": "content: '\\\\1F529';",
-      "trigger": "emoji:nut-and-bolt\t🔩"
+      "trigger": "ji:nut-and-bolt\t🔩"
     },
     {
       "contents": "content: '\\\\2699';",
-      "trigger": "emoji:gear\t⚙"
+      "trigger": "ji:gear\t⚙"
     },
     {
       "contents": "content: '\\\\1F5DC';",
-      "trigger": "emoji:compression\t🗜"
+      "trigger": "ji:compression\t🗜"
     },
     {
       "contents": "content: '\\\\2697';",
-      "trigger": "emoji:alembic\t⚗"
+      "trigger": "ji:alembic\t⚗"
     },
     {
       "contents": "content: '\\\\2696';",
-      "trigger": "emoji:scales\t⚖"
+      "trigger": "ji:scales\t⚖"
     },
     {
       "contents": "content: '\\\\1F517';",
-      "trigger": "emoji:link-symbol\t🔗"
+      "trigger": "ji:link-symbol\t🔗"
     },
     {
       "contents": "content: '\\\\26D3';",
-      "trigger": "emoji:chains\t⛓"
+      "trigger": "ji:chains\t⛓"
     },
     {
       "contents": "content: '\\\\1F489';",
-      "trigger": "emoji:syringe\t💉"
+      "trigger": "ji:syringe\t💉"
     },
     {
       "contents": "content: '\\\\1F48A';",
-      "trigger": "emoji:pill\t💊"
+      "trigger": "ji:pill\t💊"
     },
     {
       "contents": "content: '\\\\1F6AC';",
-      "trigger": "emoji:smoking-symbol\t🚬"
+      "trigger": "ji:smoking-symbol\t🚬"
     },
     {
       "contents": "content: '\\\\26B0';",
-      "trigger": "emoji:coffin\t⚰"
+      "trigger": "ji:coffin\t⚰"
     },
     {
       "contents": "content: '\\\\26B1';",
-      "trigger": "emoji:funeral-urn\t⚱"
+      "trigger": "ji:funeral-urn\t⚱"
     },
     {
       "contents": "content: '\\\\1F5FF';",
-      "trigger": "emoji:moyai\t🗿"
+      "trigger": "ji:moyai\t🗿"
     },
     {
       "contents": "content: '\\\\1F6E2';",
-      "trigger": "emoji:oil-drum\t🛢"
+      "trigger": "ji:oil-drum\t🛢"
     },
     {
       "contents": "content: '\\\\1F52E';",
-      "trigger": "emoji:crystal-ball\t🔮"
+      "trigger": "ji:crystal-ball\t🔮"
     },
     {
       "contents": "content: '\\\\1F3E7';",
-      "trigger": "emoji:automated-teller-machine\t🏧"
+      "trigger": "ji:automated-teller-machine\t🏧"
     },
     {
       "contents": "content: '\\\\1F6AE';",
-      "trigger": "emoji:put-litter-in-its-place-symbol\t🚮"
+      "trigger": "ji:put-litter-in-its-place-symbol\t🚮"
     },
     {
       "contents": "content: '\\\\1F6B0';",
-      "trigger": "emoji:potable-water-symbol\t🚰"
+      "trigger": "ji:potable-water-symbol\t🚰"
     },
     {
       "contents": "content: '\\\\267F';",
-      "trigger": "emoji:wheelchair-symbol\t♿"
+      "trigger": "ji:wheelchair-symbol\t♿"
     },
     {
       "contents": "content: '\\\\1F6B9';",
-      "trigger": "emoji:mens-symbol\t🚹"
+      "trigger": "ji:mens-symbol\t🚹"
     },
     {
       "contents": "content: '\\\\1F6BA';",
-      "trigger": "emoji:womens-symbol\t🚺"
+      "trigger": "ji:womens-symbol\t🚺"
     },
     {
       "contents": "content: '\\\\1F6BB';",
-      "trigger": "emoji:restroom\t🚻"
+      "trigger": "ji:restroom\t🚻"
     },
     {
       "contents": "content: '\\\\1F6BC';",
-      "trigger": "emoji:baby-symbol\t🚼"
+      "trigger": "ji:baby-symbol\t🚼"
     },
     {
       "contents": "content: '\\\\1F6BE';",
-      "trigger": "emoji:water-closet\t🚾"
+      "trigger": "ji:water-closet\t🚾"
     },
     {
       "contents": "content: '\\\\1F6C2';",
-      "trigger": "emoji:passport-control\t🛂"
+      "trigger": "ji:passport-control\t🛂"
     },
     {
       "contents": "content: '\\\\1F6C3';",
-      "trigger": "emoji:customs\t🛃"
+      "trigger": "ji:customs\t🛃"
     },
     {
       "contents": "content: '\\\\1F6C4';",
-      "trigger": "emoji:baggage-claim\t🛄"
+      "trigger": "ji:baggage-claim\t🛄"
     },
     {
       "contents": "content: '\\\\1F6C5';",
-      "trigger": "emoji:left-luggage\t🛅"
+      "trigger": "ji:left-luggage\t🛅"
     },
     {
       "contents": "content: '\\\\26A0';",
-      "trigger": "emoji:warning-sign\t⚠"
+      "trigger": "ji:warning-sign\t⚠"
     },
     {
       "contents": "content: '\\\\1F6B8';",
-      "trigger": "emoji:children-crossing\t🚸"
+      "trigger": "ji:children-crossing\t🚸"
     },
     {
       "contents": "content: '\\\\26D4';",
-      "trigger": "emoji:no-entry\t⛔"
+      "trigger": "ji:no-entry\t⛔"
     },
     {
       "contents": "content: '\\\\1F6AB';",
-      "trigger": "emoji:no-entry-sign\t🚫"
+      "trigger": "ji:no-entry-sign\t🚫"
     },
     {
       "contents": "content: '\\\\1F6B3';",
-      "trigger": "emoji:no-bicycles\t🚳"
+      "trigger": "ji:no-bicycles\t🚳"
     },
     {
       "contents": "content: '\\\\1F6AD';",
-      "trigger": "emoji:no-smoking-symbol\t🚭"
+      "trigger": "ji:no-smoking-symbol\t🚭"
     },
     {
       "contents": "content: '\\\\1F6AF';",
-      "trigger": "emoji:do-not-litter-symbol\t🚯"
+      "trigger": "ji:do-not-litter-symbol\t🚯"
     },
     {
       "contents": "content: '\\\\1F6B1';",
-      "trigger": "emoji:non-potable-water-symbol\t🚱"
+      "trigger": "ji:non-potable-water-symbol\t🚱"
     },
     {
       "contents": "content: '\\\\1F6B7';",
-      "trigger": "emoji:no-pedestrians\t🚷"
+      "trigger": "ji:no-pedestrians\t🚷"
     },
     {
       "contents": "content: '\\\\1F4F5';",
-      "trigger": "emoji:no-mobile-phones\t📵"
+      "trigger": "ji:no-mobile-phones\t📵"
     },
     {
       "contents": "content: '\\\\1F51E';",
-      "trigger": "emoji:no-one-under-eighteen-symbol\t🔞"
+      "trigger": "ji:no-one-under-eighteen-symbol\t🔞"
     },
     {
       "contents": "content: '\\\\2622';",
-      "trigger": "emoji:radioactive-sign\t☢"
+      "trigger": "ji:radioactive-sign\t☢"
     },
     {
       "contents": "content: '\\\\2623';",
-      "trigger": "emoji:biohazard-sign\t☣"
+      "trigger": "ji:biohazard-sign\t☣"
     },
     {
       "contents": "content: '\\\\2B06';",
-      "trigger": "emoji:upwards-black-arrow\t⬆"
+      "trigger": "ji:upwards-black-arrow\t⬆"
     },
     {
       "contents": "content: '\\\\2197';",
-      "trigger": "emoji:north-east-arrow\t↗"
+      "trigger": "ji:north-east-arrow\t↗"
     },
     {
       "contents": "content: '\\\\27A1';",
-      "trigger": "emoji:black-rightwards-arrow\t➡"
+      "trigger": "ji:black-rightwards-arrow\t➡"
     },
     {
       "contents": "content: '\\\\2198';",
-      "trigger": "emoji:south-east-arrow\t↘"
+      "trigger": "ji:south-east-arrow\t↘"
     },
     {
       "contents": "content: '\\\\2B07';",
-      "trigger": "emoji:downwards-black-arrow\t⬇"
+      "trigger": "ji:downwards-black-arrow\t⬇"
     },
     {
       "contents": "content: '\\\\2199';",
-      "trigger": "emoji:south-west-arrow\t↙"
+      "trigger": "ji:south-west-arrow\t↙"
     },
     {
       "contents": "content: '\\\\2B05';",
-      "trigger": "emoji:leftwards-black-arrow\t⬅"
+      "trigger": "ji:leftwards-black-arrow\t⬅"
     },
     {
       "contents": "content: '\\\\2196';",
-      "trigger": "emoji:north-west-arrow\t↖"
+      "trigger": "ji:north-west-arrow\t↖"
     },
     {
       "contents": "content: '\\\\2195';",
-      "trigger": "emoji:up-down-arrow\t↕"
+      "trigger": "ji:up-down-arrow\t↕"
     },
     {
       "contents": "content: '\\\\2194';",
-      "trigger": "emoji:left-right-arrow\t↔"
+      "trigger": "ji:left-right-arrow\t↔"
     },
     {
       "contents": "content: '\\\\21A9';",
-      "trigger": "emoji:leftwards-arrow-with-hook\t↩"
+      "trigger": "ji:leftwards-arrow-with-hook\t↩"
     },
     {
       "contents": "content: '\\\\21AA';",
-      "trigger": "emoji:rightwards-arrow-with-hook\t↪"
+      "trigger": "ji:rightwards-arrow-with-hook\t↪"
     },
     {
       "contents": "content: '\\\\2934';",
-      "trigger": "emoji:arrow-pointing-rightwards-then-curving-upwards\t⤴"
+      "trigger": "ji:arrow-pointing-rightwards-then-curving-upwards\t⤴"
     },
     {
       "contents": "content: '\\\\2935';",
-      "trigger": "emoji:arrow-pointing-rightwards-then-curving-downwards\t⤵"
+      "trigger": "ji:arrow-pointing-rightwards-then-curving-downwards\t⤵"
     },
     {
       "contents": "content: '\\\\1F503';",
-      "trigger": "emoji:clockwise-downwards-and-upwards-open-circle-arrows\t🔃"
+      "trigger": "ji:clockwise-downwards-and-upwards-open-circle-arrows\t🔃"
     },
     {
       "contents": "content: '\\\\1F504';",
-      "trigger": "emoji:anticlockwise-downwards-and-upwards-open-circle-arrows\t🔄"
+      "trigger": "ji:anticlockwise-downwards-and-upwards-open-circle-arrows\t🔄"
     },
     {
       "contents": "content: '\\\\1F519';",
-      "trigger": "emoji:back-with-leftwards-arrow-above\t🔙"
+      "trigger": "ji:back-with-leftwards-arrow-above\t🔙"
     },
     {
       "contents": "content: '\\\\1F51A';",
-      "trigger": "emoji:end-with-leftwards-arrow-above\t🔚"
+      "trigger": "ji:end-with-leftwards-arrow-above\t🔚"
     },
     {
       "contents": "content: '\\\\1F51B';",
-      "trigger": "emoji:on-with-exclamation-mark-with-left-right-arrow-above\t🔛"
+      "trigger": "ji:on-with-exclamation-mark-with-left-right-arrow-above\t🔛"
     },
     {
       "contents": "content: '\\\\1F51C';",
-      "trigger": "emoji:soon-with-rightwards-arrow-above\t🔜"
+      "trigger": "ji:soon-with-rightwards-arrow-above\t🔜"
     },
     {
       "contents": "content: '\\\\1F51D';",
-      "trigger": "emoji:top-with-upwards-arrow-above\t🔝"
+      "trigger": "ji:top-with-upwards-arrow-above\t🔝"
     },
     {
       "contents": "content: '\\\\1F6D0';",
-      "trigger": "emoji:place-of-worship\t🛐"
+      "trigger": "ji:place-of-worship\t🛐"
     },
     {
       "contents": "content: '\\\\269B';",
-      "trigger": "emoji:atom-symbol\t⚛"
+      "trigger": "ji:atom-symbol\t⚛"
     },
     {
       "contents": "content: '\\\\1F549';",
-      "trigger": "emoji:om-symbol\t🕉"
+      "trigger": "ji:om-symbol\t🕉"
     },
     {
       "contents": "content: '\\\\2721';",
-      "trigger": "emoji:star-of-david\t✡"
+      "trigger": "ji:star-of-david\t✡"
     },
     {
       "contents": "content: '\\\\2638';",
-      "trigger": "emoji:wheel-of-dharma\t☸"
+      "trigger": "ji:wheel-of-dharma\t☸"
     },
     {
       "contents": "content: '\\\\262F';",
-      "trigger": "emoji:yin-yang\t☯"
+      "trigger": "ji:yin-yang\t☯"
     },
     {
       "contents": "content: '\\\\271D';",
-      "trigger": "emoji:latin-cross\t✝"
+      "trigger": "ji:latin-cross\t✝"
     },
     {
       "contents": "content: '\\\\2626';",
-      "trigger": "emoji:orthodox-cross\t☦"
+      "trigger": "ji:orthodox-cross\t☦"
     },
     {
       "contents": "content: '\\\\262A';",
-      "trigger": "emoji:star-and-crescent\t☪"
+      "trigger": "ji:star-and-crescent\t☪"
     },
     {
       "contents": "content: '\\\\262E';",
-      "trigger": "emoji:peace-symbol\t☮"
+      "trigger": "ji:peace-symbol\t☮"
     },
     {
       "contents": "content: '\\\\1F54E';",
-      "trigger": "emoji:menorah-with-nine-branches\t🕎"
+      "trigger": "ji:menorah-with-nine-branches\t🕎"
     },
     {
       "contents": "content: '\\\\1F52F';",
-      "trigger": "emoji:six-pointed-star-with-middle-dot\t🔯"
+      "trigger": "ji:six-pointed-star-with-middle-dot\t🔯"
     },
     {
       "contents": "content: '\\\\267B';",
-      "trigger": "emoji:black-universal-recycling-symbol\t♻"
+      "trigger": "ji:black-universal-recycling-symbol\t♻"
     },
     {
       "contents": "content: '\\\\1F4DB';",
-      "trigger": "emoji:name-badge\t📛"
+      "trigger": "ji:name-badge\t📛"
     },
     {
       "contents": "content: '\\\\269C';",
-      "trigger": "emoji:fleur-de-lis\t⚜"
+      "trigger": "ji:fleur-de-lis\t⚜"
     },
     {
       "contents": "content: '\\\\1F530';",
-      "trigger": "emoji:japanese-symbol-for-beginner\t🔰"
+      "trigger": "ji:japanese-symbol-for-beginner\t🔰"
     },
     {
       "contents": "content: '\\\\1F531';",
-      "trigger": "emoji:trident-emblem\t🔱"
+      "trigger": "ji:trident-emblem\t🔱"
     },
     {
       "contents": "content: '\\\\2B55';",
-      "trigger": "emoji:heavy-large-circle\t⭕"
+      "trigger": "ji:heavy-large-circle\t⭕"
     },
     {
       "contents": "content: '\\\\2705';",
-      "trigger": "emoji:white-heavy-check-mark\t✅"
+      "trigger": "ji:white-heavy-check-mark\t✅"
     },
     {
       "contents": "content: '\\\\2611';",
-      "trigger": "emoji:ballot-box-with-check\t☑"
+      "trigger": "ji:ballot-box-with-check\t☑"
     },
     {
       "contents": "content: '\\\\2714';",
-      "trigger": "emoji:heavy-check-mark\t✔"
+      "trigger": "ji:heavy-check-mark\t✔"
     },
     {
       "contents": "content: '\\\\2716';",
-      "trigger": "emoji:heavy-multiplication-x\t✖"
+      "trigger": "ji:heavy-multiplication-x\t✖"
     },
     {
       "contents": "content: '\\\\274C';",
-      "trigger": "emoji:cross-mark\t❌"
+      "trigger": "ji:cross-mark\t❌"
     },
     {
       "contents": "content: '\\\\274E';",
-      "trigger": "emoji:negative-squared-cross-mark\t❎"
+      "trigger": "ji:negative-squared-cross-mark\t❎"
     },
     {
       "contents": "content: '\\\\2795';",
-      "trigger": "emoji:heavy-plus-sign\t➕"
+      "trigger": "ji:heavy-plus-sign\t➕"
     },
     {
       "contents": "content: '\\\\2796';",
-      "trigger": "emoji:heavy-minus-sign\t➖"
+      "trigger": "ji:heavy-minus-sign\t➖"
     },
     {
       "contents": "content: '\\\\2797';",
-      "trigger": "emoji:heavy-division-sign\t➗"
+      "trigger": "ji:heavy-division-sign\t➗"
     },
     {
       "contents": "content: '\\\\27B0';",
-      "trigger": "emoji:curly-loop\t➰"
+      "trigger": "ji:curly-loop\t➰"
     },
     {
       "contents": "content: '\\\\27BF';",
-      "trigger": "emoji:double-curly-loop\t➿"
+      "trigger": "ji:double-curly-loop\t➿"
     },
     {
       "contents": "content: '\\\\303D';",
-      "trigger": "emoji:part-alternation-mark\t〽"
+      "trigger": "ji:part-alternation-mark\t〽"
     },
     {
       "contents": "content: '\\\\2733';",
-      "trigger": "emoji:eight-spoked-asterisk\t✳"
+      "trigger": "ji:eight-spoked-asterisk\t✳"
     },
     {
       "contents": "content: '\\\\2734';",
-      "trigger": "emoji:eight-pointed-black-star\t✴"
+      "trigger": "ji:eight-pointed-black-star\t✴"
     },
     {
       "contents": "content: '\\\\2747';",
-      "trigger": "emoji:sparkle\t❇"
+      "trigger": "ji:sparkle\t❇"
     },
     {
       "contents": "content: '\\\\203C';",
-      "trigger": "emoji:double-exclamation-mark\t‼"
+      "trigger": "ji:double-exclamation-mark\t‼"
     },
     {
       "contents": "content: '\\\\2049';",
-      "trigger": "emoji:exclamation-question-mark\t⁉"
+      "trigger": "ji:exclamation-question-mark\t⁉"
     },
     {
       "contents": "content: '\\\\2753';",
-      "trigger": "emoji:black-question-mark-ornament\t❓"
+      "trigger": "ji:black-question-mark-ornament\t❓"
     },
     {
       "contents": "content: '\\\\2754';",
-      "trigger": "emoji:white-question-mark-ornament\t❔"
+      "trigger": "ji:white-question-mark-ornament\t❔"
     },
     {
       "contents": "content: '\\\\2755';",
-      "trigger": "emoji:white-exclamation-mark-ornament\t❕"
+      "trigger": "ji:white-exclamation-mark-ornament\t❕"
     },
     {
       "contents": "content: '\\\\2757';",
-      "trigger": "emoji:heavy-exclamation-mark-symbol\t❗"
+      "trigger": "ji:heavy-exclamation-mark-symbol\t❗"
     },
     {
       "contents": "content: '\\\\3030';",
-      "trigger": "emoji:wavy-dash\t〰"
+      "trigger": "ji:wavy-dash\t〰"
     },
     {
       "contents": "content: '\\\\00A9';",
-      "trigger": "emoji:copyright-sign\t©"
+      "trigger": "ji:copyright-sign\t©"
     },
     {
       "contents": "content: '\\\\00AE';",
-      "trigger": "emoji:registered-sign\t®"
+      "trigger": "ji:registered-sign\t®"
     },
     {
       "contents": "content: '\\\\2122';",
-      "trigger": "emoji:trade-mark-sign\t™"
+      "trigger": "ji:trade-mark-sign\t™"
     },
     {
       "contents": "content: '\\\\2648';",
-      "trigger": "emoji:aries\t♈"
+      "trigger": "ji:aries\t♈"
     },
     {
       "contents": "content: '\\\\2649';",
-      "trigger": "emoji:taurus\t♉"
+      "trigger": "ji:taurus\t♉"
     },
     {
       "contents": "content: '\\\\264A';",
-      "trigger": "emoji:gemini\t♊"
+      "trigger": "ji:gemini\t♊"
     },
     {
       "contents": "content: '\\\\264B';",
-      "trigger": "emoji:cancer\t♋"
+      "trigger": "ji:cancer\t♋"
     },
     {
       "contents": "content: '\\\\264C';",
-      "trigger": "emoji:leo\t♌"
+      "trigger": "ji:leo\t♌"
     },
     {
       "contents": "content: '\\\\264D';",
-      "trigger": "emoji:virgo\t♍"
+      "trigger": "ji:virgo\t♍"
     },
     {
       "contents": "content: '\\\\264E';",
-      "trigger": "emoji:libra\t♎"
+      "trigger": "ji:libra\t♎"
     },
     {
       "contents": "content: '\\\\264F';",
-      "trigger": "emoji:scorpius\t♏"
+      "trigger": "ji:scorpius\t♏"
     },
     {
       "contents": "content: '\\\\2650';",
-      "trigger": "emoji:sagittarius\t♐"
+      "trigger": "ji:sagittarius\t♐"
     },
     {
       "contents": "content: '\\\\2651';",
-      "trigger": "emoji:capricorn\t♑"
+      "trigger": "ji:capricorn\t♑"
     },
     {
       "contents": "content: '\\\\2652';",
-      "trigger": "emoji:aquarius\t♒"
+      "trigger": "ji:aquarius\t♒"
     },
     {
       "contents": "content: '\\\\2653';",
-      "trigger": "emoji:pisces\t♓"
+      "trigger": "ji:pisces\t♓"
     },
     {
       "contents": "content: '\\\\26CE';",
-      "trigger": "emoji:ophiuchus\t⛎"
+      "trigger": "ji:ophiuchus\t⛎"
     },
     {
       "contents": "content: '\\\\1F500';",
-      "trigger": "emoji:twisted-rightwards-arrows\t🔀"
+      "trigger": "ji:twisted-rightwards-arrows\t🔀"
     },
     {
       "contents": "content: '\\\\1F501';",
-      "trigger": "emoji:clockwise-rightwards-and-leftwards-open-circle-arrows\t🔁"
+      "trigger": "ji:clockwise-rightwards-and-leftwards-open-circle-arrows\t🔁"
     },
     {
       "contents": "content: '\\\\1F502';",
-      "trigger": "emoji:clockwise-rightwards-and-leftwards-open-circle-arrows-with-circled-one-overlay\t🔂"
+      "trigger": "ji:clockwise-rightwards-and-leftwards-open-circle-arrows-with-circled-one-overlay\t🔂"
     },
     {
       "contents": "content: '\\\\25B6';",
-      "trigger": "emoji:black-right-pointing-triangle\t▶"
+      "trigger": "ji:black-right-pointing-triangle\t▶"
     },
     {
       "contents": "content: '\\\\23E9';",
-      "trigger": "emoji:black-right-pointing-double-triangle\t⏩"
+      "trigger": "ji:black-right-pointing-double-triangle\t⏩"
     },
     {
       "contents": "content: '\\\\23ED';",
-      "trigger": "emoji:black-right-pointing-double-triangle-with-vertical-bar\t⏭"
+      "trigger": "ji:black-right-pointing-double-triangle-with-vertical-bar\t⏭"
     },
     {
       "contents": "content: '\\\\23EF';",
-      "trigger": "emoji:black-right-pointing-triangle-with-double-vertical-bar\t⏯"
+      "trigger": "ji:black-right-pointing-triangle-with-double-vertical-bar\t⏯"
     },
     {
       "contents": "content: '\\\\25C0';",
-      "trigger": "emoji:black-left-pointing-triangle\t◀"
+      "trigger": "ji:black-left-pointing-triangle\t◀"
     },
     {
       "contents": "content: '\\\\23EA';",
-      "trigger": "emoji:black-left-pointing-double-triangle\t⏪"
+      "trigger": "ji:black-left-pointing-double-triangle\t⏪"
     },
     {
       "contents": "content: '\\\\23EE';",
-      "trigger": "emoji:black-left-pointing-double-triangle-with-vertical-bar\t⏮"
+      "trigger": "ji:black-left-pointing-double-triangle-with-vertical-bar\t⏮"
     },
     {
       "contents": "content: '\\\\1F53C';",
-      "trigger": "emoji:up-pointing-small-red-triangle\t🔼"
+      "trigger": "ji:up-pointing-small-red-triangle\t🔼"
     },
     {
       "contents": "content: '\\\\23EB';",
-      "trigger": "emoji:black-up-pointing-double-triangle\t⏫"
+      "trigger": "ji:black-up-pointing-double-triangle\t⏫"
     },
     {
       "contents": "content: '\\\\1F53D';",
-      "trigger": "emoji:down-pointing-small-red-triangle\t🔽"
+      "trigger": "ji:down-pointing-small-red-triangle\t🔽"
     },
     {
       "contents": "content: '\\\\23EC';",
-      "trigger": "emoji:black-down-pointing-double-triangle\t⏬"
+      "trigger": "ji:black-down-pointing-double-triangle\t⏬"
     },
     {
       "contents": "content: '\\\\23F8';",
-      "trigger": "emoji:double-vertical-bar\t⏸"
+      "trigger": "ji:double-vertical-bar\t⏸"
     },
     {
       "contents": "content: '\\\\23F9';",
-      "trigger": "emoji:black-square-for-stop\t⏹"
+      "trigger": "ji:black-square-for-stop\t⏹"
     },
     {
       "contents": "content: '\\\\23FA';",
-      "trigger": "emoji:black-circle-for-record\t⏺"
+      "trigger": "ji:black-circle-for-record\t⏺"
     },
     {
       "contents": "content: '\\\\23CF';",
-      "trigger": "emoji:eject-symbol\t⏏"
+      "trigger": "ji:eject-symbol\t⏏"
     },
     {
       "contents": "content: '\\\\1F3A6';",
-      "trigger": "emoji:cinema\t🎦"
+      "trigger": "ji:cinema\t🎦"
     },
     {
       "contents": "content: '\\\\1F505';",
-      "trigger": "emoji:low-brightness-symbol\t🔅"
+      "trigger": "ji:low-brightness-symbol\t🔅"
     },
     {
       "contents": "content: '\\\\1F506';",
-      "trigger": "emoji:high-brightness-symbol\t🔆"
+      "trigger": "ji:high-brightness-symbol\t🔆"
     },
     {
       "contents": "content: '\\\\1F4F6';",
-      "trigger": "emoji:antenna-with-bars\t📶"
+      "trigger": "ji:antenna-with-bars\t📶"
     },
     {
       "contents": "content: '\\\\1F4F3';",
-      "trigger": "emoji:vibration-mode\t📳"
+      "trigger": "ji:vibration-mode\t📳"
     },
     {
       "contents": "content: '\\\\1F4F4';",
-      "trigger": "emoji:mobile-phone-off\t📴"
+      "trigger": "ji:mobile-phone-off\t📴"
     },
     {
       "contents": "content: '\\\\1F51F';",
-      "trigger": "emoji:keycap-ten\t🔟"
+      "trigger": "ji:keycap-ten\t🔟"
     },
     {
       "contents": "content: '\\\\1F4AF';",
-      "trigger": "emoji:hundred-points-symbol\t💯"
+      "trigger": "ji:hundred-points-symbol\t💯"
     },
     {
       "contents": "content: '\\\\1F520';",
-      "trigger": "emoji:input-symbol-for-latin-capital-letters\t🔠"
+      "trigger": "ji:input-symbol-for-latin-capital-letters\t🔠"
     },
     {
       "contents": "content: '\\\\1F521';",
-      "trigger": "emoji:input-symbol-for-latin-small-letters\t🔡"
+      "trigger": "ji:input-symbol-for-latin-small-letters\t🔡"
     },
     {
       "contents": "content: '\\\\1F522';",
-      "trigger": "emoji:input-symbol-for-numbers\t🔢"
+      "trigger": "ji:input-symbol-for-numbers\t🔢"
     },
     {
       "contents": "content: '\\\\1F523';",
-      "trigger": "emoji:input-symbol-for-symbols\t🔣"
+      "trigger": "ji:input-symbol-for-symbols\t🔣"
     },
     {
       "contents": "content: '\\\\1F524';",
-      "trigger": "emoji:input-symbol-for-latin-letters\t🔤"
+      "trigger": "ji:input-symbol-for-latin-letters\t🔤"
     },
     {
       "contents": "content: '\\\\1F170';",
-      "trigger": "emoji:negative-squared-latin-capital-letter-a\t🅰"
+      "trigger": "ji:negative-squared-latin-capital-letter-a\t🅰"
     },
     {
       "contents": "content: '\\\\1F18E';",
-      "trigger": "emoji:negative-squared-ab\t🆎"
+      "trigger": "ji:negative-squared-ab\t🆎"
     },
     {
       "contents": "content: '\\\\1F171';",
-      "trigger": "emoji:negative-squared-latin-capital-letter-b\t🅱"
+      "trigger": "ji:negative-squared-latin-capital-letter-b\t🅱"
     },
     {
       "contents": "content: '\\\\1F191';",
-      "trigger": "emoji:squared-cl\t🆑"
+      "trigger": "ji:squared-cl\t🆑"
     },
     {
       "contents": "content: '\\\\1F192';",
-      "trigger": "emoji:squared-cool\t🆒"
+      "trigger": "ji:squared-cool\t🆒"
     },
     {
       "contents": "content: '\\\\1F193';",
-      "trigger": "emoji:squared-free\t🆓"
+      "trigger": "ji:squared-free\t🆓"
     },
     {
       "contents": "content: '\\\\2139';",
-      "trigger": "emoji:information-source\tℹ"
+      "trigger": "ji:information-source\tℹ"
     },
     {
       "contents": "content: '\\\\1F194';",
-      "trigger": "emoji:squared-id\t🆔"
+      "trigger": "ji:squared-id\t🆔"
     },
     {
       "contents": "content: '\\\\24C2';",
-      "trigger": "emoji:circled-latin-capital-letter-m\tⓂ"
+      "trigger": "ji:circled-latin-capital-letter-m\tⓂ"
     },
     {
       "contents": "content: '\\\\1F195';",
-      "trigger": "emoji:squared-new\t🆕"
+      "trigger": "ji:squared-new\t🆕"
     },
     {
       "contents": "content: '\\\\1F196';",
-      "trigger": "emoji:squared-ng\t🆖"
+      "trigger": "ji:squared-ng\t🆖"
     },
     {
       "contents": "content: '\\\\1F17E';",
-      "trigger": "emoji:negative-squared-latin-capital-letter-o\t🅾"
+      "trigger": "ji:negative-squared-latin-capital-letter-o\t🅾"
     },
     {
       "contents": "content: '\\\\1F197';",
-      "trigger": "emoji:squared-ok\t🆗"
+      "trigger": "ji:squared-ok\t🆗"
     },
     {
       "contents": "content: '\\\\1F17F';",
-      "trigger": "emoji:negative-squared-latin-capital-letter-p\t🅿"
+      "trigger": "ji:negative-squared-latin-capital-letter-p\t🅿"
     },
     {
       "contents": "content: '\\\\1F198';",
-      "trigger": "emoji:squared-sos\t🆘"
+      "trigger": "ji:squared-sos\t🆘"
     },
     {
       "contents": "content: '\\\\1F199';",
-      "trigger": "emoji:squared-up-with-exclamation-mark\t🆙"
+      "trigger": "ji:squared-up-with-exclamation-mark\t🆙"
     },
     {
       "contents": "content: '\\\\1F19A';",
-      "trigger": "emoji:squared-vs\t🆚"
+      "trigger": "ji:squared-vs\t🆚"
     },
     {
       "contents": "content: '\\\\1F201';",
-      "trigger": "emoji:squared-katakana-koko\t🈁"
+      "trigger": "ji:squared-katakana-koko\t🈁"
     },
     {
       "contents": "content: '\\\\1F202';",
-      "trigger": "emoji:squared-katakana-sa\t🈂"
+      "trigger": "ji:squared-katakana-sa\t🈂"
     },
     {
       "contents": "content: '\\\\1F237';",
-      "trigger": "emoji:squared-cjk-unified-ideograph-6708\t🈷"
+      "trigger": "ji:squared-cjk-unified-ideograph-6708\t🈷"
     },
     {
       "contents": "content: '\\\\1F236';",
-      "trigger": "emoji:squared-cjk-unified-ideograph-6709\t🈶"
+      "trigger": "ji:squared-cjk-unified-ideograph-6709\t🈶"
     },
     {
       "contents": "content: '\\\\1F22F';",
-      "trigger": "emoji:squared-cjk-unified-ideograph-6307\t🈯"
+      "trigger": "ji:squared-cjk-unified-ideograph-6307\t🈯"
     },
     {
       "contents": "content: '\\\\1F250';",
-      "trigger": "emoji:circled-ideograph-advantage\t🉐"
+      "trigger": "ji:circled-ideograph-advantage\t🉐"
     },
     {
       "contents": "content: '\\\\1F239';",
-      "trigger": "emoji:squared-cjk-unified-ideograph-5272\t🈹"
+      "trigger": "ji:squared-cjk-unified-ideograph-5272\t🈹"
     },
     {
       "contents": "content: '\\\\1F21A';",
-      "trigger": "emoji:squared-cjk-unified-ideograph-7121\t🈚"
+      "trigger": "ji:squared-cjk-unified-ideograph-7121\t🈚"
     },
     {
       "contents": "content: '\\\\1F232';",
-      "trigger": "emoji:squared-cjk-unified-ideograph-7981\t🈲"
+      "trigger": "ji:squared-cjk-unified-ideograph-7981\t🈲"
     },
     {
       "contents": "content: '\\\\1F251';",
-      "trigger": "emoji:circled-ideograph-accept\t🉑"
+      "trigger": "ji:circled-ideograph-accept\t🉑"
     },
     {
       "contents": "content: '\\\\1F238';",
-      "trigger": "emoji:squared-cjk-unified-ideograph-7533\t🈸"
+      "trigger": "ji:squared-cjk-unified-ideograph-7533\t🈸"
     },
     {
       "contents": "content: '\\\\1F234';",
-      "trigger": "emoji:squared-cjk-unified-ideograph-5408\t🈴"
+      "trigger": "ji:squared-cjk-unified-ideograph-5408\t🈴"
     },
     {
       "contents": "content: '\\\\1F233';",
-      "trigger": "emoji:squared-cjk-unified-ideograph-7a7a\t🈳"
+      "trigger": "ji:squared-cjk-unified-ideograph-7a7a\t🈳"
     },
     {
       "contents": "content: '\\\\3297';",
-      "trigger": "emoji:circled-ideograph-congratulation\t㊗"
+      "trigger": "ji:circled-ideograph-congratulation\t㊗"
     },
     {
       "contents": "content: '\\\\3299';",
-      "trigger": "emoji:circled-ideograph-secret\t㊙"
+      "trigger": "ji:circled-ideograph-secret\t㊙"
     },
     {
       "contents": "content: '\\\\1F23A';",
-      "trigger": "emoji:squared-cjk-unified-ideograph-55b6\t🈺"
+      "trigger": "ji:squared-cjk-unified-ideograph-55b6\t🈺"
     },
     {
       "contents": "content: '\\\\1F235';",
-      "trigger": "emoji:squared-cjk-unified-ideograph-6e80\t🈵"
+      "trigger": "ji:squared-cjk-unified-ideograph-6e80\t🈵"
     },
     {
       "contents": "content: '\\\\25AA';",
-      "trigger": "emoji:black-small-square\t▪"
+      "trigger": "ji:black-small-square\t▪"
     },
     {
       "contents": "content: '\\\\25AB';",
-      "trigger": "emoji:white-small-square\t▫"
+      "trigger": "ji:white-small-square\t▫"
     },
     {
       "contents": "content: '\\\\25FB';",
-      "trigger": "emoji:white-medium-square\t◻"
+      "trigger": "ji:white-medium-square\t◻"
     },
     {
       "contents": "content: '\\\\25FC';",
-      "trigger": "emoji:black-medium-square\t◼"
+      "trigger": "ji:black-medium-square\t◼"
     },
     {
       "contents": "content: '\\\\25FD';",
-      "trigger": "emoji:white-medium-small-square\t◽"
+      "trigger": "ji:white-medium-small-square\t◽"
     },
     {
       "contents": "content: '\\\\25FE';",
-      "trigger": "emoji:black-medium-small-square\t◾"
+      "trigger": "ji:black-medium-small-square\t◾"
     },
     {
       "contents": "content: '\\\\2B1B';",
-      "trigger": "emoji:black-large-square\t⬛"
+      "trigger": "ji:black-large-square\t⬛"
     },
     {
       "contents": "content: '\\\\2B1C';",
-      "trigger": "emoji:white-large-square\t⬜"
+      "trigger": "ji:white-large-square\t⬜"
     },
     {
       "contents": "content: '\\\\1F536';",
-      "trigger": "emoji:large-orange-diamond\t🔶"
+      "trigger": "ji:large-orange-diamond\t🔶"
     },
     {
       "contents": "content: '\\\\1F537';",
-      "trigger": "emoji:large-blue-diamond\t🔷"
+      "trigger": "ji:large-blue-diamond\t🔷"
     },
     {
       "contents": "content: '\\\\1F538';",
-      "trigger": "emoji:small-orange-diamond\t🔸"
+      "trigger": "ji:small-orange-diamond\t🔸"
     },
     {
       "contents": "content: '\\\\1F539';",
-      "trigger": "emoji:small-blue-diamond\t🔹"
+      "trigger": "ji:small-blue-diamond\t🔹"
     },
     {
       "contents": "content: '\\\\1F53A';",
-      "trigger": "emoji:up-pointing-red-triangle\t🔺"
+      "trigger": "ji:up-pointing-red-triangle\t🔺"
     },
     {
       "contents": "content: '\\\\1F53B';",
-      "trigger": "emoji:down-pointing-red-triangle\t🔻"
+      "trigger": "ji:down-pointing-red-triangle\t🔻"
     },
     {
       "contents": "content: '\\\\1F4A0';",
-      "trigger": "emoji:diamond-shape-with-a-dot-inside\t💠"
+      "trigger": "ji:diamond-shape-with-a-dot-inside\t💠"
     },
     {
       "contents": "content: '\\\\1F518';",
-      "trigger": "emoji:radio-button\t🔘"
+      "trigger": "ji:radio-button\t🔘"
     },
     {
       "contents": "content: '\\\\1F532';",
-      "trigger": "emoji:black-square-button\t🔲"
+      "trigger": "ji:black-square-button\t🔲"
     },
     {
       "contents": "content: '\\\\1F533';",
-      "trigger": "emoji:white-square-button\t🔳"
+      "trigger": "ji:white-square-button\t🔳"
     },
     {
       "contents": "content: '\\\\26AA';",
-      "trigger": "emoji:medium-white-circle\t⚪"
+      "trigger": "ji:medium-white-circle\t⚪"
     },
     {
       "contents": "content: '\\\\26AB';",
-      "trigger": "emoji:medium-black-circle\t⚫"
+      "trigger": "ji:medium-black-circle\t⚫"
     },
     {
       "contents": "content: '\\\\1F534';",
-      "trigger": "emoji:large-red-circle\t🔴"
+      "trigger": "ji:large-red-circle\t🔴"
     },
     {
       "contents": "content: '\\\\1F535';",
-      "trigger": "emoji:large-blue-circle\t🔵"
+      "trigger": "ji:large-blue-circle\t🔵"
     },
     {
       "contents": "content: '\\\\1F3C1';",
-      "trigger": "emoji:chequered-flag\t🏁"
+      "trigger": "ji:chequered-flag\t🏁"
     },
     {
       "contents": "content: '\\\\1F6A9';",
-      "trigger": "emoji:triangular-flag-on-post\t🚩"
+      "trigger": "ji:triangular-flag-on-post\t🚩"
     },
     {
       "contents": "content: '\\\\1F38C';",
-      "trigger": "emoji:crossed-flags\t🎌"
+      "trigger": "ji:crossed-flags\t🎌"
     },
     {
       "contents": "content: '\\\\1F3F4';",
-      "trigger": "emoji:waving-black-flag\t🏴"
+      "trigger": "ji:waving-black-flag\t🏴"
     },
     {
       "contents": "content: '\\\\1F3F3';",
-      "trigger": "emoji:waving-white-flag\t🏳"
+      "trigger": "ji:waving-white-flag\t🏳"
     }
-  ],
-  "scope": "source.css source.sass"
+  ]
 }
