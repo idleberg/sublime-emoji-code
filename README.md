@@ -1,12 +1,10 @@
 # emoji-code
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![Package Control](https://packagecontrol.herokuapp.com/downloads/Emoji%20code.svg?style=flat-square)](https://packagecontrol.io/packages/Emoji%20code)
+[![Package Control](https://packagecontrol.herokuapp.com/downloads/Emoji%20Code.svg?style=flat-square)](https://packagecontrol.io/packages/Emoji%20Code)
 [![GitHub release](https://img.shields.io/github/release/idleberg/sublime-emoji-code.svg?style=flat-square)](https://github.com/idleberg/sublime-emoji-code/releases)
 [![Travis](https://img.shields.io/travis/idleberg/sublime-emoji-code.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-emoji-code)
 [![Gitter](https://img.shields.io/badge/chat-Gitter-ff69b4.svg?style=flat-square)](https://gitter.im/NSIS-Dev/SublimeText)
-
-*Work in progress*
 
 Sublime Text snippets to insert escaped Emoji code into HTML and CSS.
 
