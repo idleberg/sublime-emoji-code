@@ -6,7 +6,7 @@
 [![Travis](https://img.shields.io/travis/idleberg/sublime-emoji-code.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-emoji-code)
 [![Gitter](https://img.shields.io/badge/chat-Gitter-ff69b4.svg?style=flat-square)](https://gitter.im/NSIS-Dev/SublimeText)
 
-Sublime Text snippets to insert escaped Emoji code into HTML and CSS.
+Sublime Text completions to insert escaped Emoji code into HTML, CSS, JavaScript and Ruby.
 
 ![Screenshot](https://raw.github.com/idleberg/sublime-emoji-code/master/screenshot.gif)
 
@@ -22,6 +22,7 @@ Let's say, you want to insert the 😄 emoji
 
 * HTML: `ji:grinning-face` becomes `&#x1F600;`
 * CSS: `ji:grinning-face` becomes `content: '\1F600';`
+* JavaScript: `ji:grinning-face` becomes `u\1F600`
 
 Keep in mind that Sublime Text supports fuzzy completion, inviting you to use abbreviation of your preference.
 
@@ -41,6 +42,12 @@ There's also a collection of [Sublime Text Packages](https://github.com/NSIS-Dev
 
 1. Change to your Sublime Text `Packages` directory
 2. Clone repository `git clone https://github.com/idleberg/sublime-emoji-code.git 'Emoji Code'`
+
+## Cheatsheet
+
+ Take note of this list of [all supported emoji codes](cheatsheet.md).
+
+## License
 
 This work is licensed under the [The MIT License](LICENSE.md).
 
