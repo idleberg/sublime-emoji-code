@@ -1,0 +1,4057 @@
+{
+  "scope": "source.ruby",
+  "completions": [
+    {
+      "contents": "\\\\u{1F600}",
+      "trigger": "ji:grinning-face\t😀"
+    },
+    {
+      "contents": "\\\\u{1F601}",
+      "trigger": "ji:grinning-face-with-smiling-eyes\t😁"
+    },
+    {
+      "contents": "\\\\u{1F602}",
+      "trigger": "ji:face-with-tears-of-joy\t😂"
+    },
+    {
+      "contents": "\\\\u{1F603}",
+      "trigger": "ji:smiling-face-with-open-mouth\t😃"
+    },
+    {
+      "contents": "\\\\u{1F604}",
+      "trigger": "ji:smiling-face-with-open-mouth-and-smiling-eyes\t😄"
+    },
+    {
+      "contents": "\\\\u{1F605}",
+      "trigger": "ji:smiling-face-with-open-mouth-and-cold-sweat\t😅"
+    },
+    {
+      "contents": "\\\\u{1F606}",
+      "trigger": "ji:smiling-face-with-open-mouth-and-tightly-closed-eyes\t😆"
+    },
+    {
+      "contents": "\\\\u{1F609}",
+      "trigger": "ji:winking-face\t😉"
+    },
+    {
+      "contents": "\\\\u{1F60A}",
+      "trigger": "ji:smiling-face-with-smiling-eyes\t😊"
+    },
+    {
+      "contents": "\\\\u{1F60B}",
+      "trigger": "ji:face-savouring-delicious-food\t😋"
+    },
+    {
+      "contents": "\\\\u{1F60E}",
+      "trigger": "ji:smiling-face-with-sunglasses\t😎"
+    },
+    {
+      "contents": "\\\\u{1F60D}",
+      "trigger": "ji:smiling-face-with-heart-shaped-eyes\t😍"
+    },
+    {
+      "contents": "\\\\u{1F618}",
+      "trigger": "ji:face-throwing-a-kiss\t😘"
+    },
+    {
+      "contents": "\\\\u{1F617}",
+      "trigger": "ji:kissing-face\t😗"
+    },
+    {
+      "contents": "\\\\u{1F619}",
+      "trigger": "ji:kissing-face-with-smiling-eyes\t😙"
+    },
+    {
+      "contents": "\\\\u{1F61A}",
+      "trigger": "ji:kissing-face-with-closed-eyes\t😚"
+    },
+    {
+      "contents": "\\\\u{263A}",
+      "trigger": "ji:white-smiling-face\t☺"
+    },
+    {
+      "contents": "\\\\u{1F642}",
+      "trigger": "ji:slightly-smiling-face\t🙂"
+    },
+    {
+      "contents": "\\\\u{1F917}",
+      "trigger": "ji:hugging-face\t🤗"
+    },
+    {
+      "contents": "\\\\u{1F607}",
+      "trigger": "ji:smiling-face-with-halo\t😇"
+    },
+    {
+      "contents": "\\\\u{1F913}",
+      "trigger": "ji:nerd-face\t🤓"
+    },
+    {
+      "contents": "\\\\u{1F914}",
+      "trigger": "ji:thinking-face\t🤔"
+    },
+    {
+      "contents": "\\\\u{1F610}",
+      "trigger": "ji:neutral-face\t😐"
+    },
+    {
+      "contents": "\\\\u{1F611}",
+      "trigger": "ji:expressionless-face\t😑"
+    },
+    {
+      "contents": "\\\\u{1F636}",
+      "trigger": "ji:face-without-mouth\t😶"
+    },
+    {
+      "contents": "\\\\u{1F644}",
+      "trigger": "ji:face-with-rolling-eyes\t🙄"
+    },
+    {
+      "contents": "\\\\u{1F60F}",
+      "trigger": "ji:smirking-face\t😏"
+    },
+    {
+      "contents": "\\\\u{1F623}",
+      "trigger": "ji:persevering-face\t😣"
+    },
+    {
+      "contents": "\\\\u{1F625}",
+      "trigger": "ji:disappointed-but-relieved-face\t😥"
+    },
+    {
+      "contents": "\\\\u{1F62E}",
+      "trigger": "ji:face-with-open-mouth\t😮"
+    },
+    {
+      "contents": "\\\\u{1F910}",
+      "trigger": "ji:zipper-mouth-face\t🤐"
+    },
+    {
+      "contents": "\\\\u{1F62F}",
+      "trigger": "ji:hushed-face\t😯"
+    },
+    {
+      "contents": "\\\\u{1F62A}",
+      "trigger": "ji:sleepy-face\t😪"
+    },
+    {
+      "contents": "\\\\u{1F62B}",
+      "trigger": "ji:tired-face\t😫"
+    },
+    {
+      "contents": "\\\\u{1F634}",
+      "trigger": "ji:sleeping-face\t😴"
+    },
+    {
+      "contents": "\\\\u{1F60C}",
+      "trigger": "ji:relieved-face\t😌"
+    },
+    {
+      "contents": "\\\\u{1F61B}",
+      "trigger": "ji:face-with-stuck-out-tongue\t😛"
+    },
+    {
+      "contents": "\\\\u{1F61C}",
+      "trigger": "ji:face-with-stuck-out-tongue-and-winking-eye\t😜"
+    },
+    {
+      "contents": "\\\\u{1F61D}",
+      "trigger": "ji:face-with-stuck-out-tongue-and-tightly-closed-eyes\t😝"
+    },
+    {
+      "contents": "\\\\u{1F612}",
+      "trigger": "ji:unamused-face\t😒"
+    },
+    {
+      "contents": "\\\\u{1F613}",
+      "trigger": "ji:face-with-cold-sweat\t😓"
+    },
+    {
+      "contents": "\\\\u{1F614}",
+      "trigger": "ji:pensive-face\t😔"
+    },
+    {
+      "contents": "\\\\u{1F615}",
+      "trigger": "ji:confused-face\t😕"
+    },
+    {
+      "contents": "\\\\u{1F643}",
+      "trigger": "ji:upside-down-face\t🙃"
+    },
+    {
+      "contents": "\\\\u{1F911}",
+      "trigger": "ji:money-mouth-face\t🤑"
+    },
+    {
+      "contents": "\\\\u{1F632}",
+      "trigger": "ji:astonished-face\t😲"
+    },
+    {
+      "contents": "\\\\u{1F637}",
+      "trigger": "ji:face-with-medical-mask\t😷"
+    },
+    {
+      "contents": "\\\\u{1F912}",
+      "trigger": "ji:face-with-thermometer\t🤒"
+    },
+    {
+      "contents": "\\\\u{1F915}",
+      "trigger": "ji:face-with-head-bandage\t🤕"
+    },
+    {
+      "contents": "\\\\u{2639}",
+      "trigger": "ji:white-frowning-face\t☹"
+    },
+    {
+      "contents": "\\\\u{1F641}",
+      "trigger": "ji:slightly-frowning-face\t🙁"
+    },
+    {
+      "contents": "\\\\u{1F616}",
+      "trigger": "ji:confounded-face\t😖"
+    },
+    {
+      "contents": "\\\\u{1F61E}",
+      "trigger": "ji:disappointed-face\t😞"
+    },
+    {
+      "contents": "\\\\u{1F61F}",
+      "trigger": "ji:worried-face\t😟"
+    },
+    {
+      "contents": "\\\\u{1F624}",
+      "trigger": "ji:face-with-look-of-triumph\t😤"
+    },
+    {
+      "contents": "\\\\u{1F622}",
+      "trigger": "ji:crying-face\t😢"
+    },
+    {
+      "contents": "\\\\u{1F62D}",
+      "trigger": "ji:loudly-crying-face\t😭"
+    },
+    {
+      "contents": "\\\\u{1F626}",
+      "trigger": "ji:frowning-face-with-open-mouth\t😦"
+    },
+    {
+      "contents": "\\\\u{1F627}",
+      "trigger": "ji:anguished-face\t😧"
+    },
+    {
+      "contents": "\\\\u{1F628}",
+      "trigger": "ji:fearful-face\t😨"
+    },
+    {
+      "contents": "\\\\u{1F629}",
+      "trigger": "ji:weary-face\t😩"
+    },
+    {
+      "contents": "\\\\u{1F62C}",
+      "trigger": "ji:grimacing-face\t😬"
+    },
+    {
+      "contents": "\\\\u{1F630}",
+      "trigger": "ji:face-with-open-mouth-and-cold-sweat\t😰"
+    },
+    {
+      "contents": "\\\\u{1F631}",
+      "trigger": "ji:face-screaming-in-fear\t😱"
+    },
+    {
+      "contents": "\\\\u{1F633}",
+      "trigger": "ji:flushed-face\t😳"
+    },
+    {
+      "contents": "\\\\u{1F635}",
+      "trigger": "ji:dizzy-face\t😵"
+    },
+    {
+      "contents": "\\\\u{1F621}",
+      "trigger": "ji:pouting-face\t😡"
+    },
+    {
+      "contents": "\\\\u{1F620}",
+      "trigger": "ji:angry-face\t😠"
+    },
+    {
+      "contents": "\\\\u{1F608}",
+      "trigger": "ji:smiling-face-with-horns\t😈"
+    },
+    {
+      "contents": "\\\\u{1F47F}",
+      "trigger": "ji:imp\t👿"
+    },
+    {
+      "contents": "\\\\u{1F479}",
+      "trigger": "ji:japanese-ogre\t👹"
+    },
+    {
+      "contents": "\\\\u{1F47A}",
+      "trigger": "ji:japanese-goblin\t👺"
+    },
+    {
+      "contents": "\\\\u{1F480}",
+      "trigger": "ji:skull\t💀"
+    },
+    {
+      "contents": "\\\\u{2620}",
+      "trigger": "ji:skull-and-crossbones\t☠"
+    },
+    {
+      "contents": "\\\\u{1F47B}",
+      "trigger": "ji:ghost\t👻"
+    },
+    {
+      "contents": "\\\\u{1F47D}",
+      "trigger": "ji:extraterrestrial-alien\t👽"
+    },
+    {
+      "contents": "\\\\u{1F47E}",
+      "trigger": "ji:alien-monster\t👾"
+    },
+    {
+      "contents": "\\\\u{1F916}",
+      "trigger": "ji:robot-face\t🤖"
+    },
+    {
+      "contents": "\\\\u{1F4A9}",
+      "trigger": "ji:pile-of-poo\t💩"
+    },
+    {
+      "contents": "\\\\u{1F63A}",
+      "trigger": "ji:smiling-cat-face-with-open-mouth\t😺"
+    },
+    {
+      "contents": "\\\\u{1F638}",
+      "trigger": "ji:grinning-cat-face-with-smiling-eyes\t😸"
+    },
+    {
+      "contents": "\\\\u{1F639}",
+      "trigger": "ji:cat-face-with-tears-of-joy\t😹"
+    },
+    {
+      "contents": "\\\\u{1F63B}",
+      "trigger": "ji:smiling-cat-face-with-heart-shaped-eyes\t😻"
+    },
+    {
+      "contents": "\\\\u{1F63C}",
+      "trigger": "ji:cat-face-with-wry-smile\t😼"
+    },
+    {
+      "contents": "\\\\u{1F63D}",
+      "trigger": "ji:kissing-cat-face-with-closed-eyes\t😽"
+    },
+    {
+      "contents": "\\\\u{1F640}",
+      "trigger": "ji:weary-cat-face\t🙀"
+    },
+    {
+      "contents": "\\\\u{1F63F}",
+      "trigger": "ji:crying-cat-face\t😿"
+    },
+    {
+      "contents": "\\\\u{1F63E}",
+      "trigger": "ji:pouting-cat-face\t😾"
+    },
+    {
+      "contents": "\\\\u{1F648}",
+      "trigger": "ji:see-no-evil-monkey\t🙈"
+    },
+    {
+      "contents": "\\\\u{1F649}",
+      "trigger": "ji:hear-no-evil-monkey\t🙉"
+    },
+    {
+      "contents": "\\\\u{1F64A}",
+      "trigger": "ji:speak-no-evil-monkey\t🙊"
+    },
+    {
+      "contents": "\\\\u{1F466}",
+      "trigger": "ji:boy\t👦"
+    },
+    {
+      "contents": "\\\\u{1F467}",
+      "trigger": "ji:girl\t👧"
+    },
+    {
+      "contents": "\\\\u{1F468}",
+      "trigger": "ji:man\t👨"
+    },
+    {
+      "contents": "\\\\u{1F469}",
+      "trigger": "ji:woman\t👩"
+    },
+    {
+      "contents": "\\\\u{1F474}",
+      "trigger": "ji:older-man\t👴"
+    },
+    {
+      "contents": "\\\\u{1F475}",
+      "trigger": "ji:older-woman\t👵"
+    },
+    {
+      "contents": "\\\\u{1F476}",
+      "trigger": "ji:baby\t👶"
+    },
+    {
+      "contents": "\\\\u{1F471}",
+      "trigger": "ji:person-with-blond-hair\t👱"
+    },
+    {
+      "contents": "\\\\u{1F46E}",
+      "trigger": "ji:police-officer\t👮"
+    },
+    {
+      "contents": "\\\\u{1F472}",
+      "trigger": "ji:man-with-gua-pi-mao\t👲"
+    },
+    {
+      "contents": "\\\\u{1F473}",
+      "trigger": "ji:man-with-turban\t👳"
+    },
+    {
+      "contents": "\\\\u{1F477}",
+      "trigger": "ji:construction-worker\t👷"
+    },
+    {
+      "contents": "\\\\u{26D1}",
+      "trigger": "ji:helmet-with-white-cross\t⛑"
+    },
+    {
+      "contents": "\\\\u{1F478}",
+      "trigger": "ji:princess\t👸"
+    },
+    {
+      "contents": "\\\\u{1F482}",
+      "trigger": "ji:guardsman\t💂"
+    },
+    {
+      "contents": "\\\\u{1F575}",
+      "trigger": "ji:sleuth-or-spy\t🕵"
+    },
+    {
+      "contents": "\\\\u{1F385}",
+      "trigger": "ji:father-christmas\t🎅"
+    },
+    {
+      "contents": "\\\\u{1F470}",
+      "trigger": "ji:bride-with-veil\t👰"
+    },
+    {
+      "contents": "\\\\u{1F47C}",
+      "trigger": "ji:baby-angel\t👼"
+    },
+    {
+      "contents": "\\\\u{1F486}",
+      "trigger": "ji:face-massage\t💆"
+    },
+    {
+      "contents": "\\\\u{1F487}",
+      "trigger": "ji:haircut\t💇"
+    },
+    {
+      "contents": "\\\\u{1F64D}",
+      "trigger": "ji:person-frowning\t🙍"
+    },
+    {
+      "contents": "\\\\u{1F64E}",
+      "trigger": "ji:person-with-pouting-face\t🙎"
+    },
+    {
+      "contents": "\\\\u{1F645}",
+      "trigger": "ji:face-with-no-good-gesture\t🙅"
+    },
+    {
+      "contents": "\\\\u{1F646}",
+      "trigger": "ji:face-with-ok-gesture\t🙆"
+    },
+    {
+      "contents": "\\\\u{1F481}",
+      "trigger": "ji:information-desk-person\t💁"
+    },
+    {
+      "contents": "\\\\u{1F64B}",
+      "trigger": "ji:happy-person-raising-one-hand\t🙋"
+    },
+    {
+      "contents": "\\\\u{1F647}",
+      "trigger": "ji:person-bowing-deeply\t🙇"
+    },
+    {
+      "contents": "\\\\u{1F64C}",
+      "trigger": "ji:person-raising-both-hands-in-celebration\t🙌"
+    },
+    {
+      "contents": "\\\\u{1F64F}",
+      "trigger": "ji:person-with-folded-hands\t🙏"
+    },
+    {
+      "contents": "\\\\u{1F5E3}",
+      "trigger": "ji:speaking-head-in-silhouette\t🗣"
+    },
+    {
+      "contents": "\\\\u{1F464}",
+      "trigger": "ji:bust-in-silhouette\t👤"
+    },
+    {
+      "contents": "\\\\u{1F465}",
+      "trigger": "ji:busts-in-silhouette\t👥"
+    },
+    {
+      "contents": "\\\\u{1F6B6}",
+      "trigger": "ji:pedestrian\t🚶"
+    },
+    {
+      "contents": "\\\\u{1F3C3}",
+      "trigger": "ji:runner\t🏃"
+    },
+    {
+      "contents": "\\\\u{1F46F}",
+      "trigger": "ji:woman-with-bunny-ears\t👯"
+    },
+    {
+      "contents": "\\\\u{1F483}",
+      "trigger": "ji:dancer\t💃"
+    },
+    {
+      "contents": "\\\\u{1F574}",
+      "trigger": "ji:man-in-business-suit-levitating\t🕴"
+    },
+    {
+      "contents": "\\\\u{1F46B}",
+      "trigger": "ji:man-and-woman-holding-hands\t👫"
+    },
+    {
+      "contents": "\\\\u{1F46C}",
+      "trigger": "ji:two-men-holding-hands\t👬"
+    },
+    {
+      "contents": "\\\\u{1F46D}",
+      "trigger": "ji:two-women-holding-hands\t👭"
+    },
+    {
+      "contents": "\\\\u{1F48F}",
+      "trigger": "ji:kiss\t💏"
+    },
+    {
+      "contents": "\\\\u{1F491}",
+      "trigger": "ji:couple-with-heart\t💑"
+    },
+    {
+      "contents": "\\\\u{1F46A}",
+      "trigger": "ji:family\t👪"
+    },
+    {
+      "contents": "\\\\u{1F3FB}",
+      "trigger": "ji:emoji-modifier-fitzpatrick-type-1-2\t🏻"
+    },
+    {
+      "contents": "\\\\u{1F3FC}",
+      "trigger": "ji:emoji-modifier-fitzpatrick-type-3\t🏼"
+    },
+    {
+      "contents": "\\\\u{1F3FD}",
+      "trigger": "ji:emoji-modifier-fitzpatrick-type-4\t🏽"
+    },
+    {
+      "contents": "\\\\u{1F3FE}",
+      "trigger": "ji:emoji-modifier-fitzpatrick-type-5\t🏾"
+    },
+    {
+      "contents": "\\\\u{1F3FF}",
+      "trigger": "ji:emoji-modifier-fitzpatrick-type-6\t🏿"
+    },
+    {
+      "contents": "\\\\u{1F4AA}",
+      "trigger": "ji:flexed-biceps\t💪"
+    },
+    {
+      "contents": "\\\\u{1F448}",
+      "trigger": "ji:white-left-pointing-backhand-index\t👈"
+    },
+    {
+      "contents": "\\\\u{1F449}",
+      "trigger": "ji:white-right-pointing-backhand-index\t👉"
+    },
+    {
+      "contents": "\\\\u{261D}",
+      "trigger": "ji:white-up-pointing-index\t☝"
+    },
+    {
+      "contents": "\\\\u{1F446}",
+      "trigger": "ji:white-up-pointing-backhand-index\t👆"
+    },
+    {
+      "contents": "\\\\u{1F595}",
+      "trigger": "ji:reversed-hand-with-middle-finger-extended\t🖕"
+    },
+    {
+      "contents": "\\\\u{1F447}",
+      "trigger": "ji:white-down-pointing-backhand-index\t👇"
+    },
+    {
+      "contents": "\\\\u{270C}",
+      "trigger": "ji:victory-hand\t✌"
+    },
+    {
+      "contents": "\\\\u{1F596}",
+      "trigger": "ji:raised-hand-with-part-between-middle-and-ring-fingers\t🖖"
+    },
+    {
+      "contents": "\\\\u{1F918}",
+      "trigger": "ji:sign-of-the-horns\t🤘"
+    },
+    {
+      "contents": "\\\\u{1F590}",
+      "trigger": "ji:raised-hand-with-fingers-splayed\t🖐"
+    },
+    {
+      "contents": "\\\\u{270B}",
+      "trigger": "ji:raised-hand\t✋"
+    },
+    {
+      "contents": "\\\\u{1F44C}",
+      "trigger": "ji:ok-hand-sign\t👌"
+    },
+    {
+      "contents": "\\\\u{1F44D}",
+      "trigger": "ji:thumbs-up-sign\t👍"
+    },
+    {
+      "contents": "\\\\u{1F44E}",
+      "trigger": "ji:thumbs-down-sign\t👎"
+    },
+    {
+      "contents": "\\\\u{270A}",
+      "trigger": "ji:raised-fist\t✊"
+    },
+    {
+      "contents": "\\\\u{1F44A}",
+      "trigger": "ji:fisted-hand-sign\t👊"
+    },
+    {
+      "contents": "\\\\u{1F44B}",
+      "trigger": "ji:waving-hand-sign\t👋"
+    },
+    {
+      "contents": "\\\\u{1F44F}",
+      "trigger": "ji:clapping-hands-sign\t👏"
+    },
+    {
+      "contents": "\\\\u{1F450}",
+      "trigger": "ji:open-hands-sign\t👐"
+    },
+    {
+      "contents": "\\\\u{270D}",
+      "trigger": "ji:writing-hand\t✍"
+    },
+    {
+      "contents": "\\\\u{1F485}",
+      "trigger": "ji:nail-polish\t💅"
+    },
+    {
+      "contents": "\\\\u{1F442}",
+      "trigger": "ji:ear\t👂"
+    },
+    {
+      "contents": "\\\\u{1F443}",
+      "trigger": "ji:nose\t👃"
+    },
+    {
+      "contents": "\\\\u{1F463}",
+      "trigger": "ji:footprints\t👣"
+    },
+    {
+      "contents": "\\\\u{1F440}",
+      "trigger": "ji:eyes\t👀"
+    },
+    {
+      "contents": "\\\\u{1F441}",
+      "trigger": "ji:eye\t👁"
+    },
+    {
+      "contents": "\\\\u{1F445}",
+      "trigger": "ji:tongue\t👅"
+    },
+    {
+      "contents": "\\\\u{1F444}",
+      "trigger": "ji:mouth\t👄"
+    },
+    {
+      "contents": "\\\\u{1F48B}",
+      "trigger": "ji:kiss-mark\t💋"
+    },
+    {
+      "contents": "\\\\u{1F498}",
+      "trigger": "ji:heart-with-arrow\t💘"
+    },
+    {
+      "contents": "\\\\u{2764}",
+      "trigger": "ji:heavy-black-heart\t❤"
+    },
+    {
+      "contents": "\\\\u{1F493}",
+      "trigger": "ji:beating-heart\t💓"
+    },
+    {
+      "contents": "\\\\u{1F494}",
+      "trigger": "ji:broken-heart\t💔"
+    },
+    {
+      "contents": "\\\\u{1F495}",
+      "trigger": "ji:two-hearts\t💕"
+    },
+    {
+      "contents": "\\\\u{1F496}",
+      "trigger": "ji:sparkling-heart\t💖"
+    },
+    {
+      "contents": "\\\\u{1F497}",
+      "trigger": "ji:growing-heart\t💗"
+    },
+    {
+      "contents": "\\\\u{1F499}",
+      "trigger": "ji:blue-heart\t💙"
+    },
+    {
+      "contents": "\\\\u{1F49A}",
+      "trigger": "ji:green-heart\t💚"
+    },
+    {
+      "contents": "\\\\u{1F49B}",
+      "trigger": "ji:yellow-heart\t💛"
+    },
+    {
+      "contents": "\\\\u{1F49C}",
+      "trigger": "ji:purple-heart\t💜"
+    },
+    {
+      "contents": "\\\\u{1F49D}",
+      "trigger": "ji:heart-with-ribbon\t💝"
+    },
+    {
+      "contents": "\\\\u{1F49E}",
+      "trigger": "ji:revolving-hearts\t💞"
+    },
+    {
+      "contents": "\\\\u{1F49F}",
+      "trigger": "ji:heart-decoration\t💟"
+    },
+    {
+      "contents": "\\\\u{2763}",
+      "trigger": "ji:heavy-heart-exclamation-mark-ornament\t❣"
+    },
+    {
+      "contents": "\\\\u{1F48C}",
+      "trigger": "ji:love-letter\t💌"
+    },
+    {
+      "contents": "\\\\u{1F4A4}",
+      "trigger": "ji:sleeping-symbol\t💤"
+    },
+    {
+      "contents": "\\\\u{1F4A2}",
+      "trigger": "ji:anger-symbol\t💢"
+    },
+    {
+      "contents": "\\\\u{1F4A3}",
+      "trigger": "ji:bomb\t💣"
+    },
+    {
+      "contents": "\\\\u{1F4A5}",
+      "trigger": "ji:collision-symbol\t💥"
+    },
+    {
+      "contents": "\\\\u{1F4A6}",
+      "trigger": "ji:splashing-sweat-symbol\t💦"
+    },
+    {
+      "contents": "\\\\u{1F4A8}",
+      "trigger": "ji:dash-symbol\t💨"
+    },
+    {
+      "contents": "\\\\u{1F4AB}",
+      "trigger": "ji:dizzy-symbol\t💫"
+    },
+    {
+      "contents": "\\\\u{1F4AC}",
+      "trigger": "ji:speech-balloon\t💬"
+    },
+    {
+      "contents": "\\\\u{1F5E8}",
+      "trigger": "ji:left-speech-bubble\t🗨"
+    },
+    {
+      "contents": "\\\\u{1F5EF}",
+      "trigger": "ji:right-anger-bubble\t🗯"
+    },
+    {
+      "contents": "\\\\u{1F4AD}",
+      "trigger": "ji:thought-balloon\t💭"
+    },
+    {
+      "contents": "\\\\u{1F573}",
+      "trigger": "ji:hole\t🕳"
+    },
+    {
+      "contents": "\\\\u{1F453}",
+      "trigger": "ji:eyeglasses\t👓"
+    },
+    {
+      "contents": "\\\\u{1F576}",
+      "trigger": "ji:dark-sunglasses\t🕶"
+    },
+    {
+      "contents": "\\\\u{1F454}",
+      "trigger": "ji:necktie\t👔"
+    },
+    {
+      "contents": "\\\\u{1F455}",
+      "trigger": "ji:t-shirt\t👕"
+    },
+    {
+      "contents": "\\\\u{1F456}",
+      "trigger": "ji:jeans\t👖"
+    },
+    {
+      "contents": "\\\\u{1F457}",
+      "trigger": "ji:dress\t👗"
+    },
+    {
+      "contents": "\\\\u{1F458}",
+      "trigger": "ji:kimono\t👘"
+    },
+    {
+      "contents": "\\\\u{1F459}",
+      "trigger": "ji:bikini\t👙"
+    },
+    {
+      "contents": "\\\\u{1F45A}",
+      "trigger": "ji:womans-clothes\t👚"
+    },
+    {
+      "contents": "\\\\u{1F45B}",
+      "trigger": "ji:purse\t👛"
+    },
+    {
+      "contents": "\\\\u{1F45C}",
+      "trigger": "ji:handbag\t👜"
+    },
+    {
+      "contents": "\\\\u{1F45D}",
+      "trigger": "ji:pouch\t👝"
+    },
+    {
+      "contents": "\\\\u{1F6CD}",
+      "trigger": "ji:shopping-bags\t🛍"
+    },
+    {
+      "contents": "\\\\u{1F392}",
+      "trigger": "ji:school-satchel\t🎒"
+    },
+    {
+      "contents": "\\\\u{1F45E}",
+      "trigger": "ji:mans-shoe\t👞"
+    },
+    {
+      "contents": "\\\\u{1F45F}",
+      "trigger": "ji:athletic-shoe\t👟"
+    },
+    {
+      "contents": "\\\\u{1F460}",
+      "trigger": "ji:high-heeled-shoe\t👠"
+    },
+    {
+      "contents": "\\\\u{1F461}",
+      "trigger": "ji:womans-sandal\t👡"
+    },
+    {
+      "contents": "\\\\u{1F462}",
+      "trigger": "ji:womans-boots\t👢"
+    },
+    {
+      "contents": "\\\\u{1F451}",
+      "trigger": "ji:crown\t👑"
+    },
+    {
+      "contents": "\\\\u{1F452}",
+      "trigger": "ji:womans-hat\t👒"
+    },
+    {
+      "contents": "\\\\u{1F3A9}",
+      "trigger": "ji:top-hat\t🎩"
+    },
+    {
+      "contents": "\\\\u{1F393}",
+      "trigger": "ji:graduation-cap\t🎓"
+    },
+    {
+      "contents": "\\\\u{1F4FF}",
+      "trigger": "ji:prayer-beads\t📿"
+    },
+    {
+      "contents": "\\\\u{1F484}",
+      "trigger": "ji:lipstick\t💄"
+    },
+    {
+      "contents": "\\\\u{1F48D}",
+      "trigger": "ji:ring\t💍"
+    },
+    {
+      "contents": "\\\\u{1F48E}",
+      "trigger": "ji:gem-stone\t💎"
+    },
+    {
+      "contents": "\\\\u{1F435}",
+      "trigger": "ji:monkey-face\t🐵"
+    },
+    {
+      "contents": "\\\\u{1F412}",
+      "trigger": "ji:monkey\t🐒"
+    },
+    {
+      "contents": "\\\\u{1F436}",
+      "trigger": "ji:dog-face\t🐶"
+    },
+    {
+      "contents": "\\\\u{1F415}",
+      "trigger": "ji:dog\t🐕"
+    },
+    {
+      "contents": "\\\\u{1F429}",
+      "trigger": "ji:poodle\t🐩"
+    },
+    {
+      "contents": "\\\\u{1F43A}",
+      "trigger": "ji:wolf-face\t🐺"
+    },
+    {
+      "contents": "\\\\u{1F431}",
+      "trigger": "ji:cat-face\t🐱"
+    },
+    {
+      "contents": "\\\\u{1F408}",
+      "trigger": "ji:cat\t🐈"
+    },
+    {
+      "contents": "\\\\u{1F981}",
+      "trigger": "ji:lion-face\t🦁"
+    },
+    {
+      "contents": "\\\\u{1F42F}",
+      "trigger": "ji:tiger-face\t🐯"
+    },
+    {
+      "contents": "\\\\u{1F405}",
+      "trigger": "ji:tiger\t🐅"
+    },
+    {
+      "contents": "\\\\u{1F406}",
+      "trigger": "ji:leopard\t🐆"
+    },
+    {
+      "contents": "\\\\u{1F434}",
+      "trigger": "ji:horse-face\t🐴"
+    },
+    {
+      "contents": "\\\\u{1F40E}",
+      "trigger": "ji:horse\t🐎"
+    },
+    {
+      "contents": "\\\\u{1F984}",
+      "trigger": "ji:unicorn-face\t🦄"
+    },
+    {
+      "contents": "\\\\u{1F42E}",
+      "trigger": "ji:cow-face\t🐮"
+    },
+    {
+      "contents": "\\\\u{1F402}",
+      "trigger": "ji:ox\t🐂"
+    },
+    {
+      "contents": "\\\\u{1F403}",
+      "trigger": "ji:water-buffalo\t🐃"
+    },
+    {
+      "contents": "\\\\u{1F404}",
+      "trigger": "ji:cow\t🐄"
+    },
+    {
+      "contents": "\\\\u{1F437}",
+      "trigger": "ji:pig-face\t🐷"
+    },
+    {
+      "contents": "\\\\u{1F416}",
+      "trigger": "ji:pig\t🐖"
+    },
+    {
+      "contents": "\\\\u{1F417}",
+      "trigger": "ji:boar\t🐗"
+    },
+    {
+      "contents": "\\\\u{1F43D}",
+      "trigger": "ji:pig-nose\t🐽"
+    },
+    {
+      "contents": "\\\\u{1F40F}",
+      "trigger": "ji:ram\t🐏"
+    },
+    {
+      "contents": "\\\\u{1F411}",
+      "trigger": "ji:sheep\t🐑"
+    },
+    {
+      "contents": "\\\\u{1F410}",
+      "trigger": "ji:goat\t🐐"
+    },
+    {
+      "contents": "\\\\u{1F42A}",
+      "trigger": "ji:dromedary-camel\t🐪"
+    },
+    {
+      "contents": "\\\\u{1F42B}",
+      "trigger": "ji:bactrian-camel\t🐫"
+    },
+    {
+      "contents": "\\\\u{1F418}",
+      "trigger": "ji:elephant\t🐘"
+    },
+    {
+      "contents": "\\\\u{1F42D}",
+      "trigger": "ji:mouse-face\t🐭"
+    },
+    {
+      "contents": "\\\\u{1F401}",
+      "trigger": "ji:mouse\t🐁"
+    },
+    {
+      "contents": "\\\\u{1F400}",
+      "trigger": "ji:rat\t🐀"
+    },
+    {
+      "contents": "\\\\u{1F439}",
+      "trigger": "ji:hamster-face\t🐹"
+    },
+    {
+      "contents": "\\\\u{1F430}",
+      "trigger": "ji:rabbit-face\t🐰"
+    },
+    {
+      "contents": "\\\\u{1F407}",
+      "trigger": "ji:rabbit\t🐇"
+    },
+    {
+      "contents": "\\\\u{1F43F}",
+      "trigger": "ji:chipmunk\t🐿"
+    },
+    {
+      "contents": "\\\\u{1F43B}",
+      "trigger": "ji:bear-face\t🐻"
+    },
+    {
+      "contents": "\\\\u{1F428}",
+      "trigger": "ji:koala\t🐨"
+    },
+    {
+      "contents": "\\\\u{1F43C}",
+      "trigger": "ji:panda-face\t🐼"
+    },
+    {
+      "contents": "\\\\u{1F43E}",
+      "trigger": "ji:paw-prints\t🐾"
+    },
+    {
+      "contents": "\\\\u{1F983}",
+      "trigger": "ji:turkey\t🦃"
+    },
+    {
+      "contents": "\\\\u{1F414}",
+      "trigger": "ji:chicken\t🐔"
+    },
+    {
+      "contents": "\\\\u{1F413}",
+      "trigger": "ji:rooster\t🐓"
+    },
+    {
+      "contents": "\\\\u{1F423}",
+      "trigger": "ji:hatching-chick\t🐣"
+    },
+    {
+      "contents": "\\\\u{1F424}",
+      "trigger": "ji:baby-chick\t🐤"
+    },
+    {
+      "contents": "\\\\u{1F425}",
+      "trigger": "ji:front-facing-baby-chick\t🐥"
+    },
+    {
+      "contents": "\\\\u{1F426}",
+      "trigger": "ji:bird\t🐦"
+    },
+    {
+      "contents": "\\\\u{1F427}",
+      "trigger": "ji:penguin\t🐧"
+    },
+    {
+      "contents": "\\\\u{1F54A}",
+      "trigger": "ji:dove-of-peace\t🕊"
+    },
+    {
+      "contents": "\\\\u{1F438}",
+      "trigger": "ji:frog-face\t🐸"
+    },
+    {
+      "contents": "\\\\u{1F40A}",
+      "trigger": "ji:crocodile\t🐊"
+    },
+    {
+      "contents": "\\\\u{1F422}",
+      "trigger": "ji:turtle\t🐢"
+    },
+    {
+      "contents": "\\\\u{1F40D}",
+      "trigger": "ji:snake\t🐍"
+    },
+    {
+      "contents": "\\\\u{1F432}",
+      "trigger": "ji:dragon-face\t🐲"
+    },
+    {
+      "contents": "\\\\u{1F409}",
+      "trigger": "ji:dragon\t🐉"
+    },
+    {
+      "contents": "\\\\u{1F433}",
+      "trigger": "ji:spouting-whale\t🐳"
+    },
+    {
+      "contents": "\\\\u{1F40B}",
+      "trigger": "ji:whale\t🐋"
+    },
+    {
+      "contents": "\\\\u{1F42C}",
+      "trigger": "ji:dolphin\t🐬"
+    },
+    {
+      "contents": "\\\\u{1F41F}",
+      "trigger": "ji:fish\t🐟"
+    },
+    {
+      "contents": "\\\\u{1F420}",
+      "trigger": "ji:tropical-fish\t🐠"
+    },
+    {
+      "contents": "\\\\u{1F421}",
+      "trigger": "ji:blowfish\t🐡"
+    },
+    {
+      "contents": "\\\\u{1F419}",
+      "trigger": "ji:octopus\t🐙"
+    },
+    {
+      "contents": "\\\\u{1F41A}",
+      "trigger": "ji:spiral-shell\t🐚"
+    },
+    {
+      "contents": "\\\\u{1F980}",
+      "trigger": "ji:crab\t🦀"
+    },
+    {
+      "contents": "\\\\u{1F40C}",
+      "trigger": "ji:snail\t🐌"
+    },
+    {
+      "contents": "\\\\u{1F41B}",
+      "trigger": "ji:bug\t🐛"
+    },
+    {
+      "contents": "\\\\u{1F41C}",
+      "trigger": "ji:ant\t🐜"
+    },
+    {
+      "contents": "\\\\u{1F41D}",
+      "trigger": "ji:honeybee\t🐝"
+    },
+    {
+      "contents": "\\\\u{1F41E}",
+      "trigger": "ji:lady-beetle\t🐞"
+    },
+    {
+      "contents": "\\\\u{1F577}",
+      "trigger": "ji:spider\t🕷"
+    },
+    {
+      "contents": "\\\\u{1F578}",
+      "trigger": "ji:spider-web\t🕸"
+    },
+    {
+      "contents": "\\\\u{1F982}",
+      "trigger": "ji:scorpion\t🦂"
+    },
+    {
+      "contents": "\\\\u{1F490}",
+      "trigger": "ji:bouquet\t💐"
+    },
+    {
+      "contents": "\\\\u{1F338}",
+      "trigger": "ji:cherry-blossom\t🌸"
+    },
+    {
+      "contents": "\\\\u{1F4AE}",
+      "trigger": "ji:white-flower\t💮"
+    },
+    {
+      "contents": "\\\\u{1F3F5}",
+      "trigger": "ji:rosette\t🏵"
+    },
+    {
+      "contents": "\\\\u{1F339}",
+      "trigger": "ji:rose\t🌹"
+    },
+    {
+      "contents": "\\\\u{1F33A}",
+      "trigger": "ji:hibiscus\t🌺"
+    },
+    {
+      "contents": "\\\\u{1F33B}",
+      "trigger": "ji:sunflower\t🌻"
+    },
+    {
+      "contents": "\\\\u{1F33C}",
+      "trigger": "ji:blossom\t🌼"
+    },
+    {
+      "contents": "\\\\u{1F337}",
+      "trigger": "ji:tulip\t🌷"
+    },
+    {
+      "contents": "\\\\u{1F331}",
+      "trigger": "ji:seedling\t🌱"
+    },
+    {
+      "contents": "\\\\u{1F332}",
+      "trigger": "ji:evergreen-tree\t🌲"
+    },
+    {
+      "contents": "\\\\u{1F333}",
+      "trigger": "ji:deciduous-tree\t🌳"
+    },
+    {
+      "contents": "\\\\u{1F334}",
+      "trigger": "ji:palm-tree\t🌴"
+    },
+    {
+      "contents": "\\\\u{1F335}",
+      "trigger": "ji:cactus\t🌵"
+    },
+    {
+      "contents": "\\\\u{1F33E}",
+      "trigger": "ji:ear-of-rice\t🌾"
+    },
+    {
+      "contents": "\\\\u{1F33F}",
+      "trigger": "ji:herb\t🌿"
+    },
+    {
+      "contents": "\\\\u{2618}",
+      "trigger": "ji:shamrock\t☘"
+    },
+    {
+      "contents": "\\\\u{1F340}",
+      "trigger": "ji:four-leaf-clover\t🍀"
+    },
+    {
+      "contents": "\\\\u{1F341}",
+      "trigger": "ji:maple-leaf\t🍁"
+    },
+    {
+      "contents": "\\\\u{1F342}",
+      "trigger": "ji:fallen-leaf\t🍂"
+    },
+    {
+      "contents": "\\\\u{1F343}",
+      "trigger": "ji:leaf-fluttering-in-wind\t🍃"
+    },
+    {
+      "contents": "\\\\u{1F347}",
+      "trigger": "ji:grapes\t🍇"
+    },
+    {
+      "contents": "\\\\u{1F348}",
+      "trigger": "ji:melon\t🍈"
+    },
+    {
+      "contents": "\\\\u{1F349}",
+      "trigger": "ji:watermelon\t🍉"
+    },
+    {
+      "contents": "\\\\u{1F34A}",
+      "trigger": "ji:tangerine\t🍊"
+    },
+    {
+      "contents": "\\\\u{1F34B}",
+      "trigger": "ji:lemon\t🍋"
+    },
+    {
+      "contents": "\\\\u{1F34C}",
+      "trigger": "ji:banana\t🍌"
+    },
+    {
+      "contents": "\\\\u{1F34D}",
+      "trigger": "ji:pineapple\t🍍"
+    },
+    {
+      "contents": "\\\\u{1F34E}",
+      "trigger": "ji:red-apple\t🍎"
+    },
+    {
+      "contents": "\\\\u{1F34F}",
+      "trigger": "ji:green-apple\t🍏"
+    },
+    {
+      "contents": "\\\\u{1F350}",
+      "trigger": "ji:pear\t🍐"
+    },
+    {
+      "contents": "\\\\u{1F351}",
+      "trigger": "ji:peach\t🍑"
+    },
+    {
+      "contents": "\\\\u{1F352}",
+      "trigger": "ji:cherries\t🍒"
+    },
+    {
+      "contents": "\\\\u{1F353}",
+      "trigger": "ji:strawberry\t🍓"
+    },
+    {
+      "contents": "\\\\u{1F345}",
+      "trigger": "ji:tomato\t🍅"
+    },
+    {
+      "contents": "\\\\u{1F346}",
+      "trigger": "ji:aubergine\t🍆"
+    },
+    {
+      "contents": "\\\\u{1F33D}",
+      "trigger": "ji:ear-of-maize\t🌽"
+    },
+    {
+      "contents": "\\\\u{1F336}",
+      "trigger": "ji:hot-pepper\t🌶"
+    },
+    {
+      "contents": "\\\\u{1F344}",
+      "trigger": "ji:mushroom\t🍄"
+    },
+    {
+      "contents": "\\\\u{1F330}",
+      "trigger": "ji:chestnut\t🌰"
+    },
+    {
+      "contents": "\\\\u{1F35E}",
+      "trigger": "ji:bread\t🍞"
+    },
+    {
+      "contents": "\\\\u{1F9C0}",
+      "trigger": "ji:cheese-wedge\t🧀"
+    },
+    {
+      "contents": "\\\\u{1F356}",
+      "trigger": "ji:meat-on-bone\t🍖"
+    },
+    {
+      "contents": "\\\\u{1F357}",
+      "trigger": "ji:poultry-leg\t🍗"
+    },
+    {
+      "contents": "\\\\u{1F354}",
+      "trigger": "ji:hamburger\t🍔"
+    },
+    {
+      "contents": "\\\\u{1F35F}",
+      "trigger": "ji:french-fries\t🍟"
+    },
+    {
+      "contents": "\\\\u{1F355}",
+      "trigger": "ji:slice-of-pizza\t🍕"
+    },
+    {
+      "contents": "\\\\u{1F32D}",
+      "trigger": "ji:hot-dog\t🌭"
+    },
+    {
+      "contents": "\\\\u{1F32E}",
+      "trigger": "ji:taco\t🌮"
+    },
+    {
+      "contents": "\\\\u{1F32F}",
+      "trigger": "ji:burrito\t🌯"
+    },
+    {
+      "contents": "\\\\u{1F373}",
+      "trigger": "ji:cooking\t🍳"
+    },
+    {
+      "contents": "\\\\u{1F372}",
+      "trigger": "ji:pot-of-food\t🍲"
+    },
+    {
+      "contents": "\\\\u{1F37F}",
+      "trigger": "ji:popcorn\t🍿"
+    },
+    {
+      "contents": "\\\\u{1F371}",
+      "trigger": "ji:bento-box\t🍱"
+    },
+    {
+      "contents": "\\\\u{1F358}",
+      "trigger": "ji:rice-cracker\t🍘"
+    },
+    {
+      "contents": "\\\\u{1F359}",
+      "trigger": "ji:rice-ball\t🍙"
+    },
+    {
+      "contents": "\\\\u{1F35A}",
+      "trigger": "ji:cooked-rice\t🍚"
+    },
+    {
+      "contents": "\\\\u{1F35B}",
+      "trigger": "ji:curry-and-rice\t🍛"
+    },
+    {
+      "contents": "\\\\u{1F35C}",
+      "trigger": "ji:steaming-bowl\t🍜"
+    },
+    {
+      "contents": "\\\\u{1F35D}",
+      "trigger": "ji:spaghetti\t🍝"
+    },
+    {
+      "contents": "\\\\u{1F360}",
+      "trigger": "ji:roasted-sweet-potato\t🍠"
+    },
+    {
+      "contents": "\\\\u{1F362}",
+      "trigger": "ji:oden\t🍢"
+    },
+    {
+      "contents": "\\\\u{1F363}",
+      "trigger": "ji:sushi\t🍣"
+    },
+    {
+      "contents": "\\\\u{1F364}",
+      "trigger": "ji:fried-shrimp\t🍤"
+    },
+    {
+      "contents": "\\\\u{1F365}",
+      "trigger": "ji:fish-cake-with-swirl-design\t🍥"
+    },
+    {
+      "contents": "\\\\u{1F361}",
+      "trigger": "ji:dango\t🍡"
+    },
+    {
+      "contents": "\\\\u{1F366}",
+      "trigger": "ji:soft-ice-cream\t🍦"
+    },
+    {
+      "contents": "\\\\u{1F367}",
+      "trigger": "ji:shaved-ice\t🍧"
+    },
+    {
+      "contents": "\\\\u{1F368}",
+      "trigger": "ji:ice-cream\t🍨"
+    },
+    {
+      "contents": "\\\\u{1F369}",
+      "trigger": "ji:doughnut\t🍩"
+    },
+    {
+      "contents": "\\\\u{1F36A}",
+      "trigger": "ji:cookie\t🍪"
+    },
+    {
+      "contents": "\\\\u{1F382}",
+      "trigger": "ji:birthday-cake\t🎂"
+    },
+    {
+      "contents": "\\\\u{1F370}",
+      "trigger": "ji:shortcake\t🍰"
+    },
+    {
+      "contents": "\\\\u{1F36B}",
+      "trigger": "ji:chocolate-bar\t🍫"
+    },
+    {
+      "contents": "\\\\u{1F36C}",
+      "trigger": "ji:candy\t🍬"
+    },
+    {
+      "contents": "\\\\u{1F36D}",
+      "trigger": "ji:lollipop\t🍭"
+    },
+    {
+      "contents": "\\\\u{1F36E}",
+      "trigger": "ji:custard\t🍮"
+    },
+    {
+      "contents": "\\\\u{1F36F}",
+      "trigger": "ji:honey-pot\t🍯"
+    },
+    {
+      "contents": "\\\\u{1F37C}",
+      "trigger": "ji:baby-bottle\t🍼"
+    },
+    {
+      "contents": "\\\\u{2615}",
+      "trigger": "ji:hot-beverage\t☕"
+    },
+    {
+      "contents": "\\\\u{1F375}",
+      "trigger": "ji:teacup-without-handle\t🍵"
+    },
+    {
+      "contents": "\\\\u{1F376}",
+      "trigger": "ji:sake-bottle-and-cup\t🍶"
+    },
+    {
+      "contents": "\\\\u{1F37E}",
+      "trigger": "ji:bottle-with-popping-cork\t🍾"
+    },
+    {
+      "contents": "\\\\u{1F377}",
+      "trigger": "ji:wine-glass\t🍷"
+    },
+    {
+      "contents": "\\\\u{1F378}",
+      "trigger": "ji:cocktail-glass\t🍸"
+    },
+    {
+      "contents": "\\\\u{1F379}",
+      "trigger": "ji:tropical-drink\t🍹"
+    },
+    {
+      "contents": "\\\\u{1F37A}",
+      "trigger": "ji:beer-mug\t🍺"
+    },
+    {
+      "contents": "\\\\u{1F37B}",
+      "trigger": "ji:clinking-beer-mugs\t🍻"
+    },
+    {
+      "contents": "\\\\u{1F37D}",
+      "trigger": "ji:fork-and-knife-with-plate\t🍽"
+    },
+    {
+      "contents": "\\\\u{1F374}",
+      "trigger": "ji:fork-and-knife\t🍴"
+    },
+    {
+      "contents": "\\\\u{1F52A}",
+      "trigger": "ji:hocho\t🔪"
+    },
+    {
+      "contents": "\\\\u{1F3FA}",
+      "trigger": "ji:amphora\t🏺"
+    },
+    {
+      "contents": "\\\\u{1F30D}",
+      "trigger": "ji:earth-globe-europe-africa\t🌍"
+    },
+    {
+      "contents": "\\\\u{1F30E}",
+      "trigger": "ji:earth-globe-americas\t🌎"
+    },
+    {
+      "contents": "\\\\u{1F30F}",
+      "trigger": "ji:earth-globe-asia-australia\t🌏"
+    },
+    {
+      "contents": "\\\\u{1F310}",
+      "trigger": "ji:globe-with-meridians\t🌐"
+    },
+    {
+      "contents": "\\\\u{1F5FA}",
+      "trigger": "ji:world-map\t🗺"
+    },
+    {
+      "contents": "\\\\u{1F5FE}",
+      "trigger": "ji:silhouette-of-japan\t🗾"
+    },
+    {
+      "contents": "\\\\u{1F3D4}",
+      "trigger": "ji:snow-capped-mountain\t🏔"
+    },
+    {
+      "contents": "\\\\u{26F0}",
+      "trigger": "ji:mountain\t⛰"
+    },
+    {
+      "contents": "\\\\u{1F30B}",
+      "trigger": "ji:volcano\t🌋"
+    },
+    {
+      "contents": "\\\\u{1F5FB}",
+      "trigger": "ji:mount-fuji\t🗻"
+    },
+    {
+      "contents": "\\\\u{1F3D5}",
+      "trigger": "ji:camping\t🏕"
+    },
+    {
+      "contents": "\\\\u{1F3D6}",
+      "trigger": "ji:beach-with-umbrella\t🏖"
+    },
+    {
+      "contents": "\\\\u{1F3DC}",
+      "trigger": "ji:desert\t🏜"
+    },
+    {
+      "contents": "\\\\u{1F3DD}",
+      "trigger": "ji:desert-island\t🏝"
+    },
+    {
+      "contents": "\\\\u{1F3DE}",
+      "trigger": "ji:national-park\t🏞"
+    },
+    {
+      "contents": "\\\\u{1F3DF}",
+      "trigger": "ji:stadium\t🏟"
+    },
+    {
+      "contents": "\\\\u{1F3DB}",
+      "trigger": "ji:classical-building\t🏛"
+    },
+    {
+      "contents": "\\\\u{1F3D7}",
+      "trigger": "ji:building-construction\t🏗"
+    },
+    {
+      "contents": "\\\\u{1F3D8}",
+      "trigger": "ji:house-buildings\t🏘"
+    },
+    {
+      "contents": "\\\\u{1F3D9}",
+      "trigger": "ji:cityscape\t🏙"
+    },
+    {
+      "contents": "\\\\u{1F3DA}",
+      "trigger": "ji:derelict-house-building\t🏚"
+    },
+    {
+      "contents": "\\\\u{1F3E0}",
+      "trigger": "ji:house-building\t🏠"
+    },
+    {
+      "contents": "\\\\u{1F3E1}",
+      "trigger": "ji:house-with-garden\t🏡"
+    },
+    {
+      "contents": "\\\\u{1F3E2}",
+      "trigger": "ji:office-building\t🏢"
+    },
+    {
+      "contents": "\\\\u{1F3E3}",
+      "trigger": "ji:japanese-post-office\t🏣"
+    },
+    {
+      "contents": "\\\\u{1F3E4}",
+      "trigger": "ji:european-post-office\t🏤"
+    },
+    {
+      "contents": "\\\\u{1F3E5}",
+      "trigger": "ji:hospital\t🏥"
+    },
+    {
+      "contents": "\\\\u{1F3E6}",
+      "trigger": "ji:bank\t🏦"
+    },
+    {
+      "contents": "\\\\u{1F3E8}",
+      "trigger": "ji:hotel\t🏨"
+    },
+    {
+      "contents": "\\\\u{1F3E9}",
+      "trigger": "ji:love-hotel\t🏩"
+    },
+    {
+      "contents": "\\\\u{1F3EA}",
+      "trigger": "ji:convenience-store\t🏪"
+    },
+    {
+      "contents": "\\\\u{1F3EB}",
+      "trigger": "ji:school\t🏫"
+    },
+    {
+      "contents": "\\\\u{1F3EC}",
+      "trigger": "ji:department-store\t🏬"
+    },
+    {
+      "contents": "\\\\u{1F3ED}",
+      "trigger": "ji:factory\t🏭"
+    },
+    {
+      "contents": "\\\\u{1F3EF}",
+      "trigger": "ji:japanese-castle\t🏯"
+    },
+    {
+      "contents": "\\\\u{1F3F0}",
+      "trigger": "ji:european-castle\t🏰"
+    },
+    {
+      "contents": "\\\\u{1F492}",
+      "trigger": "ji:wedding\t💒"
+    },
+    {
+      "contents": "\\\\u{1F5FC}",
+      "trigger": "ji:tokyo-tower\t🗼"
+    },
+    {
+      "contents": "\\\\u{1F5FD}",
+      "trigger": "ji:statue-of-liberty\t🗽"
+    },
+    {
+      "contents": "\\\\u{26EA}",
+      "trigger": "ji:church\t⛪"
+    },
+    {
+      "contents": "\\\\u{1F54C}",
+      "trigger": "ji:mosque\t🕌"
+    },
+    {
+      "contents": "\\\\u{1F54D}",
+      "trigger": "ji:synagogue\t🕍"
+    },
+    {
+      "contents": "\\\\u{26E9}",
+      "trigger": "ji:shinto-shrine\t⛩"
+    },
+    {
+      "contents": "\\\\u{1F54B}",
+      "trigger": "ji:kaaba\t🕋"
+    },
+    {
+      "contents": "\\\\u{26F2}",
+      "trigger": "ji:fountain\t⛲"
+    },
+    {
+      "contents": "\\\\u{26FA}",
+      "trigger": "ji:tent\t⛺"
+    },
+    {
+      "contents": "\\\\u{1F301}",
+      "trigger": "ji:foggy\t🌁"
+    },
+    {
+      "contents": "\\\\u{1F303}",
+      "trigger": "ji:night-with-stars\t🌃"
+    },
+    {
+      "contents": "\\\\u{1F304}",
+      "trigger": "ji:sunrise-over-mountains\t🌄"
+    },
+    {
+      "contents": "\\\\u{1F305}",
+      "trigger": "ji:sunrise\t🌅"
+    },
+    {
+      "contents": "\\\\u{1F306}",
+      "trigger": "ji:cityscape-at-dusk\t🌆"
+    },
+    {
+      "contents": "\\\\u{1F307}",
+      "trigger": "ji:sunset-over-buildings\t🌇"
+    },
+    {
+      "contents": "\\\\u{1F309}",
+      "trigger": "ji:bridge-at-night\t🌉"
+    },
+    {
+      "contents": "\\\\u{2668}",
+      "trigger": "ji:hot-springs\t♨"
+    },
+    {
+      "contents": "\\\\u{1F30C}",
+      "trigger": "ji:milky-way\t🌌"
+    },
+    {
+      "contents": "\\\\u{1F3A0}",
+      "trigger": "ji:carousel-horse\t🎠"
+    },
+    {
+      "contents": "\\\\u{1F3A1}",
+      "trigger": "ji:ferris-wheel\t🎡"
+    },
+    {
+      "contents": "\\\\u{1F3A2}",
+      "trigger": "ji:roller-coaster\t🎢"
+    },
+    {
+      "contents": "\\\\u{1F488}",
+      "trigger": "ji:barber-pole\t💈"
+    },
+    {
+      "contents": "\\\\u{1F3AA}",
+      "trigger": "ji:circus-tent\t🎪"
+    },
+    {
+      "contents": "\\\\u{1F3AD}",
+      "trigger": "ji:performing-arts\t🎭"
+    },
+    {
+      "contents": "\\\\u{1F5BC}",
+      "trigger": "ji:frame-with-picture\t🖼"
+    },
+    {
+      "contents": "\\\\u{1F3A8}",
+      "trigger": "ji:artist-palette\t🎨"
+    },
+    {
+      "contents": "\\\\u{1F3B0}",
+      "trigger": "ji:slot-machine\t🎰"
+    },
+    {
+      "contents": "\\\\u{1F682}",
+      "trigger": "ji:steam-locomotive\t🚂"
+    },
+    {
+      "contents": "\\\\u{1F683}",
+      "trigger": "ji:railway-car\t🚃"
+    },
+    {
+      "contents": "\\\\u{1F684}",
+      "trigger": "ji:high-speed-train\t🚄"
+    },
+    {
+      "contents": "\\\\u{1F685}",
+      "trigger": "ji:high-speed-train-with-bullet-nose\t🚅"
+    },
+    {
+      "contents": "\\\\u{1F686}",
+      "trigger": "ji:train\t🚆"
+    },
+    {
+      "contents": "\\\\u{1F687}",
+      "trigger": "ji:metro\t🚇"
+    },
+    {
+      "contents": "\\\\u{1F688}",
+      "trigger": "ji:light-rail\t🚈"
+    },
+    {
+      "contents": "\\\\u{1F689}",
+      "trigger": "ji:station\t🚉"
+    },
+    {
+      "contents": "\\\\u{1F68A}",
+      "trigger": "ji:tram\t🚊"
+    },
+    {
+      "contents": "\\\\u{1F69D}",
+      "trigger": "ji:monorail\t🚝"
+    },
+    {
+      "contents": "\\\\u{1F69E}",
+      "trigger": "ji:mountain-railway\t🚞"
+    },
+    {
+      "contents": "\\\\u{1F68B}",
+      "trigger": "ji:tram-car\t🚋"
+    },
+    {
+      "contents": "\\\\u{1F68C}",
+      "trigger": "ji:bus\t🚌"
+    },
+    {
+      "contents": "\\\\u{1F68D}",
+      "trigger": "ji:oncoming-bus\t🚍"
+    },
+    {
+      "contents": "\\\\u{1F68E}",
+      "trigger": "ji:trolleybus\t🚎"
+    },
+    {
+      "contents": "\\\\u{1F68F}",
+      "trigger": "ji:bus-stop\t🚏"
+    },
+    {
+      "contents": "\\\\u{1F690}",
+      "trigger": "ji:minibus\t🚐"
+    },
+    {
+      "contents": "\\\\u{1F691}",
+      "trigger": "ji:ambulance\t🚑"
+    },
+    {
+      "contents": "\\\\u{1F692}",
+      "trigger": "ji:fire-engine\t🚒"
+    },
+    {
+      "contents": "\\\\u{1F693}",
+      "trigger": "ji:police-car\t🚓"
+    },
+    {
+      "contents": "\\\\u{1F694}",
+      "trigger": "ji:oncoming-police-car\t🚔"
+    },
+    {
+      "contents": "\\\\u{1F695}",
+      "trigger": "ji:taxi\t🚕"
+    },
+    {
+      "contents": "\\\\u{1F696}",
+      "trigger": "ji:oncoming-taxi\t🚖"
+    },
+    {
+      "contents": "\\\\u{1F697}",
+      "trigger": "ji:automobile\t🚗"
+    },
+    {
+      "contents": "\\\\u{1F698}",
+      "trigger": "ji:oncoming-automobile\t🚘"
+    },
+    {
+      "contents": "\\\\u{1F699}",
+      "trigger": "ji:recreational-vehicle\t🚙"
+    },
+    {
+      "contents": "\\\\u{1F69A}",
+      "trigger": "ji:delivery-truck\t🚚"
+    },
+    {
+      "contents": "\\\\u{1F69B}",
+      "trigger": "ji:articulated-lorry\t🚛"
+    },
+    {
+      "contents": "\\\\u{1F69C}",
+      "trigger": "ji:tractor\t🚜"
+    },
+    {
+      "contents": "\\\\u{1F6B2}",
+      "trigger": "ji:bicycle\t🚲"
+    },
+    {
+      "contents": "\\\\u{26FD}",
+      "trigger": "ji:fuel-pump\t⛽"
+    },
+    {
+      "contents": "\\\\u{1F6E3}",
+      "trigger": "ji:motorway\t🛣"
+    },
+    {
+      "contents": "\\\\u{1F6E4}",
+      "trigger": "ji:railway-track\t🛤"
+    },
+    {
+      "contents": "\\\\u{1F6A8}",
+      "trigger": "ji:police-cars-revolving-light\t🚨"
+    },
+    {
+      "contents": "\\\\u{1F6A5}",
+      "trigger": "ji:horizontal-traffic-light\t🚥"
+    },
+    {
+      "contents": "\\\\u{1F6A6}",
+      "trigger": "ji:vertical-traffic-light\t🚦"
+    },
+    {
+      "contents": "\\\\u{1F6A7}",
+      "trigger": "ji:construction-sign\t🚧"
+    },
+    {
+      "contents": "\\\\u{2693}",
+      "trigger": "ji:anchor\t⚓"
+    },
+    {
+      "contents": "\\\\u{26F5}",
+      "trigger": "ji:sailboat\t⛵"
+    },
+    {
+      "contents": "\\\\u{1F6A3}",
+      "trigger": "ji:rowboat\t🚣"
+    },
+    {
+      "contents": "\\\\u{1F6A4}",
+      "trigger": "ji:speedboat\t🚤"
+    },
+    {
+      "contents": "\\\\u{1F6F3}",
+      "trigger": "ji:passenger-ship\t🛳"
+    },
+    {
+      "contents": "\\\\u{26F4}",
+      "trigger": "ji:ferry\t⛴"
+    },
+    {
+      "contents": "\\\\u{1F6E5}",
+      "trigger": "ji:motor-boat\t🛥"
+    },
+    {
+      "contents": "\\\\u{1F6A2}",
+      "trigger": "ji:ship\t🚢"
+    },
+    {
+      "contents": "\\\\u{2708}",
+      "trigger": "ji:airplane\t✈"
+    },
+    {
+      "contents": "\\\\u{1F6E9}",
+      "trigger": "ji:small-airplane\t🛩"
+    },
+    {
+      "contents": "\\\\u{1F6EB}",
+      "trigger": "ji:airplane-departure\t🛫"
+    },
+    {
+      "contents": "\\\\u{1F6EC}",
+      "trigger": "ji:airplane-arriving\t🛬"
+    },
+    {
+      "contents": "\\\\u{1F4BA}",
+      "trigger": "ji:seat\t💺"
+    },
+    {
+      "contents": "\\\\u{1F681}",
+      "trigger": "ji:helicopter\t🚁"
+    },
+    {
+      "contents": "\\\\u{1F69F}",
+      "trigger": "ji:suspension-railway\t🚟"
+    },
+    {
+      "contents": "\\\\u{1F6A0}",
+      "trigger": "ji:mountain-cableway\t🚠"
+    },
+    {
+      "contents": "\\\\u{1F6A1}",
+      "trigger": "ji:aerial-tramway\t🚡"
+    },
+    {
+      "contents": "\\\\u{1F680}",
+      "trigger": "ji:rocket\t🚀"
+    },
+    {
+      "contents": "\\\\u{1F6F0}",
+      "trigger": "ji:satellite\t🛰"
+    },
+    {
+      "contents": "\\\\u{1F6CE}",
+      "trigger": "ji:bellhop-bell\t🛎"
+    },
+    {
+      "contents": "\\\\u{1F6AA}",
+      "trigger": "ji:door\t🚪"
+    },
+    {
+      "contents": "\\\\u{1F6CC}",
+      "trigger": "ji:sleeping-accommodation\t🛌"
+    },
+    {
+      "contents": "\\\\u{1F6CF}",
+      "trigger": "ji:bed\t🛏"
+    },
+    {
+      "contents": "\\\\u{1F6CB}",
+      "trigger": "ji:couch-and-lamp\t🛋"
+    },
+    {
+      "contents": "\\\\u{1F6BD}",
+      "trigger": "ji:toilet\t🚽"
+    },
+    {
+      "contents": "\\\\u{1F6BF}",
+      "trigger": "ji:shower\t🚿"
+    },
+    {
+      "contents": "\\\\u{1F6C0}",
+      "trigger": "ji:bath\t🛀"
+    },
+    {
+      "contents": "\\\\u{1F6C1}",
+      "trigger": "ji:bathtub\t🛁"
+    },
+    {
+      "contents": "\\\\u{231B}",
+      "trigger": "ji:hourglass\t⌛"
+    },
+    {
+      "contents": "\\\\u{23F3}",
+      "trigger": "ji:hourglass-with-flowing-sand\t⏳"
+    },
+    {
+      "contents": "\\\\u{231A}",
+      "trigger": "ji:watch\t⌚"
+    },
+    {
+      "contents": "\\\\u{23F0}",
+      "trigger": "ji:alarm-clock\t⏰"
+    },
+    {
+      "contents": "\\\\u{23F1}",
+      "trigger": "ji:stopwatch\t⏱"
+    },
+    {
+      "contents": "\\\\u{23F2}",
+      "trigger": "ji:timer-clock\t⏲"
+    },
+    {
+      "contents": "\\\\u{1F570}",
+      "trigger": "ji:mantelpiece-clock\t🕰"
+    },
+    {
+      "contents": "\\\\u{1F55B}",
+      "trigger": "ji:clock-face-twelve-oclock\t🕛"
+    },
+    {
+      "contents": "\\\\u{1F567}",
+      "trigger": "ji:clock-face-twelve-thirty\t🕧"
+    },
+    {
+      "contents": "\\\\u{1F550}",
+      "trigger": "ji:clock-face-one-oclock\t🕐"
+    },
+    {
+      "contents": "\\\\u{1F55C}",
+      "trigger": "ji:clock-face-one-thirty\t🕜"
+    },
+    {
+      "contents": "\\\\u{1F551}",
+      "trigger": "ji:clock-face-two-oclock\t🕑"
+    },
+    {
+      "contents": "\\\\u{1F55D}",
+      "trigger": "ji:clock-face-two-thirty\t🕝"
+    },
+    {
+      "contents": "\\\\u{1F552}",
+      "trigger": "ji:clock-face-three-oclock\t🕒"
+    },
+    {
+      "contents": "\\\\u{1F55E}",
+      "trigger": "ji:clock-face-three-thirty\t🕞"
+    },
+    {
+      "contents": "\\\\u{1F553}",
+      "trigger": "ji:clock-face-four-oclock\t🕓"
+    },
+    {
+      "contents": "\\\\u{1F55F}",
+      "trigger": "ji:clock-face-four-thirty\t🕟"
+    },
+    {
+      "contents": "\\\\u{1F554}",
+      "trigger": "ji:clock-face-five-oclock\t🕔"
+    },
+    {
+      "contents": "\\\\u{1F560}",
+      "trigger": "ji:clock-face-five-thirty\t🕠"
+    },
+    {
+      "contents": "\\\\u{1F555}",
+      "trigger": "ji:clock-face-six-oclock\t🕕"
+    },
+    {
+      "contents": "\\\\u{1F561}",
+      "trigger": "ji:clock-face-six-thirty\t🕡"
+    },
+    {
+      "contents": "\\\\u{1F556}",
+      "trigger": "ji:clock-face-seven-oclock\t🕖"
+    },
+    {
+      "contents": "\\\\u{1F562}",
+      "trigger": "ji:clock-face-seven-thirty\t🕢"
+    },
+    {
+      "contents": "\\\\u{1F557}",
+      "trigger": "ji:clock-face-eight-oclock\t🕗"
+    },
+    {
+      "contents": "\\\\u{1F563}",
+      "trigger": "ji:clock-face-eight-thirty\t🕣"
+    },
+    {
+      "contents": "\\\\u{1F558}",
+      "trigger": "ji:clock-face-nine-oclock\t🕘"
+    },
+    {
+      "contents": "\\\\u{1F564}",
+      "trigger": "ji:clock-face-nine-thirty\t🕤"
+    },
+    {
+      "contents": "\\\\u{1F559}",
+      "trigger": "ji:clock-face-ten-oclock\t🕙"
+    },
+    {
+      "contents": "\\\\u{1F565}",
+      "trigger": "ji:clock-face-ten-thirty\t🕥"
+    },
+    {
+      "contents": "\\\\u{1F55A}",
+      "trigger": "ji:clock-face-eleven-oclock\t🕚"
+    },
+    {
+      "contents": "\\\\u{1F566}",
+      "trigger": "ji:clock-face-eleven-thirty\t🕦"
+    },
+    {
+      "contents": "\\\\u{1F311}",
+      "trigger": "ji:new-moon-symbol\t🌑"
+    },
+    {
+      "contents": "\\\\u{1F312}",
+      "trigger": "ji:waxing-crescent-moon-symbol\t🌒"
+    },
+    {
+      "contents": "\\\\u{1F313}",
+      "trigger": "ji:first-quarter-moon-symbol\t🌓"
+    },
+    {
+      "contents": "\\\\u{1F314}",
+      "trigger": "ji:waxing-gibbous-moon-symbol\t🌔"
+    },
+    {
+      "contents": "\\\\u{1F315}",
+      "trigger": "ji:full-moon-symbol\t🌕"
+    },
+    {
+      "contents": "\\\\u{1F316}",
+      "trigger": "ji:waning-gibbous-moon-symbol\t🌖"
+    },
+    {
+      "contents": "\\\\u{1F317}",
+      "trigger": "ji:last-quarter-moon-symbol\t🌗"
+    },
+    {
+      "contents": "\\\\u{1F318}",
+      "trigger": "ji:waning-crescent-moon-symbol\t🌘"
+    },
+    {
+      "contents": "\\\\u{1F319}",
+      "trigger": "ji:crescent-moon\t🌙"
+    },
+    {
+      "contents": "\\\\u{1F31A}",
+      "trigger": "ji:new-moon-with-face\t🌚"
+    },
+    {
+      "contents": "\\\\u{1F31B}",
+      "trigger": "ji:first-quarter-moon-with-face\t🌛"
+    },
+    {
+      "contents": "\\\\u{1F31C}",
+      "trigger": "ji:last-quarter-moon-with-face\t🌜"
+    },
+    {
+      "contents": "\\\\u{1F321}",
+      "trigger": "ji:thermometer\t🌡"
+    },
+    {
+      "contents": "\\\\u{2600}",
+      "trigger": "ji:black-sun-with-rays\t☀"
+    },
+    {
+      "contents": "\\\\u{1F31D}",
+      "trigger": "ji:full-moon-with-face\t🌝"
+    },
+    {
+      "contents": "\\\\u{1F31E}",
+      "trigger": "ji:sun-with-face\t🌞"
+    },
+    {
+      "contents": "\\\\u{2B50}",
+      "trigger": "ji:white-medium-star\t⭐"
+    },
+    {
+      "contents": "\\\\u{1F31F}",
+      "trigger": "ji:glowing-star\t🌟"
+    },
+    {
+      "contents": "\\\\u{1F320}",
+      "trigger": "ji:shooting-star\t🌠"
+    },
+    {
+      "contents": "\\\\u{2601}",
+      "trigger": "ji:cloud\t☁"
+    },
+    {
+      "contents": "\\\\u{26C5}",
+      "trigger": "ji:sun-behind-cloud\t⛅"
+    },
+    {
+      "contents": "\\\\u{26C8}",
+      "trigger": "ji:thunder-cloud-and-rain\t⛈"
+    },
+    {
+      "contents": "\\\\u{1F324}",
+      "trigger": "ji:white-sun-with-small-cloud\t🌤"
+    },
+    {
+      "contents": "\\\\u{1F325}",
+      "trigger": "ji:white-sun-behind-cloud\t🌥"
+    },
+    {
+      "contents": "\\\\u{1F326}",
+      "trigger": "ji:white-sun-behind-cloud-with-rain\t🌦"
+    },
+    {
+      "contents": "\\\\u{1F327}",
+      "trigger": "ji:cloud-with-rain\t🌧"
+    },
+    {
+      "contents": "\\\\u{1F328}",
+      "trigger": "ji:cloud-with-snow\t🌨"
+    },
+    {
+      "contents": "\\\\u{1F329}",
+      "trigger": "ji:cloud-with-lightning\t🌩"
+    },
+    {
+      "contents": "\\\\u{1F32A}",
+      "trigger": "ji:cloud-with-tornado\t🌪"
+    },
+    {
+      "contents": "\\\\u{1F32B}",
+      "trigger": "ji:fog\t🌫"
+    },
+    {
+      "contents": "\\\\u{1F32C}",
+      "trigger": "ji:wind-blowing-face\t🌬"
+    },
+    {
+      "contents": "\\\\u{1F300}",
+      "trigger": "ji:cyclone\t🌀"
+    },
+    {
+      "contents": "\\\\u{1F308}",
+      "trigger": "ji:rainbow\t🌈"
+    },
+    {
+      "contents": "\\\\u{1F302}",
+      "trigger": "ji:closed-umbrella\t🌂"
+    },
+    {
+      "contents": "\\\\u{2602}",
+      "trigger": "ji:umbrella\t☂"
+    },
+    {
+      "contents": "\\\\u{2614}",
+      "trigger": "ji:umbrella-with-rain-drops\t☔"
+    },
+    {
+      "contents": "\\\\u{26F1}",
+      "trigger": "ji:umbrella-on-ground\t⛱"
+    },
+    {
+      "contents": "\\\\u{26A1}",
+      "trigger": "ji:high-voltage-sign\t⚡"
+    },
+    {
+      "contents": "\\\\u{2744}",
+      "trigger": "ji:snowflake\t❄"
+    },
+    {
+      "contents": "\\\\u{2603}",
+      "trigger": "ji:snowman\t☃"
+    },
+    {
+      "contents": "\\\\u{26C4}",
+      "trigger": "ji:snowman-without-snow\t⛄"
+    },
+    {
+      "contents": "\\\\u{2604}",
+      "trigger": "ji:comet\t☄"
+    },
+    {
+      "contents": "\\\\u{1F525}",
+      "trigger": "ji:fire\t🔥"
+    },
+    {
+      "contents": "\\\\u{1F4A7}",
+      "trigger": "ji:droplet\t💧"
+    },
+    {
+      "contents": "\\\\u{1F30A}",
+      "trigger": "ji:water-wave\t🌊"
+    },
+    {
+      "contents": "\\\\u{1F383}",
+      "trigger": "ji:jack-o-lantern\t🎃"
+    },
+    {
+      "contents": "\\\\u{1F384}",
+      "trigger": "ji:christmas-tree\t🎄"
+    },
+    {
+      "contents": "\\\\u{1F386}",
+      "trigger": "ji:fireworks\t🎆"
+    },
+    {
+      "contents": "\\\\u{1F387}",
+      "trigger": "ji:firework-sparkler\t🎇"
+    },
+    {
+      "contents": "\\\\u{2728}",
+      "trigger": "ji:sparkles\t✨"
+    },
+    {
+      "contents": "\\\\u{1F388}",
+      "trigger": "ji:balloon\t🎈"
+    },
+    {
+      "contents": "\\\\u{1F389}",
+      "trigger": "ji:party-popper\t🎉"
+    },
+    {
+      "contents": "\\\\u{1F38A}",
+      "trigger": "ji:confetti-ball\t🎊"
+    },
+    {
+      "contents": "\\\\u{1F38B}",
+      "trigger": "ji:tanabata-tree\t🎋"
+    },
+    {
+      "contents": "\\\\u{1F38D}",
+      "trigger": "ji:pine-decoration\t🎍"
+    },
+    {
+      "contents": "\\\\u{1F38E}",
+      "trigger": "ji:japanese-dolls\t🎎"
+    },
+    {
+      "contents": "\\\\u{1F38F}",
+      "trigger": "ji:carp-streamer\t🎏"
+    },
+    {
+      "contents": "\\\\u{1F390}",
+      "trigger": "ji:wind-chime\t🎐"
+    },
+    {
+      "contents": "\\\\u{1F391}",
+      "trigger": "ji:moon-viewing-ceremony\t🎑"
+    },
+    {
+      "contents": "\\\\u{1F380}",
+      "trigger": "ji:ribbon\t🎀"
+    },
+    {
+      "contents": "\\\\u{1F381}",
+      "trigger": "ji:wrapped-present\t🎁"
+    },
+    {
+      "contents": "\\\\u{1F397}",
+      "trigger": "ji:reminder-ribbon\t🎗"
+    },
+    {
+      "contents": "\\\\u{1F39F}",
+      "trigger": "ji:admission-tickets\t🎟"
+    },
+    {
+      "contents": "\\\\u{1F3AB}",
+      "trigger": "ji:ticket\t🎫"
+    },
+    {
+      "contents": "\\\\u{1F396}",
+      "trigger": "ji:military-medal\t🎖"
+    },
+    {
+      "contents": "\\\\u{1F3C6}",
+      "trigger": "ji:trophy\t🏆"
+    },
+    {
+      "contents": "\\\\u{1F3C5}",
+      "trigger": "ji:sports-medal\t🏅"
+    },
+    {
+      "contents": "\\\\u{26BD}",
+      "trigger": "ji:soccer-ball\t⚽"
+    },
+    {
+      "contents": "\\\\u{26BE}",
+      "trigger": "ji:baseball\t⚾"
+    },
+    {
+      "contents": "\\\\u{1F3C0}",
+      "trigger": "ji:basketball-and-hoop\t🏀"
+    },
+    {
+      "contents": "\\\\u{1F3D0}",
+      "trigger": "ji:volleyball\t🏐"
+    },
+    {
+      "contents": "\\\\u{1F3C8}",
+      "trigger": "ji:american-football\t🏈"
+    },
+    {
+      "contents": "\\\\u{1F3C9}",
+      "trigger": "ji:rugby-football\t🏉"
+    },
+    {
+      "contents": "\\\\u{1F3BE}",
+      "trigger": "ji:tennis-racquet-and-ball\t🎾"
+    },
+    {
+      "contents": "\\\\u{1F3B1}",
+      "trigger": "ji:billiards\t🎱"
+    },
+    {
+      "contents": "\\\\u{1F3B3}",
+      "trigger": "ji:bowling\t🎳"
+    },
+    {
+      "contents": "\\\\u{1F3CF}",
+      "trigger": "ji:cricket-bat-and-ball\t🏏"
+    },
+    {
+      "contents": "\\\\u{1F3D1}",
+      "trigger": "ji:field-hockey-stick-and-ball\t🏑"
+    },
+    {
+      "contents": "\\\\u{1F3D2}",
+      "trigger": "ji:ice-hockey-stick-and-puck\t🏒"
+    },
+    {
+      "contents": "\\\\u{1F3D3}",
+      "trigger": "ji:table-tennis-paddle-and-ball\t🏓"
+    },
+    {
+      "contents": "\\\\u{1F3F8}",
+      "trigger": "ji:badminton-racquet-and-shuttlecock\t🏸"
+    },
+    {
+      "contents": "\\\\u{26F3}",
+      "trigger": "ji:flag-in-hole\t⛳"
+    },
+    {
+      "contents": "\\\\u{1F3CC}",
+      "trigger": "ji:golfer\t🏌"
+    },
+    {
+      "contents": "\\\\u{26F8}",
+      "trigger": "ji:ice-skate\t⛸"
+    },
+    {
+      "contents": "\\\\u{1F3A3}",
+      "trigger": "ji:fishing-pole-and-fish\t🎣"
+    },
+    {
+      "contents": "\\\\u{1F3BD}",
+      "trigger": "ji:running-shirt-with-sash\t🎽"
+    },
+    {
+      "contents": "\\\\u{1F3BF}",
+      "trigger": "ji:ski-and-ski-boot\t🎿"
+    },
+    {
+      "contents": "\\\\u{26F7}",
+      "trigger": "ji:skier\t⛷"
+    },
+    {
+      "contents": "\\\\u{1F3C2}",
+      "trigger": "ji:snowboarder\t🏂"
+    },
+    {
+      "contents": "\\\\u{1F3C4}",
+      "trigger": "ji:surfer\t🏄"
+    },
+    {
+      "contents": "\\\\u{1F3C7}",
+      "trigger": "ji:horse-racing\t🏇"
+    },
+    {
+      "contents": "\\\\u{1F3CA}",
+      "trigger": "ji:swimmer\t🏊"
+    },
+    {
+      "contents": "\\\\u{26F9}",
+      "trigger": "ji:person-with-ball\t⛹"
+    },
+    {
+      "contents": "\\\\u{1F3CB}",
+      "trigger": "ji:weight-lifter\t🏋"
+    },
+    {
+      "contents": "\\\\u{1F6B4}",
+      "trigger": "ji:bicyclist\t🚴"
+    },
+    {
+      "contents": "\\\\u{1F6B5}",
+      "trigger": "ji:mountain-bicyclist\t🚵"
+    },
+    {
+      "contents": "\\\\u{1F3CE}",
+      "trigger": "ji:racing-car\t🏎"
+    },
+    {
+      "contents": "\\\\u{1F3CD}",
+      "trigger": "ji:racing-motorcycle\t🏍"
+    },
+    {
+      "contents": "\\\\u{1F3AF}",
+      "trigger": "ji:direct-hit\t🎯"
+    },
+    {
+      "contents": "\\\\u{1F3AE}",
+      "trigger": "ji:video-game\t🎮"
+    },
+    {
+      "contents": "\\\\u{1F579}",
+      "trigger": "ji:joystick\t🕹"
+    },
+    {
+      "contents": "\\\\u{1F3B2}",
+      "trigger": "ji:game-die\t🎲"
+    },
+    {
+      "contents": "\\\\u{2660}",
+      "trigger": "ji:black-spade-suit\t♠"
+    },
+    {
+      "contents": "\\\\u{2665}",
+      "trigger": "ji:black-heart-suit\t♥"
+    },
+    {
+      "contents": "\\\\u{2666}",
+      "trigger": "ji:black-diamond-suit\t♦"
+    },
+    {
+      "contents": "\\\\u{2663}",
+      "trigger": "ji:black-club-suit\t♣"
+    },
+    {
+      "contents": "\\\\u{1F0CF}",
+      "trigger": "ji:playing-card-black-joker\t🃏"
+    },
+    {
+      "contents": "\\\\u{1F004}",
+      "trigger": "ji:mahjong-tile-red-dragon\t🀄"
+    },
+    {
+      "contents": "\\\\u{1F3B4}",
+      "trigger": "ji:flower-playing-cards\t🎴"
+    },
+    {
+      "contents": "\\\\u{1F507}",
+      "trigger": "ji:speaker-with-cancellation-stroke\t🔇"
+    },
+    {
+      "contents": "\\\\u{1F508}",
+      "trigger": "ji:speaker\t🔈"
+    },
+    {
+      "contents": "\\\\u{1F509}",
+      "trigger": "ji:speaker-with-one-sound-wave\t🔉"
+    },
+    {
+      "contents": "\\\\u{1F50A}",
+      "trigger": "ji:speaker-with-three-sound-waves\t🔊"
+    },
+    {
+      "contents": "\\\\u{1F4E2}",
+      "trigger": "ji:public-address-loudspeaker\t📢"
+    },
+    {
+      "contents": "\\\\u{1F4E3}",
+      "trigger": "ji:cheering-megaphone\t📣"
+    },
+    {
+      "contents": "\\\\u{1F4EF}",
+      "trigger": "ji:postal-horn\t📯"
+    },
+    {
+      "contents": "\\\\u{1F514}",
+      "trigger": "ji:bell\t🔔"
+    },
+    {
+      "contents": "\\\\u{1F515}",
+      "trigger": "ji:bell-with-cancellation-stroke\t🔕"
+    },
+    {
+      "contents": "\\\\u{1F3BC}",
+      "trigger": "ji:musical-score\t🎼"
+    },
+    {
+      "contents": "\\\\u{1F3B5}",
+      "trigger": "ji:musical-note\t🎵"
+    },
+    {
+      "contents": "\\\\u{1F3B6}",
+      "trigger": "ji:multiple-musical-notes\t🎶"
+    },
+    {
+      "contents": "\\\\u{1F399}",
+      "trigger": "ji:studio-microphone\t🎙"
+    },
+    {
+      "contents": "\\\\u{1F39A}",
+      "trigger": "ji:level-slider\t🎚"
+    },
+    {
+      "contents": "\\\\u{1F39B}",
+      "trigger": "ji:control-knobs\t🎛"
+    },
+    {
+      "contents": "\\\\u{1F3A4}",
+      "trigger": "ji:microphone\t🎤"
+    },
+    {
+      "contents": "\\\\u{1F3A7}",
+      "trigger": "ji:headphone\t🎧"
+    },
+    {
+      "contents": "\\\\u{1F4FB}",
+      "trigger": "ji:radio\t📻"
+    },
+    {
+      "contents": "\\\\u{1F3B7}",
+      "trigger": "ji:saxophone\t🎷"
+    },
+    {
+      "contents": "\\\\u{1F3B8}",
+      "trigger": "ji:guitar\t🎸"
+    },
+    {
+      "contents": "\\\\u{1F3B9}",
+      "trigger": "ji:musical-keyboard\t🎹"
+    },
+    {
+      "contents": "\\\\u{1F3BA}",
+      "trigger": "ji:trumpet\t🎺"
+    },
+    {
+      "contents": "\\\\u{1F3BB}",
+      "trigger": "ji:violin\t🎻"
+    },
+    {
+      "contents": "\\\\u{1F4F1}",
+      "trigger": "ji:mobile-phone\t📱"
+    },
+    {
+      "contents": "\\\\u{1F4F2}",
+      "trigger": "ji:mobile-phone-with-rightwards-arrow-at-left\t📲"
+    },
+    {
+      "contents": "\\\\u{260E}",
+      "trigger": "ji:black-telephone\t☎"
+    },
+    {
+      "contents": "\\\\u{1F4DE}",
+      "trigger": "ji:telephone-receiver\t📞"
+    },
+    {
+      "contents": "\\\\u{1F4DF}",
+      "trigger": "ji:pager\t📟"
+    },
+    {
+      "contents": "\\\\u{1F4E0}",
+      "trigger": "ji:fax-machine\t📠"
+    },
+    {
+      "contents": "\\\\u{1F50B}",
+      "trigger": "ji:battery\t🔋"
+    },
+    {
+      "contents": "\\\\u{1F50C}",
+      "trigger": "ji:electric-plug\t🔌"
+    },
+    {
+      "contents": "\\\\u{1F4BB}",
+      "trigger": "ji:personal-computer\t💻"
+    },
+    {
+      "contents": "\\\\u{1F5A5}",
+      "trigger": "ji:desktop-computer\t🖥"
+    },
+    {
+      "contents": "\\\\u{1F5A8}",
+      "trigger": "ji:printer\t🖨"
+    },
+    {
+      "contents": "\\\\u{2328}",
+      "trigger": "ji:keyboard\t⌨"
+    },
+    {
+      "contents": "\\\\u{1F5B1}",
+      "trigger": "ji:three-button-mouse\t🖱"
+    },
+    {
+      "contents": "\\\\u{1F5B2}",
+      "trigger": "ji:trackball\t🖲"
+    },
+    {
+      "contents": "\\\\u{1F4BD}",
+      "trigger": "ji:minidisc\t💽"
+    },
+    {
+      "contents": "\\\\u{1F4BE}",
+      "trigger": "ji:floppy-disk\t💾"
+    },
+    {
+      "contents": "\\\\u{1F4BF}",
+      "trigger": "ji:optical-disc\t💿"
+    },
+    {
+      "contents": "\\\\u{1F4C0}",
+      "trigger": "ji:dvd\t📀"
+    },
+    {
+      "contents": "\\\\u{1F3A5}",
+      "trigger": "ji:movie-camera\t🎥"
+    },
+    {
+      "contents": "\\\\u{1F39E}",
+      "trigger": "ji:film-frames\t🎞"
+    },
+    {
+      "contents": "\\\\u{1F4FD}",
+      "trigger": "ji:film-projector\t📽"
+    },
+    {
+      "contents": "\\\\u{1F3AC}",
+      "trigger": "ji:clapper-board\t🎬"
+    },
+    {
+      "contents": "\\\\u{1F4FA}",
+      "trigger": "ji:television\t📺"
+    },
+    {
+      "contents": "\\\\u{1F4F7}",
+      "trigger": "ji:camera\t📷"
+    },
+    {
+      "contents": "\\\\u{1F4F8}",
+      "trigger": "ji:camera-with-flash\t📸"
+    },
+    {
+      "contents": "\\\\u{1F4F9}",
+      "trigger": "ji:video-camera\t📹"
+    },
+    {
+      "contents": "\\\\u{1F4FC}",
+      "trigger": "ji:videocassette\t📼"
+    },
+    {
+      "contents": "\\\\u{1F50D}",
+      "trigger": "ji:left-pointing-magnifying-glass\t🔍"
+    },
+    {
+      "contents": "\\\\u{1F50E}",
+      "trigger": "ji:right-pointing-magnifying-glass\t🔎"
+    },
+    {
+      "contents": "\\\\u{1F52C}",
+      "trigger": "ji:microscope\t🔬"
+    },
+    {
+      "contents": "\\\\u{1F52D}",
+      "trigger": "ji:telescope\t🔭"
+    },
+    {
+      "contents": "\\\\u{1F4E1}",
+      "trigger": "ji:satellite-antenna\t📡"
+    },
+    {
+      "contents": "\\\\u{1F56F}",
+      "trigger": "ji:candle\t🕯"
+    },
+    {
+      "contents": "\\\\u{1F4A1}",
+      "trigger": "ji:electric-light-bulb\t💡"
+    },
+    {
+      "contents": "\\\\u{1F526}",
+      "trigger": "ji:electric-torch\t🔦"
+    },
+    {
+      "contents": "\\\\u{1F3EE}",
+      "trigger": "ji:izakaya-lantern\t🏮"
+    },
+    {
+      "contents": "\\\\u{1F4D4}",
+      "trigger": "ji:notebook-with-decorative-cover\t📔"
+    },
+    {
+      "contents": "\\\\u{1F4D5}",
+      "trigger": "ji:closed-book\t📕"
+    },
+    {
+      "contents": "\\\\u{1F4D6}",
+      "trigger": "ji:open-book\t📖"
+    },
+    {
+      "contents": "\\\\u{1F4D7}",
+      "trigger": "ji:green-book\t📗"
+    },
+    {
+      "contents": "\\\\u{1F4D8}",
+      "trigger": "ji:blue-book\t📘"
+    },
+    {
+      "contents": "\\\\u{1F4D9}",
+      "trigger": "ji:orange-book\t📙"
+    },
+    {
+      "contents": "\\\\u{1F4DA}",
+      "trigger": "ji:books\t📚"
+    },
+    {
+      "contents": "\\\\u{1F4D3}",
+      "trigger": "ji:notebook\t📓"
+    },
+    {
+      "contents": "\\\\u{1F4D2}",
+      "trigger": "ji:ledger\t📒"
+    },
+    {
+      "contents": "\\\\u{1F4C3}",
+      "trigger": "ji:page-with-curl\t📃"
+    },
+    {
+      "contents": "\\\\u{1F4DC}",
+      "trigger": "ji:scroll\t📜"
+    },
+    {
+      "contents": "\\\\u{1F4C4}",
+      "trigger": "ji:page-facing-up\t📄"
+    },
+    {
+      "contents": "\\\\u{1F4F0}",
+      "trigger": "ji:newspaper\t📰"
+    },
+    {
+      "contents": "\\\\u{1F5DE}",
+      "trigger": "ji:rolled-up-newspaper\t🗞"
+    },
+    {
+      "contents": "\\\\u{1F4D1}",
+      "trigger": "ji:bookmark-tabs\t📑"
+    },
+    {
+      "contents": "\\\\u{1F516}",
+      "trigger": "ji:bookmark\t🔖"
+    },
+    {
+      "contents": "\\\\u{1F3F7}",
+      "trigger": "ji:label\t🏷"
+    },
+    {
+      "contents": "\\\\u{1F4B0}",
+      "trigger": "ji:money-bag\t💰"
+    },
+    {
+      "contents": "\\\\u{1F4B4}",
+      "trigger": "ji:banknote-with-yen-sign\t💴"
+    },
+    {
+      "contents": "\\\\u{1F4B5}",
+      "trigger": "ji:banknote-with-dollar-sign\t💵"
+    },
+    {
+      "contents": "\\\\u{1F4B6}",
+      "trigger": "ji:banknote-with-euro-sign\t💶"
+    },
+    {
+      "contents": "\\\\u{1F4B7}",
+      "trigger": "ji:banknote-with-pound-sign\t💷"
+    },
+    {
+      "contents": "\\\\u{1F4B8}",
+      "trigger": "ji:money-with-wings\t💸"
+    },
+    {
+      "contents": "\\\\u{1F4B3}",
+      "trigger": "ji:credit-card\t💳"
+    },
+    {
+      "contents": "\\\\u{1F4B9}",
+      "trigger": "ji:chart-with-upwards-trend-and-yen-sign\t💹"
+    },
+    {
+      "contents": "\\\\u{1F4B1}",
+      "trigger": "ji:currency-exchange\t💱"
+    },
+    {
+      "contents": "\\\\u{1F4B2}",
+      "trigger": "ji:heavy-dollar-sign\t💲"
+    },
+    {
+      "contents": "\\\\u{2709}",
+      "trigger": "ji:envelope\t✉"
+    },
+    {
+      "contents": "\\\\u{1F4E7}",
+      "trigger": "ji:e-mail-symbol\t📧"
+    },
+    {
+      "contents": "\\\\u{1F4E8}",
+      "trigger": "ji:incoming-envelope\t📨"
+    },
+    {
+      "contents": "\\\\u{1F4E9}",
+      "trigger": "ji:envelope-with-downwards-arrow-above\t📩"
+    },
+    {
+      "contents": "\\\\u{1F4E4}",
+      "trigger": "ji:outbox-tray\t📤"
+    },
+    {
+      "contents": "\\\\u{1F4E5}",
+      "trigger": "ji:inbox-tray\t📥"
+    },
+    {
+      "contents": "\\\\u{1F4E6}",
+      "trigger": "ji:package\t📦"
+    },
+    {
+      "contents": "\\\\u{1F4EB}",
+      "trigger": "ji:closed-mailbox-with-raised-flag\t📫"
+    },
+    {
+      "contents": "\\\\u{1F4EA}",
+      "trigger": "ji:closed-mailbox-with-lowered-flag\t📪"
+    },
+    {
+      "contents": "\\\\u{1F4EC}",
+      "trigger": "ji:open-mailbox-with-raised-flag\t📬"
+    },
+    {
+      "contents": "\\\\u{1F4ED}",
+      "trigger": "ji:open-mailbox-with-lowered-flag\t📭"
+    },
+    {
+      "contents": "\\\\u{1F4EE}",
+      "trigger": "ji:postbox\t📮"
+    },
+    {
+      "contents": "\\\\u{1F5F3}",
+      "trigger": "ji:ballot-box-with-ballot\t🗳"
+    },
+    {
+      "contents": "\\\\u{270F}",
+      "trigger": "ji:pencil\t✏"
+    },
+    {
+      "contents": "\\\\u{2712}",
+      "trigger": "ji:black-nib\t✒"
+    },
+    {
+      "contents": "\\\\u{1F58B}",
+      "trigger": "ji:lower-left-fountain-pen\t🖋"
+    },
+    {
+      "contents": "\\\\u{1F58A}",
+      "trigger": "ji:lower-left-ballpoint-pen\t🖊"
+    },
+    {
+      "contents": "\\\\u{1F58C}",
+      "trigger": "ji:lower-left-paintbrush\t🖌"
+    },
+    {
+      "contents": "\\\\u{1F58D}",
+      "trigger": "ji:lower-left-crayon\t🖍"
+    },
+    {
+      "contents": "\\\\u{1F4DD}",
+      "trigger": "ji:memo\t📝"
+    },
+    {
+      "contents": "\\\\u{1F4BC}",
+      "trigger": "ji:briefcase\t💼"
+    },
+    {
+      "contents": "\\\\u{1F4C1}",
+      "trigger": "ji:file-folder\t📁"
+    },
+    {
+      "contents": "\\\\u{1F4C2}",
+      "trigger": "ji:open-file-folder\t📂"
+    },
+    {
+      "contents": "\\\\u{1F5C2}",
+      "trigger": "ji:card-index-dividers\t🗂"
+    },
+    {
+      "contents": "\\\\u{1F4C5}",
+      "trigger": "ji:calendar\t📅"
+    },
+    {
+      "contents": "\\\\u{1F4C6}",
+      "trigger": "ji:tear-off-calendar\t📆"
+    },
+    {
+      "contents": "\\\\u{1F5D2}",
+      "trigger": "ji:spiral-note-pad\t🗒"
+    },
+    {
+      "contents": "\\\\u{1F5D3}",
+      "trigger": "ji:spiral-calendar-pad\t🗓"
+    },
+    {
+      "contents": "\\\\u{1F4C7}",
+      "trigger": "ji:card-index\t📇"
+    },
+    {
+      "contents": "\\\\u{1F4C8}",
+      "trigger": "ji:chart-with-upwards-trend\t📈"
+    },
+    {
+      "contents": "\\\\u{1F4C9}",
+      "trigger": "ji:chart-with-downwards-trend\t📉"
+    },
+    {
+      "contents": "\\\\u{1F4CA}",
+      "trigger": "ji:bar-chart\t📊"
+    },
+    {
+      "contents": "\\\\u{1F4CB}",
+      "trigger": "ji:clipboard\t📋"
+    },
+    {
+      "contents": "\\\\u{1F4CC}",
+      "trigger": "ji:pushpin\t📌"
+    },
+    {
+      "contents": "\\\\u{1F4CD}",
+      "trigger": "ji:round-pushpin\t📍"
+    },
+    {
+      "contents": "\\\\u{1F4CE}",
+      "trigger": "ji:paperclip\t📎"
+    },
+    {
+      "contents": "\\\\u{1F587}",
+      "trigger": "ji:linked-paperclips\t🖇"
+    },
+    {
+      "contents": "\\\\u{1F4CF}",
+      "trigger": "ji:straight-ruler\t📏"
+    },
+    {
+      "contents": "\\\\u{1F4D0}",
+      "trigger": "ji:triangular-ruler\t📐"
+    },
+    {
+      "contents": "\\\\u{2702}",
+      "trigger": "ji:black-scissors\t✂"
+    },
+    {
+      "contents": "\\\\u{1F5C3}",
+      "trigger": "ji:card-file-box\t🗃"
+    },
+    {
+      "contents": "\\\\u{1F5C4}",
+      "trigger": "ji:file-cabinet\t🗄"
+    },
+    {
+      "contents": "\\\\u{1F5D1}",
+      "trigger": "ji:wastebasket\t🗑"
+    },
+    {
+      "contents": "\\\\u{1F512}",
+      "trigger": "ji:lock\t🔒"
+    },
+    {
+      "contents": "\\\\u{1F513}",
+      "trigger": "ji:open-lock\t🔓"
+    },
+    {
+      "contents": "\\\\u{1F50F}",
+      "trigger": "ji:lock-with-ink-pen\t🔏"
+    },
+    {
+      "contents": "\\\\u{1F510}",
+      "trigger": "ji:closed-lock-with-key\t🔐"
+    },
+    {
+      "contents": "\\\\u{1F511}",
+      "trigger": "ji:key\t🔑"
+    },
+    {
+      "contents": "\\\\u{1F5DD}",
+      "trigger": "ji:old-key\t🗝"
+    },
+    {
+      "contents": "\\\\u{1F528}",
+      "trigger": "ji:hammer\t🔨"
+    },
+    {
+      "contents": "\\\\u{26CF}",
+      "trigger": "ji:pick\t⛏"
+    },
+    {
+      "contents": "\\\\u{2692}",
+      "trigger": "ji:hammer-and-pick\t⚒"
+    },
+    {
+      "contents": "\\\\u{1F6E0}",
+      "trigger": "ji:hammer-and-wrench\t🛠"
+    },
+    {
+      "contents": "\\\\u{1F5E1}",
+      "trigger": "ji:dagger-knife\t🗡"
+    },
+    {
+      "contents": "\\\\u{2694}",
+      "trigger": "ji:crossed-swords\t⚔"
+    },
+    {
+      "contents": "\\\\u{1F52B}",
+      "trigger": "ji:pistol\t🔫"
+    },
+    {
+      "contents": "\\\\u{1F3F9}",
+      "trigger": "ji:bow-and-arrow\t🏹"
+    },
+    {
+      "contents": "\\\\u{1F6E1}",
+      "trigger": "ji:shield\t🛡"
+    },
+    {
+      "contents": "\\\\u{1F527}",
+      "trigger": "ji:wrench\t🔧"
+    },
+    {
+      "contents": "\\\\u{1F529}",
+      "trigger": "ji:nut-and-bolt\t🔩"
+    },
+    {
+      "contents": "\\\\u{2699}",
+      "trigger": "ji:gear\t⚙"
+    },
+    {
+      "contents": "\\\\u{1F5DC}",
+      "trigger": "ji:compression\t🗜"
+    },
+    {
+      "contents": "\\\\u{2697}",
+      "trigger": "ji:alembic\t⚗"
+    },
+    {
+      "contents": "\\\\u{2696}",
+      "trigger": "ji:scales\t⚖"
+    },
+    {
+      "contents": "\\\\u{1F517}",
+      "trigger": "ji:link-symbol\t🔗"
+    },
+    {
+      "contents": "\\\\u{26D3}",
+      "trigger": "ji:chains\t⛓"
+    },
+    {
+      "contents": "\\\\u{1F489}",
+      "trigger": "ji:syringe\t💉"
+    },
+    {
+      "contents": "\\\\u{1F48A}",
+      "trigger": "ji:pill\t💊"
+    },
+    {
+      "contents": "\\\\u{1F6AC}",
+      "trigger": "ji:smoking-symbol\t🚬"
+    },
+    {
+      "contents": "\\\\u{26B0}",
+      "trigger": "ji:coffin\t⚰"
+    },
+    {
+      "contents": "\\\\u{26B1}",
+      "trigger": "ji:funeral-urn\t⚱"
+    },
+    {
+      "contents": "\\\\u{1F5FF}",
+      "trigger": "ji:moyai\t🗿"
+    },
+    {
+      "contents": "\\\\u{1F6E2}",
+      "trigger": "ji:oil-drum\t🛢"
+    },
+    {
+      "contents": "\\\\u{1F52E}",
+      "trigger": "ji:crystal-ball\t🔮"
+    },
+    {
+      "contents": "\\\\u{1F3E7}",
+      "trigger": "ji:automated-teller-machine\t🏧"
+    },
+    {
+      "contents": "\\\\u{1F6AE}",
+      "trigger": "ji:put-litter-in-its-place-symbol\t🚮"
+    },
+    {
+      "contents": "\\\\u{1F6B0}",
+      "trigger": "ji:potable-water-symbol\t🚰"
+    },
+    {
+      "contents": "\\\\u{267F}",
+      "trigger": "ji:wheelchair-symbol\t♿"
+    },
+    {
+      "contents": "\\\\u{1F6B9}",
+      "trigger": "ji:mens-symbol\t🚹"
+    },
+    {
+      "contents": "\\\\u{1F6BA}",
+      "trigger": "ji:womens-symbol\t🚺"
+    },
+    {
+      "contents": "\\\\u{1F6BB}",
+      "trigger": "ji:restroom\t🚻"
+    },
+    {
+      "contents": "\\\\u{1F6BC}",
+      "trigger": "ji:baby-symbol\t🚼"
+    },
+    {
+      "contents": "\\\\u{1F6BE}",
+      "trigger": "ji:water-closet\t🚾"
+    },
+    {
+      "contents": "\\\\u{1F6C2}",
+      "trigger": "ji:passport-control\t🛂"
+    },
+    {
+      "contents": "\\\\u{1F6C3}",
+      "trigger": "ji:customs\t🛃"
+    },
+    {
+      "contents": "\\\\u{1F6C4}",
+      "trigger": "ji:baggage-claim\t🛄"
+    },
+    {
+      "contents": "\\\\u{1F6C5}",
+      "trigger": "ji:left-luggage\t🛅"
+    },
+    {
+      "contents": "\\\\u{26A0}",
+      "trigger": "ji:warning-sign\t⚠"
+    },
+    {
+      "contents": "\\\\u{1F6B8}",
+      "trigger": "ji:children-crossing\t🚸"
+    },
+    {
+      "contents": "\\\\u{26D4}",
+      "trigger": "ji:no-entry\t⛔"
+    },
+    {
+      "contents": "\\\\u{1F6AB}",
+      "trigger": "ji:no-entry-sign\t🚫"
+    },
+    {
+      "contents": "\\\\u{1F6B3}",
+      "trigger": "ji:no-bicycles\t🚳"
+    },
+    {
+      "contents": "\\\\u{1F6AD}",
+      "trigger": "ji:no-smoking-symbol\t🚭"
+    },
+    {
+      "contents": "\\\\u{1F6AF}",
+      "trigger": "ji:do-not-litter-symbol\t🚯"
+    },
+    {
+      "contents": "\\\\u{1F6B1}",
+      "trigger": "ji:non-potable-water-symbol\t🚱"
+    },
+    {
+      "contents": "\\\\u{1F6B7}",
+      "trigger": "ji:no-pedestrians\t🚷"
+    },
+    {
+      "contents": "\\\\u{1F4F5}",
+      "trigger": "ji:no-mobile-phones\t📵"
+    },
+    {
+      "contents": "\\\\u{1F51E}",
+      "trigger": "ji:no-one-under-eighteen-symbol\t🔞"
+    },
+    {
+      "contents": "\\\\u{2622}",
+      "trigger": "ji:radioactive-sign\t☢"
+    },
+    {
+      "contents": "\\\\u{2623}",
+      "trigger": "ji:biohazard-sign\t☣"
+    },
+    {
+      "contents": "\\\\u{2B06}",
+      "trigger": "ji:upwards-black-arrow\t⬆"
+    },
+    {
+      "contents": "\\\\u{2197}",
+      "trigger": "ji:north-east-arrow\t↗"
+    },
+    {
+      "contents": "\\\\u{27A1}",
+      "trigger": "ji:black-rightwards-arrow\t➡"
+    },
+    {
+      "contents": "\\\\u{2198}",
+      "trigger": "ji:south-east-arrow\t↘"
+    },
+    {
+      "contents": "\\\\u{2B07}",
+      "trigger": "ji:downwards-black-arrow\t⬇"
+    },
+    {
+      "contents": "\\\\u{2199}",
+      "trigger": "ji:south-west-arrow\t↙"
+    },
+    {
+      "contents": "\\\\u{2B05}",
+      "trigger": "ji:leftwards-black-arrow\t⬅"
+    },
+    {
+      "contents": "\\\\u{2196}",
+      "trigger": "ji:north-west-arrow\t↖"
+    },
+    {
+      "contents": "\\\\u{2195}",
+      "trigger": "ji:up-down-arrow\t↕"
+    },
+    {
+      "contents": "\\\\u{2194}",
+      "trigger": "ji:left-right-arrow\t↔"
+    },
+    {
+      "contents": "\\\\u{21A9}",
+      "trigger": "ji:leftwards-arrow-with-hook\t↩"
+    },
+    {
+      "contents": "\\\\u{21AA}",
+      "trigger": "ji:rightwards-arrow-with-hook\t↪"
+    },
+    {
+      "contents": "\\\\u{2934}",
+      "trigger": "ji:arrow-pointing-rightwards-then-curving-upwards\t⤴"
+    },
+    {
+      "contents": "\\\\u{2935}",
+      "trigger": "ji:arrow-pointing-rightwards-then-curving-downwards\t⤵"
+    },
+    {
+      "contents": "\\\\u{1F503}",
+      "trigger": "ji:clockwise-downwards-and-upwards-open-circle-arrows\t🔃"
+    },
+    {
+      "contents": "\\\\u{1F504}",
+      "trigger": "ji:anticlockwise-downwards-and-upwards-open-circle-arrows\t🔄"
+    },
+    {
+      "contents": "\\\\u{1F519}",
+      "trigger": "ji:back-with-leftwards-arrow-above\t🔙"
+    },
+    {
+      "contents": "\\\\u{1F51A}",
+      "trigger": "ji:end-with-leftwards-arrow-above\t🔚"
+    },
+    {
+      "contents": "\\\\u{1F51B}",
+      "trigger": "ji:on-with-exclamation-mark-with-left-right-arrow-above\t🔛"
+    },
+    {
+      "contents": "\\\\u{1F51C}",
+      "trigger": "ji:soon-with-rightwards-arrow-above\t🔜"
+    },
+    {
+      "contents": "\\\\u{1F51D}",
+      "trigger": "ji:top-with-upwards-arrow-above\t🔝"
+    },
+    {
+      "contents": "\\\\u{1F6D0}",
+      "trigger": "ji:place-of-worship\t🛐"
+    },
+    {
+      "contents": "\\\\u{269B}",
+      "trigger": "ji:atom-symbol\t⚛"
+    },
+    {
+      "contents": "\\\\u{1F549}",
+      "trigger": "ji:om-symbol\t🕉"
+    },
+    {
+      "contents": "\\\\u{2721}",
+      "trigger": "ji:star-of-david\t✡"
+    },
+    {
+      "contents": "\\\\u{2638}",
+      "trigger": "ji:wheel-of-dharma\t☸"
+    },
+    {
+      "contents": "\\\\u{262F}",
+      "trigger": "ji:yin-yang\t☯"
+    },
+    {
+      "contents": "\\\\u{271D}",
+      "trigger": "ji:latin-cross\t✝"
+    },
+    {
+      "contents": "\\\\u{2626}",
+      "trigger": "ji:orthodox-cross\t☦"
+    },
+    {
+      "contents": "\\\\u{262A}",
+      "trigger": "ji:star-and-crescent\t☪"
+    },
+    {
+      "contents": "\\\\u{262E}",
+      "trigger": "ji:peace-symbol\t☮"
+    },
+    {
+      "contents": "\\\\u{1F54E}",
+      "trigger": "ji:menorah-with-nine-branches\t🕎"
+    },
+    {
+      "contents": "\\\\u{1F52F}",
+      "trigger": "ji:six-pointed-star-with-middle-dot\t🔯"
+    },
+    {
+      "contents": "\\\\u{267B}",
+      "trigger": "ji:black-universal-recycling-symbol\t♻"
+    },
+    {
+      "contents": "\\\\u{1F4DB}",
+      "trigger": "ji:name-badge\t📛"
+    },
+    {
+      "contents": "\\\\u{269C}",
+      "trigger": "ji:fleur-de-lis\t⚜"
+    },
+    {
+      "contents": "\\\\u{1F530}",
+      "trigger": "ji:japanese-symbol-for-beginner\t🔰"
+    },
+    {
+      "contents": "\\\\u{1F531}",
+      "trigger": "ji:trident-emblem\t🔱"
+    },
+    {
+      "contents": "\\\\u{2B55}",
+      "trigger": "ji:heavy-large-circle\t⭕"
+    },
+    {
+      "contents": "\\\\u{2705}",
+      "trigger": "ji:white-heavy-check-mark\t✅"
+    },
+    {
+      "contents": "\\\\u{2611}",
+      "trigger": "ji:ballot-box-with-check\t☑"
+    },
+    {
+      "contents": "\\\\u{2714}",
+      "trigger": "ji:heavy-check-mark\t✔"
+    },
+    {
+      "contents": "\\\\u{2716}",
+      "trigger": "ji:heavy-multiplication-x\t✖"
+    },
+    {
+      "contents": "\\\\u{274C}",
+      "trigger": "ji:cross-mark\t❌"
+    },
+    {
+      "contents": "\\\\u{274E}",
+      "trigger": "ji:negative-squared-cross-mark\t❎"
+    },
+    {
+      "contents": "\\\\u{2795}",
+      "trigger": "ji:heavy-plus-sign\t➕"
+    },
+    {
+      "contents": "\\\\u{2796}",
+      "trigger": "ji:heavy-minus-sign\t➖"
+    },
+    {
+      "contents": "\\\\u{2797}",
+      "trigger": "ji:heavy-division-sign\t➗"
+    },
+    {
+      "contents": "\\\\u{27B0}",
+      "trigger": "ji:curly-loop\t➰"
+    },
+    {
+      "contents": "\\\\u{27BF}",
+      "trigger": "ji:double-curly-loop\t➿"
+    },
+    {
+      "contents": "\\\\u{303D}",
+      "trigger": "ji:part-alternation-mark\t〽"
+    },
+    {
+      "contents": "\\\\u{2733}",
+      "trigger": "ji:eight-spoked-asterisk\t✳"
+    },
+    {
+      "contents": "\\\\u{2734}",
+      "trigger": "ji:eight-pointed-black-star\t✴"
+    },
+    {
+      "contents": "\\\\u{2747}",
+      "trigger": "ji:sparkle\t❇"
+    },
+    {
+      "contents": "\\\\u{203C}",
+      "trigger": "ji:double-exclamation-mark\t‼"
+    },
+    {
+      "contents": "\\\\u{2049}",
+      "trigger": "ji:exclamation-question-mark\t⁉"
+    },
+    {
+      "contents": "\\\\u{2753}",
+      "trigger": "ji:black-question-mark-ornament\t❓"
+    },
+    {
+      "contents": "\\\\u{2754}",
+      "trigger": "ji:white-question-mark-ornament\t❔"
+    },
+    {
+      "contents": "\\\\u{2755}",
+      "trigger": "ji:white-exclamation-mark-ornament\t❕"
+    },
+    {
+      "contents": "\\\\u{2757}",
+      "trigger": "ji:heavy-exclamation-mark-symbol\t❗"
+    },
+    {
+      "contents": "\\\\u{3030}",
+      "trigger": "ji:wavy-dash\t〰"
+    },
+    {
+      "contents": "\\\\u{00A9}",
+      "trigger": "ji:copyright-sign\t©"
+    },
+    {
+      "contents": "\\\\u{00AE}",
+      "trigger": "ji:registered-sign\t®"
+    },
+    {
+      "contents": "\\\\u{2122}",
+      "trigger": "ji:trade-mark-sign\t™"
+    },
+    {
+      "contents": "\\\\u{2648}",
+      "trigger": "ji:aries\t♈"
+    },
+    {
+      "contents": "\\\\u{2649}",
+      "trigger": "ji:taurus\t♉"
+    },
+    {
+      "contents": "\\\\u{264A}",
+      "trigger": "ji:gemini\t♊"
+    },
+    {
+      "contents": "\\\\u{264B}",
+      "trigger": "ji:cancer\t♋"
+    },
+    {
+      "contents": "\\\\u{264C}",
+      "trigger": "ji:leo\t♌"
+    },
+    {
+      "contents": "\\\\u{264D}",
+      "trigger": "ji:virgo\t♍"
+    },
+    {
+      "contents": "\\\\u{264E}",
+      "trigger": "ji:libra\t♎"
+    },
+    {
+      "contents": "\\\\u{264F}",
+      "trigger": "ji:scorpius\t♏"
+    },
+    {
+      "contents": "\\\\u{2650}",
+      "trigger": "ji:sagittarius\t♐"
+    },
+    {
+      "contents": "\\\\u{2651}",
+      "trigger": "ji:capricorn\t♑"
+    },
+    {
+      "contents": "\\\\u{2652}",
+      "trigger": "ji:aquarius\t♒"
+    },
+    {
+      "contents": "\\\\u{2653}",
+      "trigger": "ji:pisces\t♓"
+    },
+    {
+      "contents": "\\\\u{26CE}",
+      "trigger": "ji:ophiuchus\t⛎"
+    },
+    {
+      "contents": "\\\\u{1F500}",
+      "trigger": "ji:twisted-rightwards-arrows\t🔀"
+    },
+    {
+      "contents": "\\\\u{1F501}",
+      "trigger": "ji:clockwise-rightwards-and-leftwards-open-circle-arrows\t🔁"
+    },
+    {
+      "contents": "\\\\u{1F502}",
+      "trigger": "ji:clockwise-rightwards-and-leftwards-open-circle-arrows-with-circled-one-overlay\t🔂"
+    },
+    {
+      "contents": "\\\\u{25B6}",
+      "trigger": "ji:black-right-pointing-triangle\t▶"
+    },
+    {
+      "contents": "\\\\u{23E9}",
+      "trigger": "ji:black-right-pointing-double-triangle\t⏩"
+    },
+    {
+      "contents": "\\\\u{23ED}",
+      "trigger": "ji:black-right-pointing-double-triangle-with-vertical-bar\t⏭"
+    },
+    {
+      "contents": "\\\\u{23EF}",
+      "trigger": "ji:black-right-pointing-triangle-with-double-vertical-bar\t⏯"
+    },
+    {
+      "contents": "\\\\u{25C0}",
+      "trigger": "ji:black-left-pointing-triangle\t◀"
+    },
+    {
+      "contents": "\\\\u{23EA}",
+      "trigger": "ji:black-left-pointing-double-triangle\t⏪"
+    },
+    {
+      "contents": "\\\\u{23EE}",
+      "trigger": "ji:black-left-pointing-double-triangle-with-vertical-bar\t⏮"
+    },
+    {
+      "contents": "\\\\u{1F53C}",
+      "trigger": "ji:up-pointing-small-red-triangle\t🔼"
+    },
+    {
+      "contents": "\\\\u{23EB}",
+      "trigger": "ji:black-up-pointing-double-triangle\t⏫"
+    },
+    {
+      "contents": "\\\\u{1F53D}",
+      "trigger": "ji:down-pointing-small-red-triangle\t🔽"
+    },
+    {
+      "contents": "\\\\u{23EC}",
+      "trigger": "ji:black-down-pointing-double-triangle\t⏬"
+    },
+    {
+      "contents": "\\\\u{23F8}",
+      "trigger": "ji:double-vertical-bar\t⏸"
+    },
+    {
+      "contents": "\\\\u{23F9}",
+      "trigger": "ji:black-square-for-stop\t⏹"
+    },
+    {
+      "contents": "\\\\u{23FA}",
+      "trigger": "ji:black-circle-for-record\t⏺"
+    },
+    {
+      "contents": "\\\\u{23CF}",
+      "trigger": "ji:eject-symbol\t⏏"
+    },
+    {
+      "contents": "\\\\u{1F3A6}",
+      "trigger": "ji:cinema\t🎦"
+    },
+    {
+      "contents": "\\\\u{1F505}",
+      "trigger": "ji:low-brightness-symbol\t🔅"
+    },
+    {
+      "contents": "\\\\u{1F506}",
+      "trigger": "ji:high-brightness-symbol\t🔆"
+    },
+    {
+      "contents": "\\\\u{1F4F6}",
+      "trigger": "ji:antenna-with-bars\t📶"
+    },
+    {
+      "contents": "\\\\u{1F4F3}",
+      "trigger": "ji:vibration-mode\t📳"
+    },
+    {
+      "contents": "\\\\u{1F4F4}",
+      "trigger": "ji:mobile-phone-off\t📴"
+    },
+    {
+      "contents": "\\\\u{1F51F}",
+      "trigger": "ji:keycap-ten\t🔟"
+    },
+    {
+      "contents": "\\\\u{1F4AF}",
+      "trigger": "ji:hundred-points-symbol\t💯"
+    },
+    {
+      "contents": "\\\\u{1F520}",
+      "trigger": "ji:input-symbol-for-latin-capital-letters\t🔠"
+    },
+    {
+      "contents": "\\\\u{1F521}",
+      "trigger": "ji:input-symbol-for-latin-small-letters\t🔡"
+    },
+    {
+      "contents": "\\\\u{1F522}",
+      "trigger": "ji:input-symbol-for-numbers\t🔢"
+    },
+    {
+      "contents": "\\\\u{1F523}",
+      "trigger": "ji:input-symbol-for-symbols\t🔣"
+    },
+    {
+      "contents": "\\\\u{1F524}",
+      "trigger": "ji:input-symbol-for-latin-letters\t🔤"
+    },
+    {
+      "contents": "\\\\u{1F170}",
+      "trigger": "ji:negative-squared-latin-capital-letter-a\t🅰"
+    },
+    {
+      "contents": "\\\\u{1F18E}",
+      "trigger": "ji:negative-squared-ab\t🆎"
+    },
+    {
+      "contents": "\\\\u{1F171}",
+      "trigger": "ji:negative-squared-latin-capital-letter-b\t🅱"
+    },
+    {
+      "contents": "\\\\u{1F191}",
+      "trigger": "ji:squared-cl\t🆑"
+    },
+    {
+      "contents": "\\\\u{1F192}",
+      "trigger": "ji:squared-cool\t🆒"
+    },
+    {
+      "contents": "\\\\u{1F193}",
+      "trigger": "ji:squared-free\t🆓"
+    },
+    {
+      "contents": "\\\\u{2139}",
+      "trigger": "ji:information-source\tℹ"
+    },
+    {
+      "contents": "\\\\u{1F194}",
+      "trigger": "ji:squared-id\t🆔"
+    },
+    {
+      "contents": "\\\\u{24C2}",
+      "trigger": "ji:circled-latin-capital-letter-m\tⓂ"
+    },
+    {
+      "contents": "\\\\u{1F195}",
+      "trigger": "ji:squared-new\t🆕"
+    },
+    {
+      "contents": "\\\\u{1F196}",
+      "trigger": "ji:squared-ng\t🆖"
+    },
+    {
+      "contents": "\\\\u{1F17E}",
+      "trigger": "ji:negative-squared-latin-capital-letter-o\t🅾"
+    },
+    {
+      "contents": "\\\\u{1F197}",
+      "trigger": "ji:squared-ok\t🆗"
+    },
+    {
+      "contents": "\\\\u{1F17F}",
+      "trigger": "ji:negative-squared-latin-capital-letter-p\t🅿"
+    },
+    {
+      "contents": "\\\\u{1F198}",
+      "trigger": "ji:squared-sos\t🆘"
+    },
+    {
+      "contents": "\\\\u{1F199}",
+      "trigger": "ji:squared-up-with-exclamation-mark\t🆙"
+    },
+    {
+      "contents": "\\\\u{1F19A}",
+      "trigger": "ji:squared-vs\t🆚"
+    },
+    {
+      "contents": "\\\\u{1F201}",
+      "trigger": "ji:squared-katakana-koko\t🈁"
+    },
+    {
+      "contents": "\\\\u{1F202}",
+      "trigger": "ji:squared-katakana-sa\t🈂"
+    },
+    {
+      "contents": "\\\\u{1F237}",
+      "trigger": "ji:squared-cjk-unified-ideograph-6708\t🈷"
+    },
+    {
+      "contents": "\\\\u{1F236}",
+      "trigger": "ji:squared-cjk-unified-ideograph-6709\t🈶"
+    },
+    {
+      "contents": "\\\\u{1F22F}",
+      "trigger": "ji:squared-cjk-unified-ideograph-6307\t🈯"
+    },
+    {
+      "contents": "\\\\u{1F250}",
+      "trigger": "ji:circled-ideograph-advantage\t🉐"
+    },
+    {
+      "contents": "\\\\u{1F239}",
+      "trigger": "ji:squared-cjk-unified-ideograph-5272\t🈹"
+    },
+    {
+      "contents": "\\\\u{1F21A}",
+      "trigger": "ji:squared-cjk-unified-ideograph-7121\t🈚"
+    },
+    {
+      "contents": "\\\\u{1F232}",
+      "trigger": "ji:squared-cjk-unified-ideograph-7981\t🈲"
+    },
+    {
+      "contents": "\\\\u{1F251}",
+      "trigger": "ji:circled-ideograph-accept\t🉑"
+    },
+    {
+      "contents": "\\\\u{1F238}",
+      "trigger": "ji:squared-cjk-unified-ideograph-7533\t🈸"
+    },
+    {
+      "contents": "\\\\u{1F234}",
+      "trigger": "ji:squared-cjk-unified-ideograph-5408\t🈴"
+    },
+    {
+      "contents": "\\\\u{1F233}",
+      "trigger": "ji:squared-cjk-unified-ideograph-7a7a\t🈳"
+    },
+    {
+      "contents": "\\\\u{3297}",
+      "trigger": "ji:circled-ideograph-congratulation\t㊗"
+    },
+    {
+      "contents": "\\\\u{3299}",
+      "trigger": "ji:circled-ideograph-secret\t㊙"
+    },
+    {
+      "contents": "\\\\u{1F23A}",
+      "trigger": "ji:squared-cjk-unified-ideograph-55b6\t🈺"
+    },
+    {
+      "contents": "\\\\u{1F235}",
+      "trigger": "ji:squared-cjk-unified-ideograph-6e80\t🈵"
+    },
+    {
+      "contents": "\\\\u{25AA}",
+      "trigger": "ji:black-small-square\t▪"
+    },
+    {
+      "contents": "\\\\u{25AB}",
+      "trigger": "ji:white-small-square\t▫"
+    },
+    {
+      "contents": "\\\\u{25FB}",
+      "trigger": "ji:white-medium-square\t◻"
+    },
+    {
+      "contents": "\\\\u{25FC}",
+      "trigger": "ji:black-medium-square\t◼"
+    },
+    {
+      "contents": "\\\\u{25FD}",
+      "trigger": "ji:white-medium-small-square\t◽"
+    },
+    {
+      "contents": "\\\\u{25FE}",
+      "trigger": "ji:black-medium-small-square\t◾"
+    },
+    {
+      "contents": "\\\\u{2B1B}",
+      "trigger": "ji:black-large-square\t⬛"
+    },
+    {
+      "contents": "\\\\u{2B1C}",
+      "trigger": "ji:white-large-square\t⬜"
+    },
+    {
+      "contents": "\\\\u{1F536}",
+      "trigger": "ji:large-orange-diamond\t🔶"
+    },
+    {
+      "contents": "\\\\u{1F537}",
+      "trigger": "ji:large-blue-diamond\t🔷"
+    },
+    {
+      "contents": "\\\\u{1F538}",
+      "trigger": "ji:small-orange-diamond\t🔸"
+    },
+    {
+      "contents": "\\\\u{1F539}",
+      "trigger": "ji:small-blue-diamond\t🔹"
+    },
+    {
+      "contents": "\\\\u{1F53A}",
+      "trigger": "ji:up-pointing-red-triangle\t🔺"
+    },
+    {
+      "contents": "\\\\u{1F53B}",
+      "trigger": "ji:down-pointing-red-triangle\t🔻"
+    },
+    {
+      "contents": "\\\\u{1F4A0}",
+      "trigger": "ji:diamond-shape-with-a-dot-inside\t💠"
+    },
+    {
+      "contents": "\\\\u{1F518}",
+      "trigger": "ji:radio-button\t🔘"
+    },
+    {
+      "contents": "\\\\u{1F532}",
+      "trigger": "ji:black-square-button\t🔲"
+    },
+    {
+      "contents": "\\\\u{1F533}",
+      "trigger": "ji:white-square-button\t🔳"
+    },
+    {
+      "contents": "\\\\u{26AA}",
+      "trigger": "ji:medium-white-circle\t⚪"
+    },
+    {
+      "contents": "\\\\u{26AB}",
+      "trigger": "ji:medium-black-circle\t⚫"
+    },
+    {
+      "contents": "\\\\u{1F534}",
+      "trigger": "ji:large-red-circle\t🔴"
+    },
+    {
+      "contents": "\\\\u{1F535}",
+      "trigger": "ji:large-blue-circle\t🔵"
+    },
+    {
+      "contents": "\\\\u{1F3C1}",
+      "trigger": "ji:chequered-flag\t🏁"
+    },
+    {
+      "contents": "\\\\u{1F6A9}",
+      "trigger": "ji:triangular-flag-on-post\t🚩"
+    },
+    {
+      "contents": "\\\\u{1F38C}",
+      "trigger": "ji:crossed-flags\t🎌"
+    },
+    {
+      "contents": "\\\\u{1F3F4}",
+      "trigger": "ji:waving-black-flag\t🏴"
+    },
+    {
+      "contents": "\\\\u{1F3F3}",
+      "trigger": "ji:waving-white-flag\t🏳"
+    }
+  ]
+}
