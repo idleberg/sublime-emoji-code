@@ -1,5 +1,5 @@
 {
-  "scope": "text.html",
+  "scope": "text.html.basic",
   "completions": [
     {
       "contents": "&#x1F600;",
