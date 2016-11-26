@@ -42,10 +42,6 @@ There's also a collection of [Sublime Text Packages](https://github.com/NSIS-Dev
 
 Since [package dependencies](https://packagecontrol.io/docs/dependencies) are handled by Package Control, manual installation is not advised! If you still want to install from source, you probably know what you are doing so we won’t cover that here.
 
-## Cheatsheet
-
- Take note of this list of [all supported emoji codes](cheatsheet.md).
-
 ## License
 
 This work is licensed under the [The MIT License](LICENSE.md).
