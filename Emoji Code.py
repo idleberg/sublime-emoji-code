@@ -1,5 +1,20 @@
 import os, sublime, sublime_plugin
 
+def plugin_loaded():
+    from package_control import events
+
+    me = os.path.basename(os.path.dirname(os.path.realpath(__file__)))
+
+    if events.install(me) or events.post_upgrade(me):
+        build()
+
+class BuildSnippetsCommand(sublime_plugin.TextCommand):
+
+    def run(self, edit):
+        build()
+
+# Helper Functions
+
 def write_completions(type, scope, prefix, suffix):
     import json
     from emojitations import emoji
@@ -36,7 +51,7 @@ def build():
     print("Emoji Code: Building Snippets")
 
     make_directory()
-    build_snippets()
+    make_completions()
 
 def make_directory():
     outpath = os.path.join(os.path.dirname(os.path.realpath(__file__)), "snippets")
@@ -44,23 +59,9 @@ def make_directory():
     if not os.path.exists(outpath):
         os.makedirs(outpath)
 
-def build_snippets():
+def make_completions():
     write_completions("css", ".source.css, .source.sass", "content: '\\\\", "';")
     write_completions("html", ".text.html", "&#x", ";")
     write_completions("javascript", ".source.js", "\\\\u", "")
     write_completions("python", ".source.python", "u'\\\\U", "'")
     write_completions("ruby", ".source.ruby", "\\\\u{", "}")
-
-
-def plugin_loaded():
-    from package_control import events
-
-    me = os.path.basename(os.path.dirname(os.path.realpath(__file__)))
-
-    if events.install(me) or events.post_upgrade(me):
-        build()
-
-class BuildSnippetsCommand(sublime_plugin.TextCommand):
-
-    def run(self, edit):
-        build()
