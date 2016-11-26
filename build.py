@@ -8,7 +8,6 @@ def write_completions(type, scope, prefix, suffix):
 
     for attr, value in emoji.__dict__.items():
         try:
-
             slug    = emoji.en[attr].slug.replace("_", "-")
             literal = emoji.en[attr].emoji
 
@@ -27,9 +26,7 @@ def write_completions(type, scope, prefix, suffix):
     }
 
     output = json.dumps(snippets, sort_keys=True, indent=True, separators=(',', ': '), ensure_ascii=False)
-
     outputFile = os.path.join(os.path.dirname(os.path.realpath(__file__)), "snippets", 'emoji-'+type+'.sublime-completions')
-
 
     with open(outputFile, 'w') as file_:
         file_.write(output)
@@ -42,15 +39,14 @@ def plugin_loaded():
     me = os.path.basename(os.path.dirname(os.path.realpath(__file__)))
 
     if events.install(me) or events.post_upgrade(me):
-
-        print("Emoji Code: Building Snippets")
-
         outpath = os.path.join(os.path.dirname(os.path.realpath(__file__)), "snippets")
 
         if not os.path.exists(outpath):
             os.makedirs(outpath)
 
         # Let's go!
+        print("Emoji Code: Building Snippets")
+
         write_completions("css", ".source.css, .source.sass", "content: '\\\\", "';")
         write_completions("html", ".text.html", "&#x", ";")
         write_completions("javascript", ".source.js", "\\\\u", "")
