@@ -1,4 +1,4 @@
-import os
+import os, sublime, sublime_plugin
 
 def write_completions(type, scope, prefix, suffix):
     import json
@@ -28,27 +28,39 @@ def write_completions(type, scope, prefix, suffix):
     output = json.dumps(snippets, sort_keys=True, indent=True, separators=(',', ': '), ensure_ascii=False)
     outputFile = os.path.join(os.path.dirname(os.path.realpath(__file__)), "snippets", 'emoji-'+type+'.sublime-completions')
 
-    with open(outputFile, 'w') as file_:
-        file_.write(output)
+    with open(outputFile, 'w') as file:
+        print("Emoji Code: Creating \"%s\"" % outputFile)
+        file.write(output)
+
+def build():
+    print("Emoji Code: Building Snippets")
+
+    make_directory()
+    build_snippets()
+
+def make_directory():
+    outpath = os.path.join(os.path.dirname(os.path.realpath(__file__)), "snippets")
+
+    if not os.path.exists(outpath):
+        os.makedirs(outpath)
+
+def build_snippets():
+    write_completions("css", ".source.css, .source.sass", "content: '\\\\", "';")
+    write_completions("html", ".text.html", "&#x", ";")
+    write_completions("javascript", ".source.js", "\\\\u", "")
+    write_completions("python", ".source.python", "u'\\\\U", "'")
+    write_completions("ruby", ".source.ruby", "\\\\u{", "}")
 
 
 def plugin_loaded():
     from package_control import events
 
-    # Get name of package
     me = os.path.basename(os.path.dirname(os.path.realpath(__file__)))
 
     if events.install(me) or events.post_upgrade(me):
-        outpath = os.path.join(os.path.dirname(os.path.realpath(__file__)), "snippets")
+        build()
 
-        if not os.path.exists(outpath):
-            os.makedirs(outpath)
+class BuildSnippetsCommand(sublime_plugin.TextCommand):
 
-        # Let's go!
-        print("Emoji Code: Building Snippets")
-
-        write_completions("css", ".source.css, .source.sass", "content: '\\\\", "';")
-        write_completions("html", ".text.html", "&#x", ";")
-        write_completions("javascript", ".source.js", "\\\\u", "")
-        write_completions("python", ".source.python", "u'\\\\U", "'")
-        write_completions("ruby", ".source.ruby", "\\\\u{", "}")
+    def run(self, edit):
+        build()
