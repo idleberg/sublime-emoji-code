@@ -5,7 +5,7 @@
 [![GitHub release](https://img.shields.io/github/release/idleberg/sublime-emoji-code.svg?style=flat-square)](https://github.com/idleberg/sublime-emoji-code/releases)
 [![Travis](https://img.shields.io/travis/idleberg/sublime-emoji-code.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-emoji-code)
 
-Sublime Text completions to insert escaped Emoji code into HTML, CSS, JavaScript and Ruby.
+Sublime Text completions to insert escaped Emoji code into HTML, CSS, JavaScript, Python, and Ruby.
 
 ![Screenshot](https://raw.github.com/idleberg/sublime-emoji-code/master/screenshot.gif)
 
@@ -38,10 +38,9 @@ With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/)
 
 There's also a collection of [Sublime Text Packages](https://github.com/NSIS-Dev/Sublime-Text-Packages) available as a Windows installer.
 
-### Using Git
+### Manual installation
 
-1. Change to your Sublime Text `Packages` directory
-2. Clone repository `git clone https://github.com/idleberg/sublime-emoji-code.git 'Emoji Code'`
+Since [package dependencies](https://packagecontrol.io/docs/dependencies) are handled by Package Control, manual installation is not advised! If you still want to install from source, you probably know what you are doing so we won’t cover that here.
 
 ## Cheatsheet
 
