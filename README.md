@@ -38,7 +38,7 @@ With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/)
 
 There's also a collection of [Sublime Text Packages](https://github.com/NSIS-Dev/Sublime-Text-Packages) available as a Windows installer.
 
-### GitHub
+### Using Git
 
 1. Change to your Sublime Text `Packages` directory
 2. Clone repository `git clone https://github.com/idleberg/sublime-emoji-code.git 'Emoji Code'`
