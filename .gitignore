@@ -1,6 +1,8 @@
 bower_components/
 node_modules/
 npm-debug.log
+snippets/
 src/
 todo.md
 vendor/
+yarn.lock
