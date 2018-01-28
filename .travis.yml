@@ -1,7 +1,8 @@
 sudo: false
 language: node_js
 node_js:
-  - "6"
+  - "node"
+  - "lts/*"
 git:
   depth: 1
 branches:
@@ -9,6 +10,7 @@ branches:
   - master
 cache:
   timeout: 1800
+  yarn: true
   directories:
     - node_modules
 env:
