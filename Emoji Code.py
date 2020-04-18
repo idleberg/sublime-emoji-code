@@ -61,7 +61,7 @@ def make_directory():
 
 def make_completions():
     write_completions("css", ".source.css, .source.sass", "content: '\\\\", "';")
-    write_completions("html", ".text.html", "&#x", ";")
+    write_completions("html", ".source.svelte, .text.html", "&#x", ";")
     write_completions("javascript", ".source.js", "\\\\u", "")
     write_completions("python", ".source.python", "u'\\\\U", "'")
     write_completions("ruby", ".source.ruby", "\\\\u{", "}")
