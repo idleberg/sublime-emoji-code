@@ -26,7 +26,7 @@ def write_completions(type, scope, prefix, suffix):
             slug    = emoji.en[attr].slug.replace("_", "-")
             literal = emoji.en[attr].emoji
 
-            codepoint = hex(emoji.en[attr].codepoints[0]).split('x')[1]
+            codepoint = hex(emoji.en[attr].codepoints[0]).split("x")[1]
 
             body = prefix + codepoint + suffix
             trigger  = "ji:" + slug + "\t" + literal
@@ -40,10 +40,10 @@ def write_completions(type, scope, prefix, suffix):
         "completions": completions
     }
 
-    output = json.dumps(snippets, sort_keys=True, indent=True, separators=(',', ': '), ensure_ascii=False)
-    outputFile = os.path.join(os.path.dirname(os.path.realpath(__file__)), "snippets", 'emoji-'+type+'.sublime-completions')
+    output = json.dumps(snippets, sort_keys=True, indent=True, separators=(",", ": "), ensure_ascii=False)
+    outputFile = os.path.join(os.path.dirname(os.path.realpath(__file__)), "snippets", "emoji-"+type+".sublime-completions")
 
-    with open(outputFile, 'w') as file:
+    with open(outputFile, "w", encoding="utf-8") as file:
         print("Emoji Code: Creating \"%s\"" % outputFile)
         file.write(output)
 
